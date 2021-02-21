@@ -20,6 +20,14 @@ The sophisticated regulatory network of the flavonoid biosnythesis contains memb
 While the flavonoid biosynthesis is present in (almost) all land plants, certain branches are not. One famemous example is the mutual exclusion of anthocyanins and betalains in the Caryophyllales. The yellow to red betalains are another pigment group which replaced anthocyanins in several families of the Caryophyllales. Both pigments have never reported together in the same tissue and the same species.
 
 
+### Automatic annotation of the flavonoid biosynthesis ###
+Do you have a new transcriptome and genome assembly of a plant species? If you are interested in studying the flavonoid biosynthesis, [KIPEs](https://github.com/bpucker/KIPEs) [(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm) could be helpful. KIPEs produces an annotation of the flavonoid biosynthesis players based on knowledge about the flavonoid biosynthesis in other species. A table of the involved genes and phylogenetic trees of all players in the pathways can serve as basis to investigate the flavonoid biosynthesis in a new species.
+
+
+## Tweets with addtional background ##
+
+
+
 
 ## References ##
 
