@@ -29,5 +29,9 @@ Do you have a new transcriptome and genome assembly of a plant species? If you a
 
 
 
+## Contact ##
+Do you have a recent publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
+
+
 ## References ##
 
