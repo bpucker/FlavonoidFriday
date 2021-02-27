@@ -17,7 +17,7 @@ Fig. 1: Simplified overview of the flavonoid biosynthesis. (source:[(Pucker et a
 The sophisticated regulatory network of the flavonoid biosnythesis contains members of numerous transcription factor families. Among the important families are MYBs, bHLHs, WD40s, NACs, and WRKYs. Some MYBs, bHLHs, and WD40s form a complex which is called MBW.
 
 ### Mutual Exclusion of Anthocyanins and Betalains ###
-While the flavonoid biosynthesis is present in (almost) all land plants, certain branches are not. One famemous example is the mutual exclusion of anthocyanins and betalains in the Caryophyllales. The yellow to red betalains are another pigment group which replaced anthocyanins in several families of the Caryophyllales. Both pigments have never reported together in the same tissue and the same species.
+While the flavonoid biosynthesis is present in (almost) all land plants, certain branches are not. One famemous example is the mutual exclusion of anthocyanins and betalains in the Caryophyllales. The yellow to red betalains are tyrosine-derived pigment group which replaced anthocyanins in several families of the Caryophyllales. Both pigments have never reported together in the same tissue and the same species. Please see [Timoneda *et al*., 2019](https://doi.org/10.1111/nph.15980) for a recent review of the complex pigment evolution in the Caryophyllales.
 
 
 ### Automatic annotation of the flavonoid biosynthesis ###
@@ -42,4 +42,9 @@ Do you have a recent publication about the flavonoid biosynthesis that could be 
 
 
 ## References ##
+Pucker, B., Reiher, F. and Schilbert, H. M. Automatic identification of players in the flavonoid biosynthesis with application on the biomedicinal plant Croton tiglium. Plants 2020, 9, 1103. doi:[10.3390/plants9091103](https://www.mdpi.com/2223-7747/9/9/1103/htm).
+
+Timoneda, A., Feng, T., Sheehan, H., Walker-Hale, N., Pucker, B., Lopez-Nieves, S., Guo, R., Brockington, S. (2019). The evolution of betalain biosynthesis in Caryophyllales. New Phytologist. doi:[10.1111/nph.15980](https://doi.org/10.1111/nph.15980)
+
+
 
