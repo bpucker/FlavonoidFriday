@@ -33,6 +33,10 @@ Do you have a new transcriptome and genome assembly of a plant species? If you a
 The background about this tweet is described above in the general introduction to the flavonoid biosynthesis.
 
 
+### (2) Flavonol biosynthesis is an old branch of the flavonoid biosynthesis ###
+
+
+### (3) Anthocyanins are colourful pigments ###
 
 
 
