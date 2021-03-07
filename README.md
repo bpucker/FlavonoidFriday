@@ -34,10 +34,10 @@ The background about this tweet is described above in the general introduction t
 
 
 ### (2) Flavonol biosynthesis is an old branch of the flavonoid biosynthesis ###
-
+Flavonols are an evolutionary old group of flavonoids. Their functions include UV & ROS protection, but also signaling & regulation of developmental processes. Flavonol production is triggered by biotic and abiotic factors #FlavonoidFriday (src: https://bit.ly/3q5Ggei)
 
 ### (3) Anthocyanins are colourful pigments ###
-
+Anthocyanins (Greek: 'blue flower') are pigments with pH-dependent colours ranging from red to blue. Their functions include attraction of animals for pollination & seed dispersal, but also protection against abiotic stressors. #FlavonoidFriday (details: https://bit.ly/3uEZz1F)
 
 
 
