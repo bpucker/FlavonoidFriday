@@ -40,6 +40,7 @@ The background about this tweet is described above in the general introduction t
 ### (3) Anthocyanins are colourful pigments ###
 > **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Anthocyanins (Greek: 'blue flower') are pigments with pH-dependent colours ranging from red to blue. Their functions include attraction of animals for pollination & seed dispersal, but also protection against abiotic stressors. #FlavonoidFriday (details: https://bit.ly/3uEZz1F)
 
+While anthocyanins are well known for their colour, it is likely that additional functions in stress response might be even more important (reviewed by Landi et al., 2015).
 
 
 
@@ -52,5 +53,8 @@ Pucker, B., Reiher, F. and Schilbert, H. M. Automatic identification of players 
 
 Timoneda, A., Feng, T., Sheehan, H., Walker-Hale, N., Pucker, B., Lopez-Nieves, S., Guo, R., Brockington, S. (2019). The evolution of betalain biosynthesis in Caryophyllales. New Phytologist. doi:[10.1111/nph.15980](https://doi.org/10.1111/nph.15980)
 
+Susanna Pollastri, Massimiliano Tattini, Flavonols: old compounds for old roles, Annals of Botany, Volume 108, Issue 7, November 2011, Pages 1225–1233, doi:[10.1093/aob/mcr234](https://doi.org/10.1093/aob/mcr234)
+
+Landi, M. et al. "Multiple functional roles of anthocyanins in plant-environment interactions." Environmental and Experimental Botany 119 (2015): 4-17.
 
 
