@@ -43,7 +43,7 @@ The background about this tweet is described above in the general introduction t
 While anthocyanins are well known for their colour, it is likely that additional functions in stress response might be even more important (reviewed by Landi et al., 2015).
 
 ### (4) Proanthocyanidins are responsible for seed coat colouration ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Proanthocyanidins (PA) are responsible for a dark appearance of seed coats. The biosynthesis of PAs is not completely understood and probably differs between species #FlavonoidFriday (details:https://bit.ly/38XTBjk)
+> **_<a href="https://twitter.com/boas_pucker/status/1372820142980272130">TWEET</a>:_** Proanthocyanidins (PA) are responsible for a dark appearance of seed coats. The biosynthesis of PAs is not completely understood and probably differs between species #FlavonoidFriday (details:https://bit.ly/38XTBjk)
 
 LAR and ANR are involved in the PA biosynthesis in many species. However, A. thaliana lacks LAR, but is still able to produce proanthocyanidins which provide a dark colouration to the seed coat.
 
