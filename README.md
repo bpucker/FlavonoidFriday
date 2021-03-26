@@ -49,7 +49,7 @@ LAR and ANR are involved in the PA biosynthesis in many species. However, A. tha
 
 ### (5) Dietary Flavonoids ###
 
-> **_<a href="">TWEET</a>:_** Flavonoids are abundant phytochemicals in fruits and vegetables. Health and nutritional benefits were reported for several flavonoids including antioxidant and anti-inflammatory functions #FlavonoidFriday (details:https://bit.ly/3w3hksj)
+> **_<a href="https://twitter.com/boas_pucker/status/1375356855279570947">TWEET</a>:_** Flavonoids are abundant phytochemicals in fruits and vegetables. Health and nutritional benefits were reported for several flavonoids including antioxidant and anti-inflammatory functions #FlavonoidFriday (details:https://bit.ly/3w3hksj)
 
 
 Flavonoids are not just responsible for beautiful flower phenotypes. These molecules can also be beneficial for human health. Flavonoids in the human diet and the potential for biomedical/biotechnological applications in the future were recently reviewed by [Ahn-Jarvis et al.](https://doi.org/10.3390/antiox8070202). They discus the releveance of increasing the bioavailability of flavonoids through agricultural engineering and targeted food design. The anti-proliferative, antioxidant, anti-inflammatory, and estrogenic activities of flavonoids could be harnessed to support classical treatments. While flavonoids show promising effects in cellular studies, the applied concentrations are almost impossible to reach with conventional food products. Changing the food processing might be one option to enhance the bioavailability. However, the bioavailability of flavonoids also depends on host factors like age and gender. Further research is required to understand the relevance of the nutrition in complex diseases.
