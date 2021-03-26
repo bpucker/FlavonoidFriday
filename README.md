@@ -47,6 +47,10 @@ While anthocyanins are well known for their colour, it is likely that additional
 
 LAR and ANR are involved in the PA biosynthesis in many species. However, A. thaliana lacks LAR, but is still able to produce proanthocyanidins which provide a dark colouration to the seed coat.
 
+### (5) Dietary Flavonoids ###
+
+
+
 
 ## Contact ##
 Do you have a recent publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
