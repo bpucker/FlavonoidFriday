@@ -55,6 +55,16 @@ LAR and ANR are involved in the PA biosynthesis in many species. However, A. tha
 Flavonoids are not just responsible for beautiful flower phenotypes. These molecules can also be beneficial for human health. Flavonoids in the human diet and the potential for biomedical/biotechnological applications in the future were recently reviewed by [Ahn-Jarvis et al.](https://doi.org/10.3390/antiox8070202). They discus the releveance of increasing the bioavailability of flavonoids through agricultural engineering and targeted food design. The anti-proliferative, antioxidant, anti-inflammatory, and estrogenic activities of flavonoids could be harnessed to support classical treatments. While flavonoids show promising effects in cellular studies, the applied concentrations are almost impossible to reach with conventional food products. Changing the food processing might be one option to enhance the bioavailability. However, the bioavailability of flavonoids also depends on host factors like age and gender. Further research is required to understand the relevance of the nutrition in complex diseases.
 
 
+### (6) Colours of Anthocyanins ###
+
+> **_<a href="">TWEET</a>:_** CONTENT
+
+
+Pelargonidin (Pg), cyanidin (Cy), peonidin (Pn), delphinidin (Dp), petunidin (Pt) and malvidin (Mv) are the six most common anthocyanidins [Sun et al., 2012](https://onlinelibrary.wiley.com/doi/full/10.1002/rcm.6209). Anthocyanidins are unstable until sugar groups are attached. This modification step converts anthocyanidins (aglycones) into anthcyanins. Anthocyanins are contribute to a wide range of colours ranging from red to mangenta (cyanin), from orange to red (pelargonin), and from magenta to purple (delphinin) [Ferreyra et al., 2012](https://doi.org/10.3389/fpls.2012.00222).
+
+
+
+
 
 ## Contact ##
 Do you have a recent publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
