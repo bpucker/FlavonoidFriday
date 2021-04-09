@@ -79,4 +79,7 @@ Susanna Pollastri, Massimiliano Tattini, Flavonols: old compounds for old roles,
 
 Landi, M. et al. "Multiple functional roles of anthocyanins in plant-environment interactions." Environmental and Experimental Botany 119 (2015): 4-17.
 
+Ahn-Jarvis, J.H.; Parihar, A.; Doseff, A.I. Dietary Flavonoids for Immunoregulation and Cancer: Food Design for Targeting Disease. Antioxidants 2019, 8, 202. doi:[10.3390/antiox8070202](https://doi.org/10.3390/antiox8070202)
+
+Sun, J., Lin, L.‐z. and Chen, P. (2012), Study of the mass spectrometric behaviors of anthocyanins in negative ionization mode and its applications for characterization of anthocyanins and non‐anthocyanin polyphenols. Rapid Commun. Mass Spectrom., 26: 1123-1133. doi:[10.1002/rcm.6209](https://doi.org/10.1002/rcm.6209)
 
