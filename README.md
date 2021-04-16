@@ -63,6 +63,13 @@ Flavonoids are not just responsible for beautiful flower phenotypes. These molec
 Pelargonidin (Pg), cyanidin (Cy), peonidin (Pn), delphinidin (Dp), petunidin (Pt) and malvidin (Mv) are the six most common anthocyanidins ([Sun et al., 2012](https://onlinelibrary.wiley.com/doi/full/10.1002/rcm.6209)). Anthocyanidins are unstable until sugar groups are attached. This modification step converts anthocyanidins (aglycones) into anthcyanins. Anthocyanins are contribute to a wide range of colours ranging from red to mangenta (cyanin), from orange to red (pelargonin), and from magenta to purple (delphinin) ([Ferreyra et al., 2012](https://doi.org/10.3389/fpls.2012.00222)).
 
 
+### (7) Replacement of Anthocyanins by Betalains ###
+
+> **_<a href="https://doi.org/10.1111/nph.15980">TWEET</a>:_** While anthocyanins are present in most plant species, they are replaced by another group of pigments in some families of the Caryophyllales: betalains. #FlavonoidFriday
+(src:https://doi.org/10.1111/nph.15980)
+
+
+Both pigments (anthocyanins and betalains) were never observed together in the same plant which resulted in the mutual exclusion theory. A molecular mechanism which could cause this mutual exclusion is not known yet. Betalains do not occur in plant species outside the Caryophyllales. The current knowledge about the evolution of the betalain biosynthesis was recently reviewed in [Timoneda et al., 2019](https://doi.org/10.1111/nph.15980).
 
 
 
