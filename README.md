@@ -72,6 +72,25 @@ Pelargonidin (Pg), cyanidin (Cy), peonidin (Pn), delphinidin (Dp), petunidin (Pt
 Both pigments (anthocyanins and betalains) were never observed together in the same plant which resulted in the mutual exclusion theory. A molecular mechanism which could cause this mutual exclusion is not known yet. Betalains do not occur in plant species outside the Caryophyllales. The current knowledge about the evolution of the betalain biosynthesis was recently reviewed in [Timoneda et al., 2019](https://doi.org/10.1111/nph.15980).
 
 
+### (8) Anthocyanins - more than just colourful ###
+
+> **_<a href="https://doi.org/10.1111/nph.15980">TWEET</a>:_** Anthocyanins are not just colourful pigments, but have additional funtions:
+1) metal-chelating agent
+2) photoprotection & antioxidant
+3) modulator of ROS signaling
+4) delay nutrient-deficiency promoted senescence?
+#FlavonoidFriday (details: )
+
+
+
+Anthocyanins are well known for the colouring of flowers and other plant tissue. However, the evolution of these pigments might not only be due to the colour. It is possible that additional functions provided evolutionary advantages. A publication by [Landi et al., 2015](https://doi.org/10.1016/j.envexpbot.2015.05.012) describes some of these functions:
+1) Anthocyanins can serve as metal-chelating agents.
+2) Anthocyanins can have a photoprotective and antioxidant effect.
+3) The ROS signaling can be modulated by anthocyanins.
+4) It seems that anthocyanins can delay senescencs that is promoted by nutient deficiency.
+The functions and possible also additional ones can contribute differently to the evolutionary value of anthocyanins in numerous land plant species.
+
+
 
 ## Contact ##
 Do you have a recent publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
