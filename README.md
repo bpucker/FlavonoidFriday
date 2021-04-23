@@ -92,6 +92,10 @@ Do you have a recent publication about the flavonoid biosynthesis that could be 
 
 
 ## References ##
+
+<details>
+<summary>(click to expand)</summary>
+<p>
 Pucker, B., Reiher, F. and Schilbert, H. M. Automatic identification of players in the flavonoid biosynthesis with application on the biomedicinal plant Croton tiglium. Plants 2020, 9, 1103. doi:[10.3390/plants9091103](https://www.mdpi.com/2223-7747/9/9/1103/htm).
 
 Timoneda, A., Feng, T., Sheehan, H., Walker-Hale, N., Pucker, B., Lopez-Nieves, S., Guo, R., Brockington, S. (2019). The evolution of betalain biosynthesis in Caryophyllales. New Phytologist. doi:[10.1111/nph.15980](https://doi.org/10.1111/nph.15980)
@@ -103,4 +107,6 @@ Landi, M. et al. "Multiple functional roles of anthocyanins in plant-environment
 Ahn-Jarvis, J.H.; Parihar, A.; Doseff, A.I. Dietary Flavonoids for Immunoregulation and Cancer: Food Design for Targeting Disease. Antioxidants 2019, 8, 202. doi:[10.3390/antiox8070202](https://doi.org/10.3390/antiox8070202)
 
 Sun, J., Lin, L.‐z. and Chen, P. (2012), Study of the mass spectrometric behaviors of anthocyanins in negative ionization mode and its applications for characterization of anthocyanins and non‐anthocyanin polyphenols. Rapid Commun. Mass Spectrom., 26: 1123-1133. doi:[10.1002/rcm.6209](https://doi.org/10.1002/rcm.6209)
+</p>
+</details>
 
