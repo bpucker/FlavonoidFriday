@@ -65,7 +65,7 @@ Pelargonidin (Pg), cyanidin (Cy), peonidin (Pn), delphinidin (Dp), petunidin (Pt
 
 ### (7) Replacement of Anthocyanins by Betalains ###
 
-> **_<a href="https://doi.org/10.1111/nph.15980">TWEET</a>:_** While anthocyanins are present in most plant species, they are replaced by another group of pigments in some families of the Caryophyllales: betalains. #FlavonoidFriday
+> **_<a href="https://twitter.com/boas_pucker/status/1382951896089038849">TWEET</a>:_** While anthocyanins are present in most plant species, they are replaced by another group of pigments in some families of the Caryophyllales: betalains. #FlavonoidFriday
 (src:https://doi.org/10.1111/nph.15980)
 
 
@@ -74,7 +74,7 @@ Both pigments (anthocyanins and betalains) were never observed together in the s
 
 ### (8) Anthocyanins - more than just colourful ###
 
-> **_<a href="https://doi.org/10.1111/nph.15980">TWEET</a>:_** Anthocyanins are not just colourful pigments, but have additional funtions: 1) metal-chelating agent 2) photoprotection & antioxidant 3) modulator of ROS signaling 4) delay of senescence #FlavonoidFriday (details: https://bit.ly/32Fvoup)
+> **_<a href="https://twitter.com/boas_pucker/status/1385473515101503489">TWEET</a>:_** Anthocyanins are not just colourful pigments, but have additional funtions: 1) metal-chelating agent 2) photoprotection & antioxidant 3) modulator of ROS signaling 4) delay of senescence #FlavonoidFriday (details: https://bit.ly/32Fvoup)
 
 
 
