@@ -74,7 +74,7 @@ Both pigments (anthocyanins and betalains) were never observed together in the s
 
 ### (8) Anthocyanins - more than just colourful ###
 
-> **_<a href="https://doi.org/10.1111/nph.15980">TWEET</a>:_** Anthocyanins are not just colourful pigments, but have additional funtions: 1) metal-chelating agent 2) photoprotection & antioxidant 3) modulator of ROS signaling 4) delay nutrient-deficiency promoted senescence? #FlavonoidFriday (details: https://bit.ly/32Fvoup)
+> **_<a href="https://doi.org/10.1111/nph.15980">TWEET</a>:_** Anthocyanins are not just colourful pigments, but have additional funtions: 1) metal-chelating agent 2) photoprotection & antioxidant 3) modulator of ROS signaling 4) delay of senescence #FlavonoidFriday (details: https://bit.ly/32Fvoup)
 
 
 
