@@ -48,18 +48,31 @@ The background about this tweet is described above in the general introduction t
 
 
 ### (3) Anthocyanins are colourful pigments ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Anthocyanins (Greek: 'blue flower') are pigments with pH-dependent colours ranging from red to blue. Their functions include attraction of animals for pollination & seed dispersal, but also protection against abiotic stressors. #FlavonoidFriday (details: https://bit.ly/3uEZz1F)
+> **_<a href="https://twitter.com/boas_pucker/status/1370283419763105793">TWEET</a>:_** Anthocyanins (Greek: 'blue flower') are pigments with pH-dependent colours ranging from red to blue. Their functions include attraction of animals for pollination & seed dispersal, but also protection against abiotic stressors. #FlavonoidFriday (details: https://bit.ly/3uEZz1F)
+
+<a href="https://twitter.com/boas_pucker/status/1370283419763105793">
+<img alt="Anthocyanins (Tweet #3)" src="https://pbs.twimg.com/media/EvVbCduXMAEDII8?format=jpg&name=medium" width="20%" height="20%">
+</a>
+
 
 While anthocyanins are well known for their colour, it is likely that additional functions in stress response might be even more important (reviewed by Landi et al., 2015).
 
 ### (4) Proanthocyanidins are responsible for seed coat colouration ###
 > **_<a href="https://twitter.com/boas_pucker/status/1372820142980272130">TWEET</a>:_** Proanthocyanidins (PA) are responsible for a dark appearance of seed coats. The biosynthesis of PAs is not completely understood and probably differs between species #FlavonoidFriday (details:https://bit.ly/38XTBjk)
 
+<a href="https://twitter.com/boas_pucker/status/1372820142980272130">
+<img alt="Proanthocyanidins (Tweet #4)" src="https://pbs.twimg.com/media/EwyzS7hWYAI6zQZ?format=jpg&name=medium" width="20%" height="20%">
+</a>
+
 LAR and ANR are involved in the PA biosynthesis in many species. However, A. thaliana lacks LAR, but is still able to produce proanthocyanidins which provide a dark colouration to the seed coat. This indicates that there must be a PA biosynthesis pathway which does not require LAR.
 
 ### (5) Dietary Flavonoids ###
 
 > **_<a href="https://twitter.com/boas_pucker/status/1375356855279570947">TWEET</a>:_** Flavonoids are abundant phytochemicals in fruits and vegetables. Health and nutritional benefits were reported for several flavonoids including antioxidant and anti-inflammatory functions #FlavonoidFriday (details:https://bit.ly/3w3hksj)
+
+<a href="https://twitter.com/boas_pucker/status/1375356855279570947">
+<img alt="Dietary Flavonoids (Tweet #5)" src="https://pbs.twimg.com/media/ExYtlWkWEAEworj?format=jpg&name=4096x4096" width="20%" height="20%">
+</a>
 
 
 Flavonoids are not just responsible for beautiful flower phenotypes. These molecules can also be beneficial for human health. Flavonoids in the human diet and the potential for biomedical/biotechnological applications in the future were recently reviewed by [Ahn-Jarvis et al.](https://doi.org/10.3390/antiox8070202). They discus the releveance of increasing the bioavailability of flavonoids through agricultural engineering and targeted food design. The anti-proliferative, antioxidant, anti-inflammatory, and estrogenic activities of flavonoids could be harnessed to support classical treatments. While flavonoids show promising effects in cellular studies, the applied concentrations are almost impossible to reach with conventional food products. Changing the food processing might be one option to enhance the bioavailability. However, the bioavailability of flavonoids also depends on host factors like age and gender. Further research is required to understand the relevance of the nutrition in complex diseases.
