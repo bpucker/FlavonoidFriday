@@ -51,7 +51,7 @@ The background about this tweet is described above in the general introduction t
 > **_<a href="https://twitter.com/boas_pucker/status/1370283419763105793">TWEET</a>:_** Anthocyanins (Greek: 'blue flower') are pigments with pH-dependent colours ranging from red to blue. Their functions include attraction of animals for pollination & seed dispersal, but also protection against abiotic stressors. #FlavonoidFriday (details: https://bit.ly/3uEZz1F)
 
 <a href="https://twitter.com/boas_pucker/status/1370283419763105793">
-<img alt="Anthocyanins (Tweet #3)" src="https://pbs.twimg.com/media/EvVbCduXMAEDII8?format=jpg&name=medium" width="20%" height="20%">
+<img alt="Anthocyanins (Tweet #3)" src="https://pbs.twimg.com/media/EvVbCduXMAEDII8?format=jpg&name=medium" width="30%" height="30%">
 </a>
 
 
@@ -61,7 +61,7 @@ While anthocyanins are well known for their colour, it is likely that additional
 > **_<a href="https://twitter.com/boas_pucker/status/1372820142980272130">TWEET</a>:_** Proanthocyanidins (PA) are responsible for a dark appearance of seed coats. The biosynthesis of PAs is not completely understood and probably differs between species #FlavonoidFriday (details:https://bit.ly/38XTBjk)
 
 <a href="https://twitter.com/boas_pucker/status/1372820142980272130">
-<img alt="Proanthocyanidins (Tweet #4)" src="https://pbs.twimg.com/media/EwyzS7hWYAI6zQZ?format=jpg&name=medium" width="20%" height="20%">
+<img alt="Proanthocyanidins (Tweet #4)" src="https://pbs.twimg.com/media/EwyzS7hWYAI6zQZ?format=jpg&name=medium" width="30%" height="30%">
 </a>
 
 LAR and ANR are involved in the PA biosynthesis in many species. However, A. thaliana lacks LAR, but is still able to produce proanthocyanidins which provide a dark colouration to the seed coat. This indicates that there must be a PA biosynthesis pathway which does not require LAR.
@@ -71,7 +71,7 @@ LAR and ANR are involved in the PA biosynthesis in many species. However, A. tha
 > **_<a href="https://twitter.com/boas_pucker/status/1375356855279570947">TWEET</a>:_** Flavonoids are abundant phytochemicals in fruits and vegetables. Health and nutritional benefits were reported for several flavonoids including antioxidant and anti-inflammatory functions #FlavonoidFriday (details:https://bit.ly/3w3hksj)
 
 <a href="https://twitter.com/boas_pucker/status/1375356855279570947">
-<img alt="Dietary Flavonoids (Tweet #5)" src="https://pbs.twimg.com/media/ExYtlWkWEAEworj?format=jpg&name=4096x4096" width="20%" height="20%">
+<img alt="Dietary Flavonoids (Tweet #5)" src="https://pbs.twimg.com/media/ExYtlWkWEAEworj?format=jpg&name=4096x4096" width="40%" height="40%">
 </a>
 
 
@@ -82,6 +82,10 @@ Flavonoids are not just responsible for beautiful flower phenotypes. These molec
 
 > **_<a href="https://twitter.com/boas_pucker/status/1380415184741801984">TWEET</a>:_** Pelargonidin, cyanidin, peonidin, delphinidin, petunidin and malvidin are among the most common precursors of anthocyanins. #FlavonoidFriday (details: https://bit.ly/3d3BA5v)
 
+<a href="https://twitter.com/boas_pucker/status/1380415184741801984">
+<img alt="Colours of Anthocyanins (Tweet #6)" src="https://pbs.twimg.com/media/EygvdJdWEAoTWyK?format=jpg&name=900x900" width="30%" height="30%">
+</a>
+
 
 Pelargonidin (Pg), cyanidin (Cy), peonidin (Pn), delphinidin (Dp), petunidin (Pt) and malvidin (Mv) are the six most common anthocyanidins ([Sun et al., 2012](https://onlinelibrary.wiley.com/doi/full/10.1002/rcm.6209)). Anthocyanidins are unstable until sugar groups are attached. This modification step converts anthocyanidins (aglycones) into anthcyanins. Anthocyanins are contribute to a wide range of colours ranging from red to mangenta (cyanin), from orange to red (pelargonin), and from magenta to purple (delphinin) ([Ferreyra et al., 2012](https://doi.org/10.3389/fpls.2012.00222)).
 
@@ -91,6 +95,10 @@ Pelargonidin (Pg), cyanidin (Cy), peonidin (Pn), delphinidin (Dp), petunidin (Pt
 > **_<a href="https://twitter.com/boas_pucker/status/1382951896089038849">TWEET</a>:_** While anthocyanins are present in most plant species, they are replaced by another group of pigments in some families of the Caryophyllales: betalains. #FlavonoidFriday
 (src:https://doi.org/10.1111/nph.15980)
 
+<a href="https://twitter.com/boas_pucker/status/1382951896089038849">
+<img alt="Replacement of Anthocyanins by Betalains (Tweet #7)" src="https://pbs.twimg.com/media/EzEFv8lWEAAoA3H?format=jpg&name=large" width="30%" height="30%">
+</a>
+
 
 Both pigments (anthocyanins and betalains) were never observed together in the same plant which resulted in the mutual exclusion theory. A molecular mechanism which could cause this mutual exclusion is not known yet. Betalains do not occur in plant species outside the Caryophyllales. The current knowledge about the evolution of the betalain biosynthesis was recently reviewed in [Timoneda et al., 2019](https://doi.org/10.1111/nph.15980).
 
@@ -99,6 +107,9 @@ Both pigments (anthocyanins and betalains) were never observed together in the s
 
 > **_<a href="https://twitter.com/boas_pucker/status/1385473515101503489">TWEET</a>:_** Anthocyanins are not just colourful pigments, but have additional funtions: 1) metal-chelating agent 2) photoprotection & antioxidant 3) modulator of ROS signaling 4) delay of senescence #FlavonoidFriday (details: https://bit.ly/32Fvoup)
 
+<a href="https://twitter.com/boas_pucker/status/1385473515101503489">
+<img alt="Anthocyanins - more than just colourful (Tweet #8)" src="https://pbs.twimg.com/media/Ezou1oRWQAApjzb?format=png&name=900x900" width="30%" height="30%">
+</a>
 
 
 Anthocyanins are well known for the colouring of flowers and other plant tissue. However, the evolution of these pigments might not only be due to the colour. It is possible that additional functions provided evolutionary advantages. A publication by [Landi et al., 2015](https://doi.org/10.1016/j.envexpbot.2015.05.012) describes some of these functions:
