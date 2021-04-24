@@ -31,7 +31,7 @@ Do you have a new transcriptome and genome assembly of a plant species? If you a
 > **_<a href="https://twitter.com/boas_pucker/status/1365194891475750916">TWEET</a>:_** Flavonoids are a large group of phenylalanine-derived specialized metabolites in plants. Branches of the biosynthesis lead to flavonols, anthocyanins, proanthocyanins, flavones, and others. #FlavonoidFriday (src: https://bit.ly/2NRPlKw)
 
 <a href="https://www.mdpi.com/2223-7747/9/9/1103/htm">
-<img alt="Flavonoid biosynthesis pathway overview" src="https://twitter.com/boas_pucker/status/1365194891475750916/photo/1" width="10%" height="10%">
+<img alt="Flavonoid biosynthesis pathway overview" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096" width="10%" height="10%">
 </a>  
 
 
