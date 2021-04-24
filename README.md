@@ -71,7 +71,7 @@ LAR and ANR are involved in the PA biosynthesis in many species. However, A. tha
 > **_<a href="https://twitter.com/boas_pucker/status/1375356855279570947">TWEET</a>:_** Flavonoids are abundant phytochemicals in fruits and vegetables. Health and nutritional benefits were reported for several flavonoids including antioxidant and anti-inflammatory functions #FlavonoidFriday (details:https://bit.ly/3w3hksj)
 
 <a href="https://twitter.com/boas_pucker/status/1375356855279570947">
-<img alt="Dietary Flavonoids (Tweet #5)" src="https://pbs.twimg.com/media/ExYtlWkWEAEworj?format=jpg&name=4096x4096" width="40%" height="40%">
+<img alt="Dietary Flavonoids (Tweet #5)" src="https://pbs.twimg.com/media/ExYtlWkWEAEworj?format=jpg&name=4096x4096" width="80%" height="80%">
 </a>
 
 
@@ -83,7 +83,7 @@ Flavonoids are not just responsible for beautiful flower phenotypes. These molec
 > **_<a href="https://twitter.com/boas_pucker/status/1380415184741801984">TWEET</a>:_** Pelargonidin, cyanidin, peonidin, delphinidin, petunidin and malvidin are among the most common precursors of anthocyanins. #FlavonoidFriday (details: https://bit.ly/3d3BA5v)
 
 <a href="https://twitter.com/boas_pucker/status/1380415184741801984">
-<img alt="Colours of Anthocyanins (Tweet #6)" src="https://pbs.twimg.com/media/EygvdJdWEAoTWyK?format=jpg&name=900x900" width="30%" height="30%">
+<img alt="Colours of Anthocyanins (Tweet #6)" src="https://pbs.twimg.com/media/EygvdJdWEAoTWyK?format=jpg&name=900x900" width="40%" height="40%">
 </a>
 
 
