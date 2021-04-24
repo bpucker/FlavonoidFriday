@@ -30,9 +30,9 @@ Do you have a new transcriptome and genome assembly of a plant species? If you a
 ### (1) General Flavonoid Biosynthesis Overview ###
 > **_<a href="https://twitter.com/boas_pucker/status/1365194891475750916">TWEET</a>:_** Flavonoids are a large group of phenylalanine-derived specialized metabolites in plants. Branches of the biosynthesis lead to flavonols, anthocyanins, proanthocyanins, flavones, and others. #FlavonoidFriday (src: https://bit.ly/2NRPlKw)
 
-<a href="https://www.mdpi.com/2223-7747/9/9/1103/htm">
-<img alt="Flavonoid biosynthesis pathway overview" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096" width="10%" height="10%">
-</a>  
+<a href="https://twitter.com/boas_pucker/status/1365194891475750916">
+<img alt="Flavonoid biosynthesis pathway overview (Tweet #1)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096" width="20%" height="20%">
+</a>
 
 
 The background about this tweet is described above in the general introduction to the flavonoid biosynthesis.
@@ -40,6 +40,11 @@ The background about this tweet is described above in the general introduction t
 
 ### (2) Flavonol biosynthesis is an old branch of the flavonoid biosynthesis ###
 > **_<a href="https://twitter.com/boas_pucker/status/1367746709913145345">TWEET</a>:_** Flavonols are an evolutionary old group of flavonoids. Their functions include UV & ROS protection, but also signaling & regulation of developmental processes. Flavonol production is triggered by biotic and abiotic factors #FlavonoidFriday (src: https://bit.ly/3q5Ggei)
+
+<a href="https://twitter.com/boas_pucker/status/1365194891475750916">
+<img alt="Flavonol biosynthesis pathway (Tweet #2)" src="https://pbs.twimg.com/media/EvVYRu-XUAY864Q?format=png&name=900x900" width="20%" height="20%">
+</a>
+
 
 
 ### (3) Anthocyanins are colourful pigments ###
