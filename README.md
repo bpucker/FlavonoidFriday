@@ -120,6 +120,9 @@ Anthocyanins are well known for the colouring of flowers and other plant tissue.
 The functions and possible also additional ones can contribute differently to the evolutionary value of anthocyanins in numerous land plant species.
 
 
+### (9) Red leaf colour of _Perilla frutescens_ ###
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
