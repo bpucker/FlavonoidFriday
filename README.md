@@ -122,7 +122,7 @@ The functions and possible also additional ones can contribute differently to th
 
 ### (9) Red leaf colour of _Perilla frutescens_ ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** A relative increase of anthocyanin biosynthesis over flavonol biosynthesis seems to explain the leaf colour difference between the Perilla frutescens cultivars JIZI1 and JIZI2. #FlavonoidFriday (details: https://bit.ly/3eAA1ve)
+> **_<a href="https://twitter.com/boas_pucker/status/1388002675455782912">TWEET</a>:_** A relative increase of anthocyanin biosynthesis over flavonol biosynthesis seems to explain the leaf colour difference between the Perilla frutescens cultivars JIZI1 and JIZI2. #FlavonoidFriday (details: https://bit.ly/3eAA1ve)
 
 
 Perilla frutescens is a Chinese plant with nutritional and medical use. Flavonoids are probably an important factor. The varieties JIZI1 and JIZI2 differ in the (relative) amount of accumulated flavonoids. The green vs. red leaf colour difference indicates that anthocyanins might be involved. Differential expression analysis revealed 15 enzymes involved in this pathway. [Jiang et al., 2020](https://doi.org/10.1038/s41598-020-73274-y) state that 109 flavones, 33 flavonols, 27 flavonoids, 22 anthocyanins, 20 flavanones, and 12 isoflavones differ in their concentration between both cultivars. A gene expression analysis of the flavonoid biosynthesis shows up-regulation of almost all steps except for CHI and FLS. This might suggest (1) a general up-regulation of the pathway and (2) that the flux is directed towards anthocyanins and away from flavonols.
@@ -132,6 +132,19 @@ However, several open questions remain:
 2) Is UGT75C1 accepting flavonol derivates and not just anthocyanins?
 3) Which sequences are the orthologs of well characterized transcriptional regulators like MYB75, TT8, and TTG1?
 4) Is the transcriptome assembly available?
+
+<a href="https://twitter.com/boas_pucker/status/1388002675455782912">
+<img alt="Anthocyanins - more than just colourful (Tweet #8)" src="https://pbs.twimg.com/media/E0MY1HHWQAgGKgN?format=png&name=900x900" width="30%" height="30%">
+</a>
+
+
+
+### (10) Decoration of anthocyanins differs between species ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** XXX
+
+Tohge et al., 2017 provide a great summary of the current knowledge about the diversity of the flavonoid decoration/modification steps. While the aglycon biosynthesis is well characterized and highly conserved between species, the modification appears to be more flexible. Generally, sugars can be added at the OH groups at the C3, C5, and C7 positions. Not just single sugars, but also sugar chains or trees can serve as decoration. A recently identified flavonol modifying enzyme is BGLU6 (Ishihara et al., 2016) which shows differences between A. thaliana accessions i.e. within a species. Therefore, it is not surprising that these decoration pathways are different between plant species.
+
 
 
 
