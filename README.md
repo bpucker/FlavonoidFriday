@@ -141,7 +141,8 @@ However, several open questions remain:
 
 ### (10) Decoration of anthocyanins differs between species ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** XXX
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Anthocyanins are modified by glycosyltransferases, methyltransferases, and acyltransferases. These modifications can stabilize anthocyanins and are responsible for the huge diversity. #FlavonoidFriday (details: https://bit.ly/2QZPGww)
+
 
 Tohge et al., 2017 provide a great summary of the current knowledge about the diversity of the flavonoid decoration/modification steps. While the aglycon biosynthesis is well characterized and highly conserved between species, the modification appears to be more flexible. Generally, sugars can be added at the OH groups at the C3, C5, and C7 positions. Not just single sugars, but also sugar chains or trees can serve as decoration. A recently identified flavonol modifying enzyme is BGLU6 (Ishihara et al., 2016) which shows differences between A. thaliana accessions i.e. within a species. Therefore, it is not surprising that these decoration pathways are different between plant species.
 
