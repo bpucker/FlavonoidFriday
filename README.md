@@ -167,7 +167,7 @@ However, several open questions remain:
 > **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Repressors of the anthocyanin biosynthesis are regulated by (1) development, (2) environmental triggers, or (3) plant hormones. Proteins and small RNAs can play a role. #FlavonoidFriday (details:https://bit.ly/3w8cfhg)
 
 
-*Negative regulators of the anthocyanin biosynthesis*
+#### Negative regulators of the anthocyanin biosynthesis ####
 
 An excellent Tansley review by [LaFountain & Yuan (2021)](https://doi.org/10.1111/nph.17397) summarizes the current knowlege about negative regulators of the anthocyanin biosynthesis and gives perspective for future research. Anthocyanin repressors are generally activated by (1) developmental processes, (2) environmental factors, or (3) plant hormones. Most repressors destablize the MBW complex which would otherwise activate anthocyanin biosynthesis genes. While the first anthocyanin repressors were identified more than 20 years ago, most were discovered in the last decade. Activators of the anthocyanin biosynthesis belong to R2R3-MYB subgroup 6 or 5. In contrast, many repressors fall in subgroup 4.
 1) There are active repressors in subgroup 4, which can be classified into FaMYB1-type and AtMYB4-type. It appears that an EAR motif is crucial for the repressor function. LaFountain & Yuan describe the function of the repressors as a "break" instead of an "off-switch". 
