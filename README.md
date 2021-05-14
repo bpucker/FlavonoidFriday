@@ -164,7 +164,13 @@ However, several open questions remain:
 
 ### (11) Repressors of the anthocyanin biosynthesis ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Repressors of the anthocyanin biosynthesis are regulated by (1) development, (2) environmental triggers, or (3) plant hormones. Proteins and small RNAs can play a role. #FlavonoidFriday (details:https://bit.ly/3w8cfhg)
+> **_<a href="https://twitter.com/boas_pucker/status/1393091204762402816">TWEET</a>:_** Repressors of the anthocyanin biosynthesis are regulated by (1) development, (2) environmental triggers, or (3) plant hormones. Proteins and small RNAs can play a role. #FlavonoidFriday (details:https://bit.ly/3w8cfhg)
+
+
+
+<a href="https://twitter.com/boas_pucker/status/1390562044575850497">
+<img alt="Repressors of the anthocyanin biosynthesis (Tweet #11)" src="https://pbs.twimg.com/media/E1U6b3VX0AAL3o1?format=jpg&name=4096x4096" width="30%" height="30%">
+</a>
 
 
 #### Negative regulators of the anthocyanin biosynthesis ####
