@@ -164,6 +164,18 @@ However, several open questions remain:
 
 ### (11) Repressors of the anthocyanin biosynthesis ###
 
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Repressors of the anthocyanin biosynthesis are regulated by (1) development, (2) environmental triggers, or (3) plant hormones. Proteins and small RNAs can play a role. #FlavonoidFriday (details:https://bit.ly/3w8cfhg)
+
+
+*Negative regulators of the anthocyanin biosynthesis*
+
+An excellent Tansley review by [LaFountain & Yuan (2021)](https://doi.org/10.1111/nph.17397) summarizes the current knowlege about negative regulators of the anthocyanin biosynthesis and gives perspective for future research. Anthocyanin repressors are generally activated by (1) developmental processes, (2) environmental factors, or (3) plant hormones. Most repressors destablize the MBW complex which would otherwise activate anthocyanin biosynthesis genes. While the first anthocyanin repressors were identified more than 20 years ago, most were discovered in the last decade. Activators of the anthocyanin biosynthesis belong to R2R3-MYB subgroup 6 or 5. In contrast, many repressors fall in subgroup 4.
+1) There are active repressors in subgroup 4, which can be classified into FaMYB1-type and AtMYB4-type. It appears that an EAR motif is crucial for the repressor function. LaFountain & Yuan describe the function of the repressors as a "break" instead of an "off-switch". 
+2) Another group of repressors lost one MYB repeat and is characterized by the presence of a 'TLLLFR' motif. There are indications for multiple different origins of these anthocyanin biosynthesis repressors.
+3) The CPC-clade of repressors emerged in the common ancestor of monocots and dicots. Members of this clade lack the bHLH interaction motif which leads to passive represssion by competing for the bHLH component of the MBW complex. Expression of these MYBs is activated by the MBW complex which creates a periodic pattern of gene expression which becomes visible as spots or stripes of pigmentation.
+4) miR156-SPL is highly expressed in seedlings and down-regulated a negative regulator (_SQUAMOSA PROMOTER BINDING PROTEIN-LIKE 9_) of the anthocyanin biosynthesis. This explains a temporal pigmentation of seedlings called "juvenile reddening" which is lost in later stages.
+5) miR858 targets the anthocanin activator MYB113 in A. thliana. miR828 targets the negative regulator _MYBL2_ in _A. thaliana_, but the positive regulator _MYB7-like_ in tomato.
+6) GL2 in _A. thaliana_ is a HD-ZIP family member that down-regulates _PAP2_ and _MYB113_. HAT1 is another HD-ZIP member that represses anthocyanin biosynthesis. GL2 and HAT1 might be a lineage-specific specialty of _A. thaliana_. In contrast, HB1 (discovered in apple) might be a more conserved repressor of the HD-ZIP family.
 
 
 
