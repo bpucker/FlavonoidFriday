@@ -184,6 +184,13 @@ An excellent Tansley review by [LaFountain & Yuan (2021)](https://doi.org/10.111
 6) GL2 in _A. thaliana_ is a HD-ZIP family member that down-regulates _PAP2_ and _MYB113_. HAT1 is another HD-ZIP member that represses anthocyanin biosynthesis. GL2 and HAT1 might be a lineage-specific specialty of _A. thaliana_. In contrast, HB1 (discovered in apple) might be a more conserved repressor of the HD-ZIP family.
 
 
+### (12) MYB117 can boost the anthocyanin biosynthesis in poplar ###
+
+
+
+
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
