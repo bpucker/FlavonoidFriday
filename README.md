@@ -197,8 +197,10 @@ An excellent Tansley review by [LaFountain & Yuan (2021)](https://doi.org/10.111
 
 ### (13) Tobacco CHS is crucial for salt tolerance ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** xxx
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Overexpression of the tobacco MYB4 reduces the salt tolerance of seedlings. The flavonoid biosynthesis is inhibited by down-regulation of the CHS (first step) #FlavonoidFriday (details: https://bit.ly/2TfMcqm)
 
+
+Salt stress is known to induce the flavonoid biosynthesis. [Chen et al. 2019](https://doi.org/10.3389/fpls.2019.00178) report that rutin content increased in tobacco under salt stress. However, the overexpression of NtMYB4 caused a reduced production of rutin leading to a lower salt tolerance. MYB4 overexpression lines were more similar to the WT when rutin was externally supplied. Rutin is probably involved in reduction of ROS which accumulates under salt stress. It seems that NtMYB is a strong negative regulator of the CHS, but does not affect ANS substantially. However, down-regulation of CHS by RNAi lead to a reduced transcript abundance of the downstream genes.
 
 
 
