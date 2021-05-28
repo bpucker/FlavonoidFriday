@@ -195,6 +195,10 @@ An excellent Tansley review by [LaFountain & Yuan (2021)](https://doi.org/10.111
 [Ma et al., 2021](https://academic.oup.com/jxb/article/72/10/3864/6169232?login=true) present the poplar MYB117 as a powerful activator of the anthocyanin biosynthesis. Overexpression under control of the 35S promoters provides a general boost to the anthocyanin biosynthesis. The up-regulation of F3'5'H genes causes an increased B-ring hydroxylation which affects also other branches of the flavonoid biosynthesis. Multiple investigations of several flavonoid biosynthesis activators suggest that different MYBs can fine tune the hydroxylation level of flavonoids. MYB117 sits in an array of six PAP1-type MYBs: MYB113, MYB116, MYB117, MYB118, MYB119, and MYB120.
 
 
+### (13) Tobacco CHS is crucial for salt tolerance ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** xxx
+
 
 
 
