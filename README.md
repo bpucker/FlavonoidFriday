@@ -207,6 +207,15 @@ An excellent Tansley review by [LaFountain & Yuan (2021)](https://doi.org/10.111
 Salt stress is known to induce the flavonoid biosynthesis. [Chen et al. 2019](https://doi.org/10.3389/fpls.2019.00178) report that rutin content increased in tobacco under salt stress. However, the overexpression of NtMYB4 caused a reduced production of rutin leading to a lower salt tolerance. MYB4 overexpression lines were more similar to the WT when rutin was externally supplied. Rutin is probably involved in reduction of ROS which accumulates under salt stress. It seems that NtMYB is a strong negative regulator of the CHS, but does not affect ANS substantially. However, down-regulation of CHS by RNAi lead to a reduced transcript abundance of the downstream genes.
 
 
+### (14) TTG2 controls epicatechin transport ###
+
+> **_<a href="https://twitter.com/boas_pucker/status/1398172184602943491">TWEET</a>:_** TTG2 (WRKY44) influences the seed coat pigmentation through regulation of the transport (TT12, AHA10) of epicatechins. MBW-like complex of TTG1+TTG1+TT8 is likely #FlavonoidFriday (details: )
+
+
+[Gonzalez et al., 2016](https://doi.org/10.1016/j.ydbio.2016.03.031) present TTG2 as an important regulator of epicatechin transporters like TT12/MATE and TT13/AHA10. Epicatechins are imported into the vacuoles of seed coats where they are condensed into proanthocyanidins (condensed tannins). Proanthocyanidins (PAs) provide the dark colouration to seeds. There is a large mutant collection comprising lines with specific blocks in the PA biosynthesis or accumulation pathway. These are called transparent testa (tt) mutants [Appelhagen et al., 2014](https://doi.org/10.1007/s00425-014-2088-0). A transcription factor complex of MYB+bHLH+WDR is known to regulate several steps in the flavonoid biosynthesis and especially in the anthocyanin and PA biosynthesis. TTG2 (WRKY44) is controlled by the MBW complex [Ishida et al., 2007](https://doi.org/10.1105/tpc.107.052274). TTG2 shows high binding affinity towards the W box, a motif of (C/T)TGAC(T/C), which was detected in the promoter sequences of many target genes. TTG2 is specific to the PA biosynthesis, because anthocyanins are not affected in the ttg2 mutant. The TT12 promoter region contains several W boxes, but it is not cleary which of them is the actual TTG2 binding site. TT12 overexpression partialy rescued the ttg2 phenotype thus suggesting that this is one of the most important targets. In summary, TTG2 appears to be a regulator of the PA transport pathway.
+
+
+
 
 
 ## Contact ##
