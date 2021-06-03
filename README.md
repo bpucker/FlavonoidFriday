@@ -217,7 +217,7 @@ Salt stress is known to induce the flavonoid biosynthesis. [Chen et al. 2019](ht
 
 ### (15) Role of TT10 in the seed coloration ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** TT10 is a laccase-like polyphenol oxidase which appears to be involved in the oxidative polymerization of flavonoids in developing A. thaliana seed coats #FlavonoidFriday (details: https://bit.ly/34KmA7u)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** TT10 is a laccase-like polyphenol oxidase which appears to be involved in the oxidative polymerization of flavonoids in developing Arabidopsis thaliana seed coats. The TT10 products are responsible for the brown seed color. #FlavonoidFriday (details: https://bit.ly/34KmA7u)
 
 
 
