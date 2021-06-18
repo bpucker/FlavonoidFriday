@@ -233,6 +233,17 @@ Salt stress is known to induce the flavonoid biosynthesis. [Chen et al. 2019](ht
 
 
 
+### (16) Phenylpropanoids in strawberry ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** F3'H seems to be a decisive step in the flavonoid biosynthesis of strawberry, because higher gene expression correlates with increased content of specific flavonoids #FlavonoidFriday (details: )
+
+
+
+Flavonoids have nutritional benefits for humans mostly due to their antioxidant activity. [Pott et al., 2020](https://www.nature.com/articles/s41598-020-76946-x) investigated the flavonoid biosynthesis as well as the general phenylpropanoid biosynthesis in strawberry. The composition and concentration of flavonoids changes during strawberry development: tannins are produced in the early stages and flavonols and anthocyanins in the later stages. Important for the pigmentation of the fruits are glycosylated pelargonidins and cyanidins. The authors investigated the heritability of phenylpropanoid metabolites including flavonoids. QTL for phenylpropanoids were identified, but there is a large number of QTL spanning substantial parts of almost all linkage groups. However, there are hotspots which seem to be associated with multiple phenlypropanoids. An interesting observation is that one copy of the anthocyanin repressor FaMYB was located in a QTL, but the gene expression does not correlate with the investigated flavonoids. The authors present F3'H as a potentially decisive step in the flavonoid biosynthesis that can control the metabolic flux. The correlation of F3'H gene expression correlates with the amount of specific flavonoiods (see paper for details). The substrate specificity of enzymes with respect to hydroxylation patterns needs further investigation.
+
+
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
 
