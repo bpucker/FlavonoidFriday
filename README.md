@@ -235,7 +235,7 @@ Salt stress is known to induce the flavonoid biosynthesis. [Chen et al. 2019](ht
 
 ### (16) Phenylpropanoids in strawberry ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** F3'H seems to be a decisive step in the flavonoid biosynthesis of strawberry, because higher gene expression correlates with increased content of specific flavonoids #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** F3'H seems to be a decisive step in the flavonoid biosynthesis of strawberry, because higher gene expression correlates with increased content of specific flavonoids #FlavonoidFriday (details: https://bit.ly/3vw4VeZ)
 
 
 
