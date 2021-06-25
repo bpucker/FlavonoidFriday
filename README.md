@@ -245,6 +245,14 @@ Salt stress is known to induce the flavonoid biosynthesis. [Chen et al. 2019](ht
 Flavonoids have nutritional benefits for humans mostly due to their antioxidant activity. [Pott et al., 2020](https://www.nature.com/articles/s41598-020-76946-x) investigated the flavonoid biosynthesis as well as the general phenylpropanoid biosynthesis in strawberry. The composition and concentration of flavonoids changes during strawberry development: tannins are produced in the early stages and flavonols and anthocyanins in the later stages. Important for the pigmentation of the fruits are glycosylated pelargonidins and cyanidins. The authors investigated the heritability of phenylpropanoid metabolites including flavonoids. QTL for phenylpropanoids were identified, but there is a large number of QTL spanning substantial parts of almost all linkage groups. However, there are hotspots which seem to be associated with multiple phenlypropanoids. An interesting observation is that one copy of the anthocyanin repressor FaMYB was located in a QTL, but the gene expression does not correlate with the investigated flavonoids. The authors present F3'H as a potentially decisive step in the flavonoid biosynthesis that can control the metabolic flux. The correlation of F3'H gene expression correlates with the amount of specific flavonoiods (see paper for details). The substrate specificity of enzymes with respect to hydroxylation patterns needs further investigation.
 
 
+### (17) MYB4, MYB7, and MYB32 are anthocyanin repressors ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** MED5a & MED5b control the expression of AtMYB4 which interacts with the bHLHs TT8, GL3, and EGL3 leading to a reduced expression of anthocyanin and proanthocyanidin biosynthesis genes #FlavonoidFriday (details: )
+
+
+[Wang et al., 2019](https://doi.org/10.1111/tpj.14570) report that MYB4, MYB7, and MYB32 interact with the bHLHs TT8, GL3, and EGL3 leading to a repression of the flavonoid biosynthesis. MYB4 is also a direct repressor of Arogenate Dehydratase 6 (ADT6) - the last step in the shikimate biosynthesis, which feeds substrate to the flavonoid biosynthesis. A complex of MED5a and MED5b regulates the gene expression of MYB4, MYB7, and MYB32. If only MED5a is knocked-out, the anthocyanin accumulation is increased due to a reduced expression of the repressors MYB4, MYB7, and MYB32. While MYB4, MYB7, and MYB32 can bind to bHLHs, they do not interact with the anthoyanin activating MYBs. MYB4, MYB7, and MYB32 show different affinities for specific bHLHs suggesting a fine regulation of specific MBW complexes.
+
+
 
 
 ## Contact ##
