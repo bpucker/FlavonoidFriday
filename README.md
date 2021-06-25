@@ -247,7 +247,12 @@ Flavonoids have nutritional benefits for humans mostly due to their antioxidant 
 
 ### (17) MYB4, MYB7, and MYB32 are anthocyanin repressors ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** MED5a & MED5b control the expression of AtMYB4 which interacts with the bHLHs TT8, GL3, and EGL3 leading to a reduced expression of anthocyanin and proanthocyanidin biosynthesis genes #FlavonoidFriday (details: https://bit.ly/3qqsMM1)
+> **_<a href="https://twitter.com/boas_pucker/status/1408334154614247425">TWEET</a>:_** MED5a & MED5b control the expression of AtMYB4 which interacts with the bHLHs TT8, GL3, and EGL3 leading to a reduced expression of anthocyanin and proanthocyanidin biosynthesis genes #FlavonoidFriday (details: https://bit.ly/3qqsMM1)
+
+
+<a href="https://twitter.com/boas_pucker/status/1408334154614247425">
+<img alt="MYB4, MYB7, and MYB32 are anthocyanin repressors (Tweet #17)" src="https://pbs.twimg.com/media/E4tj1ieX0AU-4cw?format=jpg&name=large" width="40%" height="40%">
+</a>
 
 
 [Wang et al., 2019](https://doi.org/10.1111/tpj.14570) report that MYB4, MYB7, and MYB32 interact with the bHLHs TT8, GL3, and EGL3 leading to a repression of the flavonoid biosynthesis. MYB4 is also a direct repressor of Arogenate Dehydratase 6 (ADT6) - the last step in the shikimate biosynthesis, which feeds substrate to the flavonoid biosynthesis. A complex of MED5a and MED5b regulates the gene expression of MYB4, MYB7, and MYB32. If only MED5a is knocked-out, the anthocyanin accumulation is increased due to a reduced expression of the repressors MYB4, MYB7, and MYB32. While MYB4, MYB7, and MYB32 can bind to bHLHs, they do not interact with the anthoyanin activating MYBs. MYB4, MYB7, and MYB32 show different affinities for specific bHLHs suggesting a fine regulation of specific MBW complexes.
