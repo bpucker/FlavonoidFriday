@@ -261,8 +261,7 @@ Flavonoids have nutritional benefits for humans mostly due to their antioxidant 
 
 ### (18) Flavonoid biosynthesis regulator miR858 ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** pri-miR858a encodes a small peptide which promotes miR858 expression. miR858a controls ligning and flavonoid biosynthesis through repression of MYB12 #FlavonoidFriday (details: )
-
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** pri-miR858a encodes a small peptide which promotes miR858 transcription. miR858a controls lignin and flavonoid biosynthesis through repression of MYB12 #FlavonoidFriday (details: https://bit.ly/3hl2rL6)
 
 miRNAs are single stranded RNAs that regulate gene expression through increased transcript degradation or repressed translation. These miRNAs can encode small proteins which increase their own transcription. miR858 is a repressor of the MYB11/MYB12/MYB111 transcription. This negative regulation results in reduced flavonol production. [Sharma et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27208307/), [Wang et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27450422/), and [Sharma et al., 2020](https://www.nature.com/articles/s41477-020-00769-x) investigated the functions of miR858. The latest study used a modification via (1) CRISPR/Cas-based modification and (2) supplementation of miPEP858a.
 miPEP858a was identified through the test of all potential ORFs in a GUS fusion experiment. Only one of the potential ORFs was actually translated leading to detectable GUS activity.
