@@ -259,6 +259,19 @@ Flavonoids have nutritional benefits for humans mostly due to their antioxidant 
 
 
 
+### (18) Flavonoid biosynthesis regulator miR858 ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** pri-miR858a encodes a small peptide which promotes miR858 expression. miR858a controls ligning and flavonoid biosynthesis through repression of MYB12 #FlavonoidFriday (details: )
+
+
+miRNAs are single stranded RNAs that regulate gene expression through increased transcript degradation or repressed translation. These miRNAs can encode small proteins which increase their own transcription. miR858 is a repressor of the MYB11/MYB12/MYB111 transcription. This negative regulation results in reduced flavonol production. [Sharma et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27208307/), [Wang et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27450422/), and [Sharma et al., 2020](https://www.nature.com/articles/s41477-020-00769-x) investigated the functions of miR858. The latest study used a modification via (1) CRISPR/Cas-based modification and (2) supplementation of miPEP858a.
+miPEP858a was identified through the test of all potential ORFs in a GUS fusion experiment. Only one of the potential ORFs was actually translated leading to detectable GUS activity.
+Supplementation of miPEP585a in the media resulted in enhanced transcription of miR858 and slightly shorter roots. Several additional experiments support that miPEP858a is important in the transcriptional control of miR858.
+Overexpression of miR858 resulted in reduced flavonol and anthocyanin aglycones as well as increased lignin levels. The modification (knock-out) of miR858 resulted in the opposite effect i.e. increased anthocyanin and flavonol levels at the cost of lignin.
+It is known that flavonoids have a negative impact on auxin transportation and plant growth. Loss of miR858 leads to lower expression of auxin-associated genes, while the overexpression of miR858 increases the expression of these genes.
+
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
