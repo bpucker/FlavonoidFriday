@@ -263,13 +263,9 @@ Flavonoids have nutritional benefits for humans mostly due to their antioxidant 
 
 > **_<a href="https://twitter.com/boas_pucker/status/1410855763678011398">TWEET</a>:_** pri-miR858a encodes a small peptide which promotes miR858 transcription. miR858a controls lignin and flavonoid biosynthesis through repression of MYB12 #FlavonoidFriday (details: https://bit.ly/3hl2rL6)
 
-
 <a href="https://twitter.com/boas_pucker/status/1410855763678011398">
 <img alt="Flavonoid biosynthesis regulator miR858 (Tweet #18)" src="https://pbs.twimg.com/media/E5RYxV0WQAEHYLN?format=jpg&name=large" width="40%" height="40%">
 </a>
-
-
-
 
 miRNAs are single stranded RNAs that regulate gene expression through increased transcript degradation or repressed translation. These miRNAs can encode small proteins which increase their own transcription. miR858 is a repressor of the MYB11/MYB12/MYB111 transcription. This negative regulation results in reduced flavonol production. [Sharma et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27208307/), [Wang et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27450422/), and [Sharma et al., 2020](https://www.nature.com/articles/s41477-020-00769-x) investigated the functions of miR858. The latest study used a modification via (1) CRISPR/Cas-based modification and (2) supplementation of miPEP858a.
 miPEP858a was identified through the test of all potential ORFs in a GUS fusion experiment. Only one of the potential ORFs was actually translated leading to detectable GUS activity.
@@ -280,7 +276,13 @@ It is known that flavonoids have a negative impact on auxin transportation and p
 
 ### (19) Anthocyanin degradation ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Accumulation of anthocyanins in the central vacuole leads to a coloration of plant structures. Numerous modifications and degradation determine how quickly the color fades #FlavonoidFriday (details: https://bit.ly/3yCpurZ)
+> **_<a href="https://twitter.com/boas_pucker/status/1413384926473379840">TWEET</a>:_** Accumulation of anthocyanins in the central vacuole leads to a coloration of plant structures. Numerous modifications and degradation determine how quickly the color fades #FlavonoidFriday (details: https://bit.ly/3yCpurZ)
+
+
+<a href="https://twitter.com/boas_pucker/status/1413384926473379840">
+<img alt="Anthocyanin degradation (Tweet #19)" src="https://pbs.twimg.com/media/E50YKbgWUAAE8DW?format=jpg&name=medium" width="40%" height="40%">
+</a>
+
 
 [Passeri et al., 2016](https://doi.org/10.3389/fpls.2016.00153) reviewed the stabilization of anthocyanins in the vacuole with respect to biotechnological applications. Enriching food with anthocyanins is important, because several studies identified health promoting effects of anthocyanins. Generating new colors through modifications of anthocyanins is of huge importance for the ornamental plant and cut flower industry.
 Anthocyanin decorating enzymes include UDP-glucose:flavonoid 3-O-glucosyltransferase (3UFGT), rhamnosyl transferase (RT), UDP-glucose:flavonoid 5-O-glucosyltransferase (5UFGT), anthocyanin acyltransferase (AAT), and methyltransferase (MT). Expression of the corresponding genes is controlled by the MBW complex. Loss of anthocyanin pigmentation is often caused by mutations in the regulator genes (MYB, bHLH, WDR), because mutations in structural genes would be insufficient or could have pleitropic effects.
