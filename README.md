@@ -278,6 +278,14 @@ Overexpression of miR858 resulted in reduced flavonol and anthocyanin aglycones 
 It is known that flavonoids have a negative impact on auxin transportation and plant growth. Loss of miR858 leads to lower expression of auxin-associated genes, while the overexpression of miR858 increases the expression of these genes.
 
 
+### (19) Anthocyanin degradation ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Accumulation of anthocyanins in the central vacuole leads to a coloration of plant structures. Numerous modifications and degradation determine how quickly the color fades #FlavonoidFriday (details: )
+
+[Passeri et al., 2016](https://doi.org/10.3389/fpls.2016.00153) reviewed the stabilization of anthocyanins in the vacuole with respect to biotechnological applications. Enriching food with anthocyanins is important, because several studies identified health promoting effects of anthocyanins. Generating new colors through modifications of anthocyanins is of huge importance for the ornamental plant and cut flower industry.
+Anthocyanin decorating enzymes include UDP-glucose:flavonoid 3-O-glucosyltransferase (3UFGT), rhamnosyl transferase (RT), UDP-glucose:flavonoid 5-O-glucosyltransferase (5UFGT), anthocyanin acyltransferase (AAT), and methyltransferase (MT). Expression of the corresponding genes is controlled by the MBW complex. Loss of anthocyanin pigmentation is often caused by mutations in the regulator genes (MYB, bHLH, WDR), because mutations in structural genes would be insufficient or could have pleitropic effects.
+Active degradation of anthocyanins could be catalyzed by polyphenol oxidases if the glycosylation is missing/lost. The relevance of different anthocyanin decorations on degrading enzymes is still under investigation. This anthocyanin degradation can strongly affect the market value of ornamental plants. Therefore, it is important to understand the process and to improve plants bassed on this knowledge. A vacuolar peroxidase is suspected to be involved in this anthocyanin degradation process. A proton pump (AHA10) influences the pH value of the vacuole, but this has only a minor effect on anthocyanin fading if any. The anthocyanin degradation in leaves might be beneficial for photosynthesis efficiency. The degradation in flowers is coupled with the release of fragrant volatils which could be a signal for pollinators.
+
 
 
 ## Contact ##
