@@ -288,6 +288,13 @@ Active degradation of anthocyanins could be catalyzed by polyphenol oxidases if 
 
 
 
+### (20) Mutual exclusion of anthocyanins and betalains in Hylocereus ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Anthocyanins are replaced by betalains in some Caryophyllales families. There is a mutual exclusion of both pigments i.e. a given species is only anthocyanin-pigmented or betalain-pigmented #FlavonoidFriday (details: LINK & https://rdcu.be/cn0UW)
+
+
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
 
