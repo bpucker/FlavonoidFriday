@@ -280,7 +280,7 @@ It is known that flavonoids have a negative impact on auxin transportation and p
 
 ### (19) Anthocyanin degradation ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Accumulation of anthocyanins in the central vacuole leads to a coloration of plant structures. Numerous modifications and degradation determine how quickly the color fades #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Accumulation of anthocyanins in the central vacuole leads to a coloration of plant structures. Numerous modifications and degradation determine how quickly the color fades #FlavonoidFriday (details: https://bit.ly/3yCpurZ)
 
 [Passeri et al., 2016](https://doi.org/10.3389/fpls.2016.00153) reviewed the stabilization of anthocyanins in the vacuole with respect to biotechnological applications. Enriching food with anthocyanins is important, because several studies identified health promoting effects of anthocyanins. Generating new colors through modifications of anthocyanins is of huge importance for the ornamental plant and cut flower industry.
 Anthocyanin decorating enzymes include UDP-glucose:flavonoid 3-O-glucosyltransferase (3UFGT), rhamnosyl transferase (RT), UDP-glucose:flavonoid 5-O-glucosyltransferase (5UFGT), anthocyanin acyltransferase (AAT), and methyltransferase (MT). Expression of the corresponding genes is controlled by the MBW complex. Loss of anthocyanin pigmentation is often caused by mutations in the regulator genes (MYB, bHLH, WDR), because mutations in structural genes would be insufficient or could have pleitropic effects.
