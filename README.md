@@ -301,7 +301,7 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 ### (21) KIPEs - automatic identification of flavonoid biosynthesis genes or enzymes ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Looking for flavonoid biosynthesis genes in a transcriptome/genome assembly? KIPEs can identify the genes of the flavonoid biosynthesis in your species of interest #FlavonoidFriday (https://bit.ly/3fpykTw & https://bit.ly/3ikpFlh)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Looking for flavonoid biosynthesis genes/enzymes in a transcriptome or genome assembly? KIPEs can perform this identification automatically in your species of interest #FlavonoidFriday (https://bit.ly/3fpykTw & https://bit.ly/3ikpFlh)
 
 <a href="https://github.com/bpucker/FlavonoidFriday">
 <img alt="KIPEs - automatic identification of flavonoid biosynthesis genes or enzymes (Tweet #21)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096" width="20%" height="20%">
