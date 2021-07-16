@@ -292,8 +292,11 @@ Active degradation of anthocyanins could be catalyzed by polyphenol oxidases if 
 
 ### (20) Mutual exclusion of anthocyanins and betalains in _Hylocereus_ ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Anthocyanins are replaced by betalains in some Caryophyllales. There is a mutual exclusion of both pigments. A species is only anthocyanin-pigmented OR betalain-pigmented #FlavonoidFriday (https://bit.ly/3xGuRXf & https://rdcu.be/cn0UW)
+> **_<a href="https://twitter.com/boas_pucker/status/1415921640060297219">TWEET</a>:_** Anthocyanins are replaced by betalains in some Caryophyllales. There is a mutual exclusion of both pigments. A species is only anthocyanin-pigmented OR betalain-pigmented #FlavonoidFriday (https://bit.ly/3xGuRXf & https://rdcu.be/cn0UW)
 
+<a href="https://twitter.com/boas_pucker/status/1415921640060297219">
+<img alt="Mutual exclusion of anthocyanins and betalains in _Hylocereus_ (Tweet #20)" src="https://pbs.twimg.com/media/E50laJ-XsAMoet0?format=jpg&name=medium" width="40%" height="40%">
+</a>
 
 A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detection of anthocyanins in the betalain-pigmented genus _Hylocereus_ and stated that anthocyanins are responsible for the red coloration of pitaya fruits. This analysis was based on the comparison of a white, a pink, and a red pitaya cultivar. However, this paper was retracted due to various issues. A [re-analysis](https://doi.org/10.1186/s12870-021-03080-9) of the RNA-seq data sets revealed that transcripts of the anthocyanin biosynthesis genes (_DFR_ & _ANS_) are barely detectable. Moreover, the abundances of these transcripts in different cultivars do not support the corresponding pigment phenotypes. Several studies already reported that betalains are responsible for the red coloration of pitaya fruits. In summary, the re-analysis supports the mutual exclusion paradigm and suggests that not anthocyanin, but betalains, are responsible for the coloration of pitaya fruits.
 
