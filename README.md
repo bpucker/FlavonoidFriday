@@ -299,6 +299,16 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 
 
+### (21) KIPEs - automatic identification of flavonoid biosynthesis genes or enzymes ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Looking for flavonoid biosynthesis genes in a transcriptome/genome assembly? KIPEs can identify the genes of the flavonoid biosynthesis in your species of interest #FlavonoidFriday (https://bit.ly/3fpykTw & )
+
+<a href="https://github.com/bpucker/FlavonoidFriday">
+<img alt="KIPEs - automatic identification of flavonoid biosynthesis genes or enzymes (Tweet #21)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096" width="20%" height="20%">
+</a>
+
+[KIPEs](https://github.com/bpucker/KIPEs) is freely available via github. Data sets are included to allow the identification of genes/enzymes of the core flavonoid biosynthesis pathway. Additional data sets to find the players of additional reactions are under construction. More pathways will be supported in the future. Please get in touch if you have suggestions for pathways that should be included.
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
