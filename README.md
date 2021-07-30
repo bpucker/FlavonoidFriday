@@ -316,7 +316,7 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 ### (22) Brassinosteroids inhibit flavonoid biosynthesis in apple ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Brassinosteroid treatment reduces the flavonoid biosynthesis in apple. BR-induced MdBEH2.2 might form a complex with the anthocyanin regulator MdMYB60 leading to this inhibition #FlavonoidFriday (details: ) 
+> **_<a href="https://twitter.com/boas_pucker/status/1418443256405262345">TWEET</a>:_** Brassinosteroid treatment reduces the flavonoid biosynthesis in apple. BR-induced MdBEH2.2 might form a complex with the anthocyanin regulator MdMYB60 leading to this inhibition #FlavonoidFriday (details: https://bit.ly/3x7GVQ4)
 
 
 
