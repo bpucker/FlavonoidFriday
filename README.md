@@ -313,6 +313,18 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 [KIPEs](https://github.com/bpucker/KIPEs) is freely available via github. Data sets are included to allow the identification of genes/enzymes of the core flavonoid biosynthesis pathway. Additional data sets to find the players of additional reactions are under construction. More pathways will be supported in the future. Please get in touch if you have suggestions for pathways that should be included.
 
 
+
+### (22) Brassinosteroids inhibit flavonoid biosynthesis in apple ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Brassinosteroid treatment reduces the flavonoid biosynthesis in apple. BR-induced MdBEH2.2 might form a complex with the anthocyanin regulator MdMYB60 leading to this inhibition #FlavonoidFriday (details: ) 
+
+
+
+[Wang et al., 2021](https://doi.org/10.1093/jxb/erab284) investigated the inhibitation of the flavonoid biosynthesis in red-fleshed apple by brassinosteroids. Brassinosteroids (BRs) are steroid hormones with an inibitory effect on the flavonoid biosynthesis. A central inhibitor involved in this process is probably MdBEH2.2 which form a coplex with MdMYB60 leading to an inhibition of this MYB protein. However, many additional proteins are involves in detecting BRs and transmitting the triggered singnal. While treatments with BRs lead to a reduced flavonoid accumulation, the opposite effect was observed in treatments with a BR biosynthesis inhibitor (brassinazole).
+
+
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
 
