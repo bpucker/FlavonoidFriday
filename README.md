@@ -304,9 +304,9 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 ### (21) KIPEs - automatic identification of flavonoid biosynthesis genes or enzymes ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Looking for flavonoid biosynthesis genes/enzymes in a transcriptome or genome assembly? KIPEs can perform this identification automatically in your species of interest #FlavonoidFriday (https://bit.ly/3fpykTw & https://bit.ly/3ikpFlh)
+> **_<a href="https://twitter.com/boas_pucker/status/1418443256405262345">TWEET</a>:_** Looking for flavonoid biosynthesis genes/enzymes in a transcriptome or genome assembly? KIPEs can perform this identification automatically in your species of interest #FlavonoidFriday (https://bit.ly/3fpykTw & https://bit.ly/3ikpFlh)
 
-<a href="https://github.com/bpucker/FlavonoidFriday">
+<a href="https://twitter.com/boas_pucker/status/1418443256405262345">
 <img alt="KIPEs - automatic identification of flavonoid biosynthesis genes or enzymes (Tweet #21)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096" width="20%" height="20%">
 </a>
 
@@ -316,7 +316,7 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 ### (22) Brassinosteroids inhibit flavonoid biosynthesis in apple ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1418443256405262345">TWEET</a>:_** Brassinosteroid treatment reduces the flavonoid biosynthesis in apple. BR-induced MdBEH2.2 might form a complex with the anthocyanin regulator MdMYB60 leading to this inhibition #FlavonoidFriday (details: https://bit.ly/3x7GVQ4)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Brassinosteroid treatment reduces the flavonoid biosynthesis in apple. BR-induced MdBEH2.2 might form a complex with the anthocyanin regulator MdMYB60 leading to this inhibition #FlavonoidFriday (details: https://bit.ly/3x7GVQ4)
 
 
 
