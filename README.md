@@ -326,7 +326,8 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 ### (23) Auxiliary proteins in the flavonoid biosynthesis ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Chalcone isomerase-like (CHIL) and pathogenesis-related 10 (PR10) proteins play probably non-enzymatic, but important regulatory roles in the flavonoid biosynthesis #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Chalcone isomerase-like (CHIL) and pathogenesis-related 10 (PR10) proteins play probably non-enzymatic, but important regulatory roles in the flavonoid biosynthesis #FlavonoidFriday (details: https://bit.ly/3fBuPsw)
+
 
 
 Two families of auxiliary proteins are important regulators of the flavonoid biosynthesis ([Dastmalchi, 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.15446)):
