@@ -324,6 +324,16 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 [Wang et al., 2021](https://doi.org/10.1093/jxb/erab284) investigated the inhibitation of the flavonoid biosynthesis in red-fleshed apple by brassinosteroids. Brassinosteroids (BRs) are steroid hormones with an inibitory effect on the flavonoid biosynthesis. A central inhibitor involved in this process is probably MdBEH2.2 which form a coplex with MdMYB60 leading to an inhibition of this MYB protein. However, many additional proteins are involves in detecting BRs and transmitting the triggered singnal. While treatments with BRs lead to a reduced flavonoid accumulation, the opposite effect was observed in treatments with a BR biosynthesis inhibitor (brassinazole).
 
+### (23) Auxiliary proteins in the flavonoid biosynthesis ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Chalcone isomerase-like (CHIL) and pathogenesis-related 10 (PR10) proteins play probably non-enzymatic, but important regulatory roles in the flavonoid biosynthesis #FlavonoidFriday (details: )
+
+
+Two families of auxiliary proteins are important regulators of the flavonoid biosynthesis ([Dastmalchi, 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.15446)):
+(1) Chalcone isomerase-like (CHIL) proteins bind to CHS and influence the catalyzed reaction. This might be necessary to reduce the promiscuity of CHS, which was observed in _in vitro_ assays. CHILs increased the flavonoid biosynthesis in plants. Loss of this activity can lead to a loss of pigmentation in flower and fruit. These CHILs are closely related to bona fide CHIs and form the type IV CHI clade. Members of the type III CHIs have also been reported to act as polyketide-binding proteins (PBPs). These non-CHI proteins lack the amino acids of the CHI active center and position the ligand naringenin in a non-productive. However, it appears that CHILs are crucial for the coordination between CHS and CHI. It is possible that CHILs influence the biosynthesis of different anthocynins, but do not alter the overall amount. The R2R3-MYB TT2 was identified as regulator of A. thaliana CHIL.
+
+(2) Pathogenesis-related 10 (PR10) proteins seem to bind intermedicates of the flavonoid biosynthesis and could have an impact on the anthocyanin composition. PR10 is also involved in other spececialized metabolism pathways. Unfortunately, there is no uniform nomenclature for members of this gene family, because they were discovered and described independently in different species. PR1 in Petroselium crispum, _Bet v 1_ in Betula verrucosa, and Major latex proteins (MLPs) in Papaver somniferum. The PR10 clade is highly susceptible to neofunctionalization.
+
 
 
 
