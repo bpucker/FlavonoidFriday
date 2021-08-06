@@ -316,7 +316,7 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 ### (22) Brassinosteroids inhibit flavonoid biosynthesis in apple ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Brassinosteroid treatment reduces the flavonoid biosynthesis in apple. BR-induced MdBEH2.2 might form a complex with the anthocyanin regulator MdMYB60 leading to this inhibition #FlavonoidFriday (details: https://bit.ly/3x7GVQ4)
+> **_<a href="https://twitter.com/boas_pucker/status/1421017725330149377">TWEET</a>:_** Brassinosteroid treatment reduces the flavonoid biosynthesis in apple. BR-induced MdBEH2.2 might form a complex with the anthocyanin regulator MdMYB60 leading to this inhibition #FlavonoidFriday (details: https://bit.ly/3x7GVQ4)
 
 <a href="https://twitter.com/boas_pucker/status/1421017725330149377">
 <img alt="Brassinosteroids inhibit flavonoid biosynthesis in apple (Tweet #22)" src="https://pbs.twimg.com/media/E7hyOQPXMAE8pLf?format=jpg&name=medium" width="20%" height="20%">
@@ -324,10 +324,14 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 [Wang et al., 2021](https://doi.org/10.1093/jxb/erab284) investigated the inhibitation of the flavonoid biosynthesis in red-fleshed apple by brassinosteroids. Brassinosteroids (BRs) are steroid hormones with an inibitory effect on the flavonoid biosynthesis. A central inhibitor involved in this process is probably MdBEH2.2 which form a coplex with MdMYB60 leading to an inhibition of this MYB protein. However, many additional proteins are involves in detecting BRs and transmitting the triggered singnal. While treatments with BRs lead to a reduced flavonoid accumulation, the opposite effect was observed in treatments with a BR biosynthesis inhibitor (brassinazole).
 
+
 ### (23) Auxiliary proteins in the flavonoid biosynthesis ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Chalcone isomerase-like (CHIL) and pathogenesis-related 10 (PR10) proteins play probably non-enzymatic, but important regulatory roles in the flavonoid biosynthesis #FlavonoidFriday (details: https://bit.ly/3fBuPsw)
+> **_<a href="https://twitter.com/boas_pucker/status/1423531785556664322">TWEET</a>:_** Chalcone isomerase-like (CHIL) and pathogenesis-related 10 (PR10) proteins play probably non-enzymatic, but important regulatory roles in the flavonoid biosynthesis #FlavonoidFriday (details: https://bit.ly/3fBuPsw)
 
+<a href="https://twitter.com/boas_pucker/status/1423531785556664322">
+<img alt="Auxiliary proteins in the flavonoid biosynthesis (Tweet #23)" src="https://pbs.twimg.com/media/E8Fjt8NWYAAELgq?format=jpg&name=4096x4096" width="20%" height="20%">
+</a>
 
 
 Two families of auxiliary proteins are important regulators of the flavonoid biosynthesis ([Dastmalchi, 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.15446)):
