@@ -342,7 +342,11 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 ### (24) Flavonoid absorption spectra ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Flavonoid absorption spectra depend on the pH. Cyanidin- and pelargonidin-based anthocyanins peak in blue-green wavelenght at low pH, but shift to longer wavelengths at higher pH #FlavonoidFriday (details: https://bit.ly/37F7PVa)
+> **_<a href="https://twitter.com/boas_pucker/status/1426076051352875013">TWEET</a>:_** Flavonoid absorption spectra depend on the pH. Cyanidin- and pelargonidin-based anthocyanins peak in blue-green wavelength at low pH, but shift to longer wavelengths at higher pH #FlavonoidFriday (details: https://bit.ly/37F7PVa)
+
+<a href="https://twitter.com/boas_pucker/status/1426076051352875013">
+<img alt="Flavonoid absorption spectra (Tweet #24)" src="https://pbs.twimg.com/media/E8pkBfmWEAQvU1p?format=jpg&name=large" width="20%" height="20%">
+</a>
 
 
 [Stavenga et al., 2021](https://doi.org/10.3389/fpls.2020.600124) investigated the impact of pH change on the absorption spectra of extracts from flowers. The color of flavonoids accumulating in the central vacuole is generally dependent on the vacuolar pH. Investigated species are the red flowering _Papaver dubium_, the orange flowering _Meconopsis cambrica_, and two _Mandevilla sanderi_ varities that flower in red and white, respectively. The absorption spectra of red extracts from _P. dubium_ flowers can be explained by cyanidin and pelargonidin glycosides. An analysis of _P. rhoeas_ extracts revealed that the contribution of flavonols with the same hydroxylation pattern (kaempferol and quercetin) is rather small. White flowers of _M. sanderi_ show a strong absorption in the UV range indicating the presence of flavonols. Methanolic extracts represent the native plant tissue well. 
