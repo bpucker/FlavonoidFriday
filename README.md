@@ -340,6 +340,13 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 (2) Pathogenesis-related 10 (PR10) proteins seem to bind intermediates of the flavonoid biosynthesis and could have an impact on the anthocyanin composition. PR10 is also involved in other spececialized metabolism pathways. Unfortunately, there is no uniform nomenclature for members of this gene family, because they were discovered and described independently in different species. PR1 in _Petroselium crispum_, _Bet v 1_ in _Betula verrucosa_, and Major latex proteins (MLPs) in _Papaver somniferum_. The PR10 clade is highly susceptible to neofunctionalization.
 
 
+### (24) Flavonoid absorption spectra ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Flavonoid absorption spectra depend on the pH. Cyanidin- and pelargonidin-based anthocyanins peak in blue-green wavelenght at low pH, but shift to longer wavelengths at higher pH #FlavonoidFriday (details: )
+
+
+[Stavenga et al., 2021](https://doi.org/10.3389/fpls.2020.600124) investigated the impact of pH change on the absorption spectra of extracts from flowers. The color of flavonoids accumulating in the central vacuole is generally dependent on the vacuolar pH. Investigated species are the red flowering _Papaver dubium_, the orange flowering _Meconopsis cambrica_, and two _Mandevilla sanderi_ varities that flower in red and white, respectively. The absorption spectra of red extracts from _P. dubium_ flowers can be explained by cyanidin and pelargonidin glycosides. An analysis of _P. rhoeas_ extracts revealed that the contribution of flavonols with the same hydroxylation pattern (kaempferol and quercetin) is rather small. White flowers of _M. sanderi_ show a strong absorption in the UV range indicating the presence of flavonols.
+
 
 
 ## Contact ##
