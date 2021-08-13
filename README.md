@@ -342,7 +342,7 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 ### (24) Flavonoid absorption spectra ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Flavonoid absorption spectra depend on the pH. Cyanidin- and pelargonidin-based anthocyanins peak in blue-green wavelenght at low pH, but shift to longer wavelengths at higher pH #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Flavonoid absorption spectra depend on the pH. Cyanidin- and pelargonidin-based anthocyanins peak in blue-green wavelenght at low pH, but shift to longer wavelengths at higher pH #FlavonoidFriday (details: https://bit.ly/37F7PVa)
 
 
 [Stavenga et al., 2021](https://doi.org/10.3389/fpls.2020.600124) investigated the impact of pH change on the absorption spectra of extracts from flowers. The color of flavonoids accumulating in the central vacuole is generally dependent on the vacuolar pH. Investigated species are the red flowering _Papaver dubium_, the orange flowering _Meconopsis cambrica_, and two _Mandevilla sanderi_ varities that flower in red and white, respectively. The absorption spectra of red extracts from _P. dubium_ flowers can be explained by cyanidin and pelargonidin glycosides. An analysis of _P. rhoeas_ extracts revealed that the contribution of flavonols with the same hydroxylation pattern (kaempferol and quercetin) is rather small. White flowers of _M. sanderi_ show a strong absorption in the UV range indicating the presence of flavonols.
