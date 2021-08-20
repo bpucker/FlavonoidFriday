@@ -353,7 +353,7 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 
 
-### (25) Petal color differences in Lysimachia arvensis ###
+### (25) Petal color differences in _Lysimachia arvensis_ ###
 
 > **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** DFR and F3'5'H are two important genes influencing the petal color of Lysimachia arvensis. DFR copies show amino acid differences which probably altered their substrate affinity #FlavonoidFriday (details: )
 
