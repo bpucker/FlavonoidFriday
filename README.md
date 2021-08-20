@@ -353,6 +353,17 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 
 
+### (25) Petal color differences in Lysimachia arvensis ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** DFR and F3'5'H are two important genes influencing the petal color of Lysimachia arvensis. DFR copies show amino acid differences which probably altered their substrate affinity #FlavonoidFriday (details: )
+
+
+
+[Sanchez-Cabera et al.](https://www.frontiersin.org/articles/10.3389/fpls.2021.633979/full) investigated the flower color transition from blue to orange in _Lysimachia arvensis_ based on a transcriptomic data set. Blue and orange flowered L. arvenssis plants can be found across Europe. Interestingly, the proportion of blue-flowered plants increases with temperature and daylength, while higher precipitation leads to a decrease. 39 of all 140 genes associated with the flavonoid biosynthesis showed differential expression. F3'5'H and DFR were among these DEGs. F3'5'H showed reduced expression in orange petals and two DFR copies revealed differential expression. These DFR copies showed amino acid substitutions that affected the substrate specificity region: primarily malvidin (blue) to primarily pelarognidin (orange). A phylogenetic analysis revealed that these DFR copies belong to two distinct lineages that resulted from a duplication deep in the angiosperms. Another important factor for the orange coloration is probably the high abundance of BZ1-2 which adds a glucose to the 3-position of anthocyanidins. Blue petals showed high abundance of OMT (methylation of delphinidin) and 3GT (adds rhamnoside), which are probably required for stabilization of the color. 
+
+
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
 
