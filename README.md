@@ -367,6 +367,17 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 
 
+### (26) Flavonoid biosynthesis in _Cosmos caudatus_ ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Microscopic analysis of anthocyanin patterns in _Cosmos caudatus_ reveals pigmentation of individual cells in the epidermis #FlavonoidFriday (details: )
+
+
+
+[Gunasekaran et al., 2021](https://doi.org/10.3390/agronomy11040661) looked at the anthocyanin biosynthesis in _Cosmos caudatus_ with omics and microscopic methods. The microscopic analysis revealed strong pigmentation of individual cells in the epidermis of different plant parts. The transcriptomics analysis lacks resolution and has not identified the bottlenecks in each tissue. It would have been nice to see if the F3'5'H expression correlates with the blue pigmentation. A connection of the metabolite levels (Fig.7) with the gene expression in the same tissue would have been very interesting.
+
+BLAST is not performing a search for "homology", but only identifies similar sequences which may or may not be homologs. It is actually not clear how the "anthoycanin genes" were identified in this study, because the bait sequences are not specified in the methods. This would have been a perfect case for [KIPEs](https://www.mdpi.com/2223-7747/9/9/1103/htm) to perform an automatic annotation and to find the actual functional isoform among the up to 12 unigenes for steps in the flavonoid biosynthesis. A phylogenetic analysis of all identified unigenes would be helpful to distinguish between functional and non-functional isoforms.
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
