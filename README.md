@@ -369,7 +369,7 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 ### (26) Flavonoid biosynthesis in _Cosmos caudatus_ ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Microscopic analysis of anthocyanin patterns in _Cosmos caudatus_ reveals pigmentation of individual cells in the epidermis #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Microscopic analysis of anthocyanin patterns in _Cosmos caudatus_ reveals pigmentation of individual cells in the epidermis #FlavonoidFriday (details: https://bit.ly/3ksUGV7)
 
 
 
