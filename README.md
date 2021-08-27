@@ -369,8 +369,12 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 ### (26) Flavonoid biosynthesis in _Cosmos caudatus_ ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Microscopic analysis of anthocyanin patterns in _Cosmos caudatus_ reveals pigmentation of individual cells in the epidermis #FlavonoidFriday (details: https://bit.ly/3ksUGV7)
+> **_<a href="https://twitter.com/boas_pucker/status/1431134381549113345">TWEET</a>:_** Microscopic analysis of anthocyanin patterns in _Cosmos caudatus_ reveals pigmentation of individual cells in the epidermis #FlavonoidFriday (details: https://bit.ly/3ksUGV7)
 
+
+<a href="https://twitter.com/boas_pucker/status/1431134381549113345">
+<img alt="Flavonoid biosynthesis in _Cosmos caudatus_ (Tweet #26)" src="https://pbs.twimg.com/media/E9xFDprXsAQ8pet?format=jpg&name=large" width="20%" height="20%">
+</a>
 
 
 [Gunasekaran et al., 2021](https://doi.org/10.3390/agronomy11040661) looked at the anthocyanin biosynthesis in _Cosmos caudatus_ with omics and microscopic methods. The microscopic analysis revealed strong pigmentation of individual cells in the epidermis of different plant parts. It would be very interesting to understand how this pigmentation pattern emerges. For example, it would be exciting to see if the F3'5'H expression correlates with the blue pigmentation. A connection of the metabolite levels (Fig.7) with the gene expression in the same tissue could help to answer such questions.
