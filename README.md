@@ -386,7 +386,7 @@ BLAST does not perform a search for "homology", but only identifies similar sequ
 
 ### (27) Red poplar leaves ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Color differences of poplar leaves involve an up-regulation of HY5, HYH, and TTG2 which activate the anthocyanin biosynthesis #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Color differences of poplar leaves involve an up-regulation of HY5, HYH, and TTG2 which activate the anthocyanin biosynthesis #FlavonoidFriday (details: https://bit.ly/3B8afIC)
 
 
 [Chen et al., 2021](https://doi.org/10.1007/s11103-021-01166-4) investigated the molecular mechanisms underlying the color differences of poplar leaves. Analyses on the transcriptomic and proteomic level were combined. The transcription factors HY5, HYH, and TTG2 appeared to be involved in the up-regulation of anthocyanin biosynthesis in red leaves. Anthocyanins are presented as the major factor responsible for the color change from green to red. There seems to be a negative correlation between the chlorophyll and the anthocyanin content in some cases. 
