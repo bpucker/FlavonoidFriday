@@ -401,7 +401,7 @@ While this study provides first insights, there are also several open questions:
 
 ### (28) Radish GST involved in anthocyanin transport ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** RsGST1 is involved in anthocyanin and proanthocyanidin accumulation in radish #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** RsGST1 is involved in anthocyanin and proanthocyanidin accumulation in radish #FlavonoidFriday (details: https://bit.ly/3kYMxIq)
 
 
 [Lai et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34247029/) identified and characterized RsGST1 in radish which can complement _Arabidopsis thaliana tt19_ (_gstf12_) mutants.
