@@ -410,7 +410,7 @@ While this study provides first insights, there are also several open questions:
 
 ### (29) Artificial producation of anthocyanins in the betalain-pigmented cactus ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Artificial producation of anthocyanins in the betalain-pigmented cactus Astrophytum myriostigma through heterologous expression of anthocyanin biosynthesis genes #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Artificial producation of anthocyanins in the betalain-pigmented cactus Astrophytum myriostigma through heterologous expression of anthocyanin biosynthesis genes #FlavonoidFriday (details: https://bit.ly/2WU1ZNu)
 
 
 [Sakuta et al., 2021](https://doi.org/10.1007/s10265-021-01341-0) achieved the artificial production of anthocyanins in a betalain-pigmented species. Naturally, anthocyanins and betalains are mutually exclusive (they do not co-occur in the same plant species) as recently reviewed [Timoneda et al., 2019](https://doi.org/10.1111/nph.15980). Overexpression of the anthocyanin biosynthesis genes _DFR_ and _ANS_ along with the anthocyanin transport factor _AN9_ in the cactus _Astrophytum myriostigma_ resulted in anthocyanin pigmentation. The authors postulate that a lack of transcriptional activation by the MYB transcription factor could be the reason for the lack of anthocyanin producation in betalain-pigmented species.
