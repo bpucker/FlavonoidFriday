@@ -419,7 +419,7 @@ While this study provides first insights, there are also several open questions:
 
 ### (30) Anthocyanin transport in sweetpotato ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** IbGSTF4 was identified as anthocyanin transporter in sweetpotato. Gene expression correlates with anthocyanin pigmentation and the tt19 mutant was completemented #FlavonoidFriday (details:)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** IbGSTF4 was identified as anthocyanin transport-associated protein in sweetpotato. Gene expression correlates with anthocyanin pigmentation and the tt19 mutant was completemented #FlavonoidFriday (details: https://bit.ly/2WXA27m)
 
 
 [Kou et al., 2019](https://doi.org/10.1016/j.plaphy.2018.12.028) identified a glutathione S-transferase in sweetpotato (_IbGSTF4_, _Ipomoea batatas_) that is involved in the anthocyanin transport. The first evidence for the identification was high sequence similarity to the previously chracterized AN9 in petunia.
