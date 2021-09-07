@@ -398,6 +398,23 @@ While this study provides first insights, there are also several open questions:
 
 
 
+
+### (28) Radish GST involved in anthocyanin transport ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** RsGST1 is involved in anthocyanin and proanthocyanidin accumulation in radish #FlavonoidFriday (details: )
+
+
+[Lai et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34247029/) identified and characterized RsGST1 in radish which can complement _Arabidopsis thaliana tt19_ (_gstf12_) mutants.
+This indicates that this gluthathione S-transferase is involved in the anthocyanin accumulation in the vacuole.
+RsGST1 was identified from a set of 40 GST members in radish.
+Additional evidence came from a higher expression of _RsGST1_ in red tissues compared to white ones.
+Overexpression of _RsGST1_ alone does not increase the anthocyanin biosynthesis.
+Overexpression of _RsGST1_ and the anthocyanin activating _RsMYB1a_ increased anthocyanin production and accumulation.
+It was also demonstrated that RsMYB1a is a transcriptional activator of _RsGST1_.
+
+
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
 
