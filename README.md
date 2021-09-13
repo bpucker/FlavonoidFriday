@@ -386,8 +386,11 @@ BLAST does not perform a search for "homology", but only identifies similar sequ
 
 ### (27) Red poplar leaves ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Color differences of poplar leaves involve an up-regulation of HY5, HYH, and TTG2 which activate the anthocyanin biosynthesis #FlavonoidFriday (details: https://bit.ly/3B8afIC)
+> **_<a href="https://twitter.com/boas_pucker/status/1433671098772508672">TWEET</a>:_** Color differences of poplar leaves involve an up-regulation of HY5, HYH, and TTG2 which activate the anthocyanin biosynthesis #FlavonoidFriday (details: https://bit.ly/3B8afIC)
 
+<a href="https://twitter.com/boas_pucker/status/1433671098772508672">
+<img alt="Red poplar leaves (Tweet #27)" src="https://pbs.twimg.com/media/E9x2l17XEAA7WsG?format=jpg&name=large" width="20%" height="20%">
+</a>
 
 [Chen et al., 2021](https://doi.org/10.1007/s11103-021-01166-4) investigated the molecular mechanisms underlying the color differences of poplar leaves. Analyses on the transcriptomic and proteomic level were combined. The transcription factors HY5, HYH, and TTG2 appeared to be involved in the up-regulation of anthocyanin biosynthesis in red leaves. Anthocyanins are presented as the major factor responsible for the color change from green to red. There seems to be a negative correlation between the chlorophyll and the anthocyanin content in some cases. 
 
@@ -401,8 +404,11 @@ While this study provides first insights, there are also several open questions:
 
 ### (28) Radish GST involved in anthocyanin transport ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** RsGST1 is involved in anthocyanin and proanthocyanidin accumulation in radish #FlavonoidFriday (details: https://bit.ly/3kYMxIq)
+> **_<a href="https://twitter.com/boas_pucker/status/1436215360923996170">TWEET</a>:_** RsGST1 is involved in anthocyanin and proanthocyanidin accumulation in radish #FlavonoidFriday (details: https://bit.ly/3kYMxIq)
 
+<a href="https://twitter.com/boas_pucker/status/1436215360923996170">
+<img alt="Radish GST involved in anthocyanin transport (Tweet #28)" src="https://pbs.twimg.com/media/E-qxzOhWUAEbS6E?format=jpg&name=large" width="20%" height="20%">
+</a>
 
 [Lai et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34247029/) identified and characterized RsGST1 in radish which can complement _Arabidopsis thaliana tt19_ (_gstf12_) mutants. This indicates that this gluthathione S-transferase is involved in the anthocyanin accumulation in the vacuole. RsGST1 was identified from a set of 40 GST members in radish. Additional evidence came from a higher expression of _RsGST1_ in red tissues compared to white ones. Overexpression of _RsGST1_ alone does not increase the anthocyanin biosynthesis. Overexpression of _RsGST1_ and the anthocyanin activating _RsMYB1a_ increased anthocyanin production and accumulation. It was also demonstrated that RsMYB1a is a transcriptional activator of _RsGST1_.
 
