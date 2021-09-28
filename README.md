@@ -432,6 +432,16 @@ While this study provides first insights, there are also several open questions:
 _IbGSTF4_ showed strong gene expression in purple-fleshed tissues. A complementation of the _Arabidopsis thaliana tt19_ mutant with _IbGSTF4_ was successful. _IbGSTF4_ expression was not activated by the anthocyanin regulating MYB (IbMYB1).
 
 
+### (31) Pucker lab starts research on specialized metabolites at TU Braunschweig ###
+
+
+
+### (32) Bifunctional FLS in rapeseed ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Did you know that a flavonol derivative is a major off-taste component in rapeseed protein isolates preventing its use in human consumption? Read about bifunctional FLS in B. napus seeds:https://bit.ly/3ieXWTO #FlavonoidFriday (details: )
+
+
+[Schilbert et al., 2021](https://doi.org/10.1101/2021.06.30.450533) characterized the FLS gene family in _Brassica napus_.
 
 
 
