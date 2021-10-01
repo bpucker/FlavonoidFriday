@@ -434,7 +434,11 @@ _IbGSTF4_ showed strong gene expression in purple-fleshed tissues. A complementa
 
 ### (31) Plant Biotechnology and Bioinformatics group starts research on specialized metabolites at TU Braunschweig ###
 
+> **_<a href="https://twitter.com/boas_pucker/status/1443825506021888003">TWEET</a>:_** Today, @PuckerLab starts research on specialized metabolism at @tuBraunschweig. Genomics & bioinformatics will help to unlock the secrets of plants. Details: https://lnk.tu-bs.de/nvToVH #PlantSci #FlavonoidFriday
 
+<a href="https://twitter.com/boas_pucker/status/1443825506021888003">
+<img alt="Plant Biotechnology and Bioinformatics (Tweet #31)" src="https://twitter.com/boas_pucker/status/1443825506021888003/photo/1" width="20%" height="20%">
+</a>
 
 ### (32) Bifunctional FLS in rapeseed ###
 
