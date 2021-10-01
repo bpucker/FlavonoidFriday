@@ -419,7 +419,7 @@ While this study provides first insights, there are also several open questions:
 > **_<a href="https://twitter.com/boas_pucker/status/1438752075664482304">TWEET</a>:_** Artificial production of anthocyanins in the betalain-pigmented cactus Astrophytum myriostigma through heterologous expression of anthocyanin biosynthesis genes #FlavonoidFriday (details: https://bit.ly/2WU1ZNu)
 
 <a href="https://twitter.com/boas_pucker/status/1438752075664482304">
-<img alt="Artificial producation of anthocyanins in the betalain-pigmented cactus (Tweet #29)" src="https://pbs.twimg.com/media/E-q5QKBXMAAo5xZ?format=jpg&name=large" width="20%" height="20%">
+<img alt="Artificial producation of anthocyanins in the betalain-pigmented cactus (Tweet #29)" src="https://pbs.twimg.com/media/E-q5QKBXMAAo5xZ?format=jpg&name=large" width="40%" height="40%">
 </a>
 
 [Sakuta et al., 2021](https://doi.org/10.1007/s10265-021-01341-0) achieved the artificial production of anthocyanins in a betalain-pigmented species. Naturally, anthocyanins and betalains are mutually exclusive (they do not co-occur in the same plant species) as recently reviewed [Timoneda et al., 2019](https://doi.org/10.1111/nph.15980). Overexpression of the anthocyanin biosynthesis genes _DFR_ and _ANS_ along with the anthocyanin transport factor _AN9_ in the cactus _Astrophytum myriostigma_ resulted in anthocyanin pigmentation. The authors postulate that a lack of transcriptional activation by the MYB transcription factor could be the reason for the lack of anthocyanin producation in betalain-pigmented species.
@@ -431,7 +431,7 @@ While this study provides first insights, there are also several open questions:
 > **_<a href="https://twitter.com/boas_pucker/status/1441288791793094668">TWEET</a>:_** IbGSTF4 was identified as an anthocyanin transport-associated protein in sweetpotato. Gene expression correlates with anthocyanin pigmentation and the tt19 mutant was complemented #FlavonoidFriday (details: https://bit.ly/2WXA27m)
 
 <a href="https://twitter.com/boas_pucker/status/1441288791793094668">
-<img alt="Anthocyanin transport in sweetpotato (Tweet #30)" src="https://pbs.twimg.com/media/E-rcudkXEAIh04S?format=jpg&name=large" width="20%" height="20%">
+<img alt="Anthocyanin transport in sweetpotato (Tweet #30)" src="https://pbs.twimg.com/media/E-rcudkXEAIh04S?format=jpg&name=large" width="40%" height="40%">
 </a>
 
 [Kou et al., 2019](https://doi.org/10.1016/j.plaphy.2018.12.028) identified a glutathione S-transferase in sweetpotato (_IbGSTF4_, _Ipomoea batatas_) that is involved in the anthocyanin transport. The first evidence for the identification was high sequence similarity to the previously chracterized AN9 in petunia.
@@ -443,7 +443,7 @@ _IbGSTF4_ showed strong gene expression in purple-fleshed tissues. A complementa
 > **_<a href="https://twitter.com/boas_pucker/status/1443825506021888003">TWEET</a>:_** Today, @PuckerLab starts research on specialized metabolism at @tuBraunschweig. Genomics & bioinformatics will help to unlock the secrets of plants. Details: https://lnk.tu-bs.de/nvToVH #PlantSci #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1443825506021888003">
-<img alt="Plant Biotechnology and Bioinformatics (Tweet #31)" src="https://pbs.twimg.com/media/FAl8hVBWQAEFgVe?format=jpg&name=4096x4096" width="20%" height="20%">
+<img alt="Plant Biotechnology and Bioinformatics (Tweet #31)" src="https://pbs.twimg.com/media/FAl8hVBWQAEFgVe?format=jpg&name=4096x4096" width="50%" height="50%">
 </a>
 
 ### (32) Bifunctional FLS in rapeseed ###
