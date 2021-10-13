@@ -446,6 +446,9 @@ _IbGSTF4_ showed strong gene expression in purple-fleshed tissues. A complementa
 <img alt="Plant Biotechnology and Bioinformatics (Tweet #31)" src="https://pbs.twimg.com/media/FAl8hVBWQAEFgVe?format=jpg&name=4096x4096" width="50%" height="50%">
 </a>
 
+Details about the research in the group and open positions can be found on the website: https://www.tu-braunschweig.de/en/ifp/pbb
+
+
 ### (32) Bifunctional FLS in rapeseed ###
 
 > **_<a href="https://twitter.com/boas_pucker/status/1446362223387971586">TWEET</a>:_** A flavonol derivative is a major off-taste component in rapeseed protein isolates preventing use in human consumption. Read about bifunctional FLS in B. napus seeds:https://bit.ly/3ieXWTO #FlavonoidFriday (details: https://bit.ly/39IxL3h)
