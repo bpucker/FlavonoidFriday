@@ -461,6 +461,16 @@ Details about the research in the group and open positions can be found on the w
 
 
 
+### (33) New to flavonoids? ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** New to flavonoids? They are exciting! Diverse in structure, function, and color. Promiscutity of the biosynthesis and decorating enzymes leads to a plethora of metabolites #FlavonoidFriday (details: )
+
+
+
+If you are new to flavonoids, you can get an introduction into the genes involved in the biosynthesis [here](https://www.mdpi.com/2223-7747/9/9/1103/htm). The biosynthesis is always displayed in a simplified way, because the number of modifying enzymes is huge. There are glycosyltransferases, methyltransferases, acyltransferases ... that can act on various flavonoids. Promiscuity of these enzymes is a major factor that leads to a plethora of different metabolites in plants.
+
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Dr. Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
 
