@@ -463,7 +463,7 @@ Details about the research in the group and open positions can be found on the w
 
 ### (33) New to flavonoids? ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** New to flavonoids? They are exciting! Diverse in structure, function, and color. Promiscutity of the biosynthesis and decorating enzymes leads to a plethora of metabolites #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** New to flavonoids? They are exciting! Diverse in structure, function, and color. Promiscutity of the biosynthesis and decorating enzymes leads to a plethora of metabolites #FlavonoidFriday (details: https://bit.ly/3AGcjH5)
 
 
 
