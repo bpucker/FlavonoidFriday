@@ -475,7 +475,7 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 
 ### (34) Chokecherry pigmentation ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Red pigmentation of _Padus virginiana_ leaves is largely dependent on activity of the anthocyanin glycosyltransferases #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Red pigmentation of _Padus virginiana_ leaves is largely dependent on activity of the anthocyanidin glycosyltransferases #FlavonoidFriday (details: https://bit.ly/3B0U53b)
 
 
 [Li et al., 2021](https://doi.org/10.3390/ijms221910697) identified the anthocyanin glycosyltransferases in _Padus virginiana_ (chokecherry) as the bottleneck in the coloration of leaves. Homologs of BZ1 and other flavonoid glucosyltransferases show substantially increased gene expression in red leaves compared to green leaves. This tree is an important ornamental species thus understanding the mechanism could pave the way for improvements.
