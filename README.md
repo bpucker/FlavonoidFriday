@@ -481,6 +481,14 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 [Li et al., 2021](https://doi.org/10.3390/ijms221910697) identified the anthocyanin glycosyltransferases in _Padus virginiana_ (chokecherry) as the bottleneck in the coloration of leaves. Homologs of BZ1 and other flavonoid glucosyltransferases show substantially increased gene expression in red leaves compared to green leaves. This tree is an important ornamental species thus understanding the mechanism could pave the way for improvements.
 
 
+### (35) Black rice pigmentation ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Upregulation of the anthocyanin biosynthesis by OsC1 improves the stress tolerance of rice #FlavonoidFriday (details: )
+
+
+[Upadhyaya et al., 2021](https://doi.org/10.1111/ppl.13583) investigated the tissue-specific regulation of anthocyanin biosynthesis in rice through the comparison of white and black accessions. _OsC1_, a gene encoding a R2R3-MYB transcription factor, was overexpressed in white rice to study its function. Developmental stages of white and black rice were compared and revealed a strong correlation between the antioxidant activity and the anthocyanin level (mostly cyanidin 3-glucoside). Overexpression of _OsC1_ resulted in elevated expression levels of the anthocyanin biosynthesis genes. The OX lines also showed a lower production of reactive oxyen species (ROS), less photosynthetic damage, and less membrane damage. Natural expression of _OsC1_ correlates with the expression of anthocyanin biosynthesis genes in black rice panicle.
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
