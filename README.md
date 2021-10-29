@@ -486,7 +486,11 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 
 ### (35) Black rice pigmentation ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Upregulation of the anthocyanin biosynthesis by OsC1 improves the stress tolerance of rice #FlavonoidFriday (details: https://bit.ly/2ZyBHlM)
+> **_<a href="https://twitter.com/boas_pucker/status/1453972365885509634">TWEET</a>:_** Upregulation of the anthocyanin biosynthesis by OsC1 improves the stress tolerance of rice #FlavonoidFriday (details: https://bit.ly/2ZyBHlM)
+
+<a href="https://twitter.com/boas_pucker/status/1453972365885509634">
+<img alt="Black rice pigmentation (Tweet #35)" src="https://pbs.twimg.com/media/FCzqyflXMAQPRnI?format=jpg&name=medium" width="30%" height="30%">
+</a>
 
 
 [Upadhyaya et al., 2021](https://doi.org/10.1111/ppl.13583) investigated the tissue-specific regulation of anthocyanin biosynthesis in rice through the comparison of white and black accessions. _OsC1_, a gene encoding a R2R3-MYB transcription factor, was overexpressed in white rice to study its function. Developmental stages of white and black rice were compared and revealed a strong correlation between the antioxidant activity and the anthocyanin level (mostly cyanidin 3-glucoside). Overexpression of _OsC1_ resulted in elevated expression levels of the anthocyanin biosynthesis genes. The OX lines also showed a lower production of reactive oxyen species (ROS), less photosynthetic damage, and less membrane damage. Natural expression of _OsC1_ correlates with the expression of anthocyanin biosynthesis genes in black rice panicle.
