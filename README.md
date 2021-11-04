@@ -498,7 +498,7 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 
 ### (36) Hydroxylation patterns of flavonoids ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday/">TWEET</a>:_** Hydroxylation patterns of anthocyanins and flavonols are well correlated in the flowers of Iochrominae, but correlation is low between flower and leaves #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday/">TWEET</a>:_** Hydroxylation patterns of anthocyanins and flavonols are well correlated in the flowers of Iochrominae, but correlation is low between flower and leaves #FlavonoidFriday (details: https://bit.ly/3o2ePDr)
 
 
 
