@@ -492,15 +492,16 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 <img alt="Black rice pigmentation (Tweet #35)" src="https://pbs.twimg.com/media/FCzqyflXMAQPRnI?format=jpg&name=medium" width="30%" height="30%">
 </a>
 
-
 [Upadhyaya et al., 2021](https://doi.org/10.1111/ppl.13583) investigated the tissue-specific regulation of anthocyanin biosynthesis in rice through the comparison of white and black accessions. _OsC1_, a gene encoding a R2R3-MYB transcription factor, was overexpressed in white rice to study its function. Developmental stages of white and black rice were compared and revealed a strong correlation between the antioxidant activity and the anthocyanin level (mostly cyanidin 3-glucoside). Overexpression of _OsC1_ resulted in elevated expression levels of the anthocyanin biosynthesis genes. The OX lines also showed a lower production of reactive oxyen species (ROS), less photosynthetic damage, and less membrane damage. Natural expression of _OsC1_ correlates with the expression of anthocyanin biosynthesis genes in black rice panicle.
 
 
 ### (36) Hydroxylation patterns of flavonoids ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday/">TWEET</a>:_** Hydroxylation patterns of anthocyanins and flavonols are well correlated in the flowers of Iochrominae, but correlation is low between flower and leaves #FlavonoidFriday (details: https://bit.ly/3o2ePDr)
+> **_<a href="https://twitter.com/boas_pucker/status/1456524181978456067">TWEET</a>:_** Hydroxylation patterns of anthocyanins and flavonols are well correlated in the flowers of Iochrominae, but correlation is low between flower and leaves #FlavonoidFriday (details: https://bit.ly/3o2ePDr)
 
-
+<a href="https://twitter.com/boas_pucker/status/1456524181978456067">
+<img alt="Hydroxylation patterns of flavonoids (Tweet #36)" src="https://pbs.twimg.com/media/FDX0_-qXEAES_0p?format=jpg&name=large" width="30%" height="30%">
+</a>
 
 [Berardi et al., 2016](http://dx.doi.org/10.1016/j.phytochem.2016.05.007) investigated the hydroxylation patterns of flavonoids in Iochrominae (Solanaceae). Anthocyanins and flavonols can have between one and three hydroxy groups which determine their biochemical properties. The color of anthocyanins depends on the hydroxylation state with trihydroxylated anthocyanins appearing as blue pigments. The most abundant anthocyanin usually determines the observed flower color, but other pigments like carotenoids can have an influence. Different Iochrominae were analyzed with respect to the abundance of differently hydroxylated flavonoids. Species with a high amount of trihydroxylated anthocyanins also showed a high amount of trihydroxylated flavonols (myricetin glcyosides). Species with a high amount of dihydroxylated anthocyanins also showed a high amount of dihydroxylated flavonols (quercetin glcyosides). Species with a high amount of monohydroxylated anthocyanins also showed a high amount of monohydroxylated flavonols (kaempferol glcyosides). Myricetin was only detected in the purple flowers probably due to the exclusive presence of F3'5'H in these flowers.
 
