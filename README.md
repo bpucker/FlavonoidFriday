@@ -509,8 +509,11 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 
 ### (37) Anthocyanin colors ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday/">TWEET</a>:_** Anthocyanins appear in a wide range of colors depending on decorations/modification of Pelargonidin, Cyanidin, Delphinidin, Peonidin, Petunidin, Malvidin (and more) #FlavonoidFriday (details: https://bit.ly/3oiGgZO)
+> **_<a href="https://twitter.com/boas_pucker/status/1459060897385795584">TWEET</a>:_** Anthocyanins appear in a wide range of colors depending on decorations/modification of Pelargonidin, Cyanidin, Delphinidin, Peonidin, Petunidin, Malvidin (and more) #FlavonoidFriday (details: https://bit.ly/3oiGgZO)
 
+<a href="https://twitter.com/boas_pucker/status/1459060897385795584">
+<img alt="Anthocyanin colors (Tweet #37)" src="https://pbs.twimg.com/media/FD8XJFNWYAkviul?format=jpg&name=large" width="30%" height="30%">
+</a>
 
 Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ in the number of hydroxy groups. The color ranges from orange over purple to blue. Additional modifications are Peonidin (O-methylated Cyanidin), Petunidin (O-methylated Delphinidin), and Malvidin (2x O-methylated Delphinidin). The addition of sugar moieties turns the anthocyanidins into anthocyanins.
 
