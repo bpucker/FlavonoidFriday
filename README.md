@@ -520,10 +520,10 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 
 ### (38) Anthocyanin degradation ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Potato tubers accumulate anthocyanins and maintain stabel levels, while purple-fruited genotypes of eggplant and pepper show high levels in unripe fruits which decrease during ripening #FlavonoidFriday (details: https://bit.ly/3HAiHUR)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Potato tubers accumulate anthocyanins and maintain stable levels, while purple-fruited genotypes of eggplant and pepper show high levels in unripe fruits which decrease during ripening #FlavonoidFriday (details: https://bit.ly/3HAiHUR)
 
 
-[Liu et al., 2018](https://doi.org/10.3389/fchem.2018.00052) reviewed anthocyanin degradation mechanisms in the Solanaceous vegetables. The color of eggplant, pepper, and potato is influenced by anthocyanins. Besides the well characterized biosynthesis the degradation of anthocyanins also contributes to the observed pigment levels. There is a genetic factor that influences the speed of the anthocyanin degradation. However, the molecular mechanism of this degradation remains largely unknown. Potential degradation pathways are (1) oxidation by a peroxidase and (2) deglycosylation by ß-glucosidase and oxidation by polyphenol oxidase o peroxidase.
+[Liu et al., 2018](https://doi.org/10.3389/fchem.2018.00052) reviewed anthocyanin degradation mechanisms in the Solanaceous vegetables. The color of eggplant, pepper, and potato is influenced by anthocyanins. Besides the well characterized biosynthesis the degradation of anthocyanins also contributes to the observed pigment levels. There is a genetic factor that influences the speed of the anthocyanin degradation. However, the molecular mechanism of this degradation remains largely unknown. Potential degradation pathways are (1) oxidation by a peroxidase and (2) deglycosylation by a ß-glucosidase and oxidation by a polyphenol oxidase or peroxidase.
 
 
 
