@@ -518,6 +518,14 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ in the number of hydroxy groups. The color ranges from orange over purple to blue. Additional modifications are Peonidin (O-methylated Cyanidin), Petunidin (O-methylated Delphinidin), and Malvidin (2x O-methylated Delphinidin). The addition of sugar moieties turns the anthocyanidins into anthocyanins.
 
 
+### (38) Anthocyanin degradation ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Potato tubers accumulate anthocyanins and maintain stabel levels, while purple-fruited genotypes of eggplant and pepper show high levels in unripe fruits which decrease during ripening #FlavonoidFriday (details: )
+
+
+[Liu et al., 2018](https://doi.org/10.3389/fchem.2018.00052) reviewed anthocyanin degradation mechanisms in the Solanaceous vegetables. The color of eggplant, pepper, and potato is influenced by anthocyanins. Besides the well characterized biosynthesis the degradation of anthocyanins also contributes to the observed pigment levels. There is a genetic factor that influences the speed of the anthocyanin degradation. However, the molecular mechanism of this degradation remains largely unknown. Potential degradation pathways are (1) oxidation by a peroxidase and (2) deglycosylation by ß-glucosidase and oxidation by polyphenol oxidase o peroxidase.
+
+
 
 
 ## Contact ##
