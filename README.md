@@ -531,6 +531,16 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 
 
 
+### (39) Banana ODDs ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Flavanone 3-hydroxylase (F3H), flavonol synthase (FLS), and anthocyanidin synthase (ANS) belong to the 2-oxoglutarate-dependent dioxygenase (ODD) gene family #FlavonoidFriday (details: )
+
+
+[Busche et al., 2021](https://doi.org/10.3389/fpls.2021.701780) characterized three members of the 2-oxoglutarate-dependent dioxygenase (ODD) family in _Musa acuminata_. First, flavanone 3-hydroxylase (F3H), flavonol synthase (FLS), and anthocyanidin synthase (ANS) functions were checked through a bioconversion assay. Next, these functions were also validated _in planta_ through complementation of the corresponding _Arabidopsis thaliana_ mutant lines. This study provides the basis for genetic engineering of banana plants towards enhanced antioxidant activity and increased nutritional value (biofortification).
+
+
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:bpucker@cebitec.uni-bielefeld.de?subject=[GitHub]FlavonoidFriday)
 
