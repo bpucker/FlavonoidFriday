@@ -1,5 +1,5 @@
 # #FlavonoidFriday
-This repository provides additional background about the #FlavonoidFriday tweets.
+This repository provides additional background to the #FlavonoidFriday tweets.
 
 ## Introduction ##
 The flavonoid biosnythesis is one of the best studied specialized metabolism pathways in plants. Flavonoids are produced by almost all land plants, but specific branches of this pathway are not present in all species. Flavonol biosynthesis, flavone biosynthesis, anthocyanin biosnythesis, and proanthocyanidin biosynthesis are some branches of the flavonoid biosynthesis. Products of these branches have different functions and the enzymes might compete for substrate when branches are active at the same time. Therefore, the gene expression of all players in this pathway is tightly regulated by a number of transcription factors (see Transcriptional Regulation). Fig. 1 provides a simplified overview of the flavonoid biosynthesis [(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm).
@@ -529,8 +529,6 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 [Liu et al., 2018](https://doi.org/10.3389/fchem.2018.00052) reviewed anthocyanin degradation mechanisms in the Solanaceous vegetables. The color of eggplant, pepper, and potato is influenced by anthocyanins. Besides the well characterized biosynthesis the degradation of anthocyanins also contributes to the observed pigment levels. There is a genetic factor that influences the speed of the anthocyanin degradation. However, the molecular mechanism of this degradation remains largely unknown. Potential degradation pathways are (1) oxidation by a peroxidase and (2) deglycosylation by a ß-glucosidase and oxidation by a polyphenol oxidase or peroxidase.
 
 
-
-
 ### (39) Banana ODDs ###
 
 > **_<a href="https://twitter.com/boas_pucker/status/1464134326333935619">TWEET</a>:_** Flavanone 3-hydroxylase (F3H), flavonol synthase (FLS), and anthocyanidin synthase (ANS) belong to the 2-oxoglutarate-dependent dioxygenase (ODD) gene family #FlavonoidFriday (details: https://bit.ly/3lasQxZ)
@@ -540,6 +538,14 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 </a>
 
 [Busche et al., 2021](https://doi.org/10.3389/fpls.2021.701780) characterized three members of the 2-oxoglutarate-dependent dioxygenase (ODD) family in _Musa acuminata_. First, flavanone 3-hydroxylase (F3H), flavonol synthase (FLS), and anthocyanidin synthase (ANS) functions were checked through a bioconversion assay. Next, these functions were also validated _in planta_ through complementation of the corresponding _Arabidopsis thaliana_ mutant lines. This study provides the basis for genetic engineering of banana plants towards enhanced antioxidant activity and increased nutritional value (biofortification).
+
+
+### (40) Proanthocyanidins ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Proanthocyanidins (PAs) comprise 2-30 subunits. Polymerization of the flavan-3-ols subunits still poses questions #FlavonoidFriday (details:  )
+
+
+[Constable, 2018](10.1021/acs.jafc.8b02950) reviews the current knowlede about proanthocyanidins (PAs). While the biosynthesis of the flavan-3-ol precursors is well understood, the polymerization to PAs still poses questions. 2,3-cis-flavan-3-ols (epicatechin, epigallocatechin) and 2,3-trans-flavan-3-ols (catechin, gallocatechin) are PA subunits. Between 2 and 30 of these subunits are connected in the polymerization process. PAs are abundant in trees and in the coats of seeds. Living tissues contain PAs in the central vacuole. It is assumed that MATE transporteres are required to import 3-O-glycosylated precursors thus the polymerization might happen in the vacuole. The closely related species _Populus angustifolia_ and _P. fremontii_ differ substantially in their polymer size thus indicating an enzymatic basis. The hydroxylation of the B-ring can differ between precursors with procyanidin-type subunits beeing the most abundant onces in most species. The biosynthesis of prodelphinidin-type precursors requires F3'5'H activity. Further decoration of PAs with acyl groups is possible and might boost their health benefits.
 
 
 
