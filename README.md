@@ -542,7 +542,7 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 
 ### (40) Proanthocyanidins ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Proanthocyanidins (PAs) comprise 2-30 subunits. Polymerization of the flavan-3-ols subunits still poses questions #FlavonoidFriday (details:  )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Proanthocyanidins (PAs) comprise 2-30 subunits. Polymerization of the flavan-3-ol subunits still poses many questions #FlavonoidFriday (details: https://bit.ly/3G0et7A)
 
 
 [Constable, 2018](10.1021/acs.jafc.8b02950) reviews the current knowlede about proanthocyanidins (PAs). While the biosynthesis of the flavan-3-ol precursors is well understood, the polymerization to PAs still poses questions. 2,3-cis-flavan-3-ols (epicatechin, epigallocatechin) and 2,3-trans-flavan-3-ols (catechin, gallocatechin) are PA subunits. Between 2 and 30 of these subunits are connected in the polymerization process. PAs are abundant in trees and in the coats of seeds. Living tissues contain PAs in the central vacuole. It is assumed that MATE transporteres are required to import 3-O-glycosylated precursors thus the polymerization might happen in the vacuole. The closely related species _Populus angustifolia_ and _P. fremontii_ differ substantially in their polymer size thus indicating an enzymatic basis. The hydroxylation of the B-ring can differ between precursors with procyanidin-type subunits beeing the most abundant onces in most species. The biosynthesis of prodelphinidin-type precursors requires F3'5'H activity. Further decoration of PAs with acyl groups is possible and might boost their health benefits.
