@@ -551,6 +551,17 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 [Constable, 2018](https://pubs.acs.org/doi/10.1021/acs.jafc.8b02950) reviews the current knowlede about proanthocyanidins (PAs). While the biosynthesis of the flavan-3-ol precursors is well understood, the polymerization to PAs still poses questions. 2,3-cis-flavan-3-ols (epicatechin, epigallocatechin) and 2,3-trans-flavan-3-ols (catechin, gallocatechin) are PA subunits. Between 2 and 30 of these subunits are connected in the polymerization process. PAs are abundant in trees and in the coats of seeds. Living tissues contain PAs in the central vacuole. It is assumed that MATE transporteres are required to import 3-O-glycosylated precursors thus the polymerization might happen in the vacuole. The closely related species _Populus angustifolia_ and _P. fremontii_ differ substantially in their polymer size thus indicating an enzymatic basis. The hydroxylation of the B-ring can differ between precursors with procyanidin-type subunits beeing the most abundant onces in most species. The biosynthesis of prodelphinidin-type precursors requires F3'5'H activity. Further decoration of PAs with acyl groups is possible and might boost their health benefits.
 
 
+### (41) Loss of rice pigments ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** MYB (C1), bHLH (S1), and DFR (A1) control the pigmentation of rice. Loss of dark color occurred independently in many cultivars #FlavonoidFriday (details: )
+
+<a href="https://github.com/bpucker/FlavonoidFriday">
+<img alt="Loss of rice pigments (Tweet #41)" src="https://pbs.twimg.com/media/FCzqyflXMAQPRnI?format=jpg&name=medium" width="30%" height="30%">
+</a>
+
+[Sun et al., 2018](https://academic.oup.com/jxb/article/69/7/1485/4816143) studied the C-S-A gene system that controls the hull pigmentation in rice. _C1_ encodes a R2R3-MYB transcription factors, _S1_ encodes a bHLH protein, and _A1_ encodes the anthocyanin biosynthesis enzyme DFR. A genetic investigation of differently pigmented mutants (dark, red, yellow) revealed that three loci are involved in the control of pigmentation. Epistasis was inferred from crossing experiments. The interaction between the MYB C1 and the bHLH S1 was demonstrated in yeast-two-hybrid experiments. Interestingly, anthocyanins are only produced in the red pigmented cultivars with cyanidin 3-O-glucoside beeing one major contributor. The loss of dark pigmentation occurred independently in _Oryza sativa_ and _Oryza japonica_. Different molecular events were identified within both species thus suggesting multiple independent losses.
+
+
 
 
 ## Contact ##
