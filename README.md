@@ -14,7 +14,7 @@ Fig. 1: Simplified overview of the flavonoid biosynthesis. (source:[(Pucker et a
 
 
 ### Transcriptional Regulation ###
-The sophisticated regulatory network of the flavonoid biosnythesis contains members of numerous transcription factor families. Among the important families are MYBs, bHLHs, WD40s, NACs, and WRKYs. Some MYBs, bHLHs, and WD40s form a complex which is called MBW. More information about the MYBs is available through the [MybMonday](https://github.com/bpucker/MybMonday).
+The sophisticated regulatory network of the flavonoid biosnythesis contains members of numerous transcription factor families. Among the important families are MYBs, bHLHs, WD40s, NACs, and WRKYs. Some MYBs, bHLHs, and WD40s form a complex which is called MBW. More information about the MYBs is available through the **[MybMonday](https://github.com/bpucker/MybMonday)**.
 
 ### Mutual Exclusion of Anthocyanins and Betalains ###
 While the flavonoid biosynthesis is present in (almost) all land plants, certain branches are not. One famemous example is the mutual exclusion of anthocyanins and betalains in the Caryophyllales. The yellow to red betalains are tyrosine-derived pigment group which replaced anthocyanins in several families of the Caryophyllales. Both pigments have never reported together in the same tissue and the same species. Please see [Timoneda *et al*., 2019](https://doi.org/10.1111/nph.15980) for a recent review of the complex pigment evolution in the Caryophyllales.
