@@ -553,9 +553,9 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 
 ### (41) Loss of rice pigments ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** MYB (C1), bHLH (S1), and DFR (A1) control the pigmentation of rice. Loss of purple hull color occurred independently in many cultivars #FlavonoidFriday (details: https://bit.ly/3xQnPjn)
+> **_<a href="https://twitter.com/boas_pucker/status/1469207757211402243">TWEET</a>:_** MYB (C1), bHLH (S1), and DFR (A1) control the pigmentation of rice. Loss of purple hull color occurred independently in many cultivars #FlavonoidFriday (details: https://bit.ly/3xQnPjn)
 
-<a href="https://github.com/bpucker/FlavonoidFriday">
+<a href="https://twitter.com/boas_pucker/status/1469207757211402243">
 <img alt="Loss of rice pigments (Tweet #41)" src="https://pbs.twimg.com/media/FCzqyflXMAQPRnI?format=jpg&name=medium" width="30%" height="30%">
 </a>
 
