@@ -562,6 +562,14 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 [Sun et al., 2018](https://academic.oup.com/jxb/article/69/7/1485/4816143) studied the C-S-A gene system that controls the hull pigmentation in rice. _C1_ encodes a R2R3-MYB transcription factors, _S1_ encodes a bHLH protein, and _A1_ encodes the anthocyanin biosynthesis enzyme DFR. A genetic investigation of differently pigmented mutants (brown, purple, yellow) revealed that three loci are involved in the control of hull pigmentation. Epistasis was inferred from crossing experiments. The interaction between the MYB C1 and the bHLH S1 was demonstrated in yeast-two-hybrid experiments. Interestingly, anthocyanins are only produced in the purple pigmented cultivars with cyanidin 3-O-glucoside beeing one major contributor. The loss of this pigmentation occurred independently in _Oryza sativa_ and _Oryza japonica_. Different molecular events were identified within both species thus suggesting multiple independent losses. Black pigmentation is the results of a gain-of-function mutation in the bHLH.
 
 
+### (42) Biochemical diversity of flavonoids ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Biochemical diversity of flavonoids is based on hydroxylation, glycosylation, methylation, acylation, and many other modofications #FlavonoidFriday (details: ) 
+
+
+Hydroxylation patterns and other modifications of the aglcyon distinguish between different types of flavonoids. Aglycons can be modified through the successive addition of sugar moieties. The 3 and 5 position of the C ring are most frequently modified. Different sugar groups and can be attached by a large set of different glycosyltransferases as recently reviewed by [Tohge et al., 2017](https://doi.org/10.1093/jxb/erx177).
+
+
 
 
 ## Contact ##
