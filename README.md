@@ -578,6 +578,12 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 [Nitarska et al., 2018](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1424-0) investigated red hues in the bracts of different _Euphorbia pulcherima_ cultivars. Dark red coloration of the cultivars ‘Christmas Beauty’ and ‘Christmas Feeling’ is based on cyanidin derivatives. Other cultivars show an orange-red bract color that is caused by pelargonidin derivatives. DFRs of _E. pulcherima_ prefer dihydromyricetin and dihydroquercetin over dihydrokaempferol thus producing more cyanidin than pelargonidin. A frameshift mutation in the F3'H of 'Harvest Orange' results in a premature stop codon and an inactive enzyme. Although this cultivar is heterozygot for this mutation, only the non-functional allele is expressed in the bracts.
 
 
+### (44) Red leaves of _Pennisetum setaceum_ 'Rubrum' ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Gene expression changes in chlorophyll and flavonoid biosynthesis are associated with color changes in Pennisetum setaceum ‘Rubrum’ upon changes of sun light exposure #FlavonoidFriday (details: )
+
+
+[Zhu et al., 2020](https://doi.org/10.1371/journal.pone.0242618) investigated the genes responsible for the redish pigmentation of the ornamental grass _Pennisetum setaceum_ 'Rubrum'. The redish pigmentation is induced by light exposure.  An RNA-seq experiment was performed to find differences in genes expression between leaves in the dark and those exposed to strong sun light. T0 are leaves under normal condition. These leaves turn green if shading is provided for 12 days (T1). The leaves turn red again if exposed to sun light (T2, T3, T4). RNA-seq revealed that the chlorophyll biosynthesis is activated when leaves are moved from light exposure to shadow. Genes involved in the flavonoid biosynthesis showed down-regulation once the sun light is blocked off. This can explain the shift from red to green when protecting plants from the sun light. The color changes back to redish once the plants are exposed to sun light again.
 
 
 
