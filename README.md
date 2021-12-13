@@ -572,7 +572,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (43) Red pigmentation of poinsettia ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Euphorbia pulcherima cultivar 'Harvest Orange' has a frameshift mutation in the flavonoid 3'-hydroxylase compared to ‘Christmas Beauty’ and ‘Christmas Feeling’ #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Euphorbia pulcherima cultivar 'Harvest Orange' has a frameshift mutation in the flavonoid 3'-hydroxylase compared to ‘Christmas Beauty’ and ‘Christmas Feeling’ #FlavonoidFriday (details: https://bit.ly/33fCWaM)
 
 
 [Nitarska et al., 2018](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1424-0) investigated red hues in the bracts of different _Euphorbia pulcherima_ cultivars. Dark red coloration of the cultivars ‘Christmas Beauty’ and ‘Christmas Feeling’ is based on cyanidin derivatives. Other cultivars show an orange-red bract color that is caused by pelargonidin derivatives. DFRs of _E. pulcherima_ prefer dihydromyricetin and dihydroquercetin over dihydrokaempferol thus producing more cyanidin than pelargonidin. A frameshift mutation in the F3'H of 'Harvest Orange' results in a premature stop codon and an inactive enzyme. Although this cultivar is heterozygot for this mutation, only the non-functional allele is expressed in the bracts.
