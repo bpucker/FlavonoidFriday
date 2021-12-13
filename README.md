@@ -588,7 +588,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (45) KIPEs ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Starting 2022 with research on flavonoids? KIPEs can help you to find the flavonoid biosynthesis genes in your plant species of interest: https://lnk.tu-bs.de/SYzXMe #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Starting 2022 with research on flavonoids? KIPEs can help you to find the flavonoid biosynthesis genes in your plant species of interest: https://lnk.tu-bs.de/SYzXMe #FlavonoidFriday (details: https://bit.ly/3pRbBn8)
 
 
 
