@@ -44,6 +44,7 @@ Tohge _et al_., 2017: Current understanding of the pathways of flavonoid biosynt
 <img alt="Flavonoid biosynthesis pathway overview (Tweet #1)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096" width="20%" height="20%">
 </a>
 
+(Figure source: [Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm))
 
 The background about this tweet is described above in the general introduction to the flavonoid biosynthesis.
 
@@ -84,6 +85,7 @@ LAR and ANR are involved in the PA biosynthesis in many species. However, A. tha
 <img alt="Dietary Flavonoids (Tweet #5)" src="https://pbs.twimg.com/media/ExYtlWkWEAEworj?format=jpg&name=4096x4096" width="80%" height="80%">
 </a>
 
+(Figure source: [Ahn-Jarvis et al., 2019](https://doi.org/10.3390/antiox8070202))
 
 Flavonoids are not just responsible for beautiful flower phenotypes. These molecules can also be beneficial for human health. Flavonoids in the human diet and the potential for biomedical/biotechnological applications in the future were recently reviewed by [Ahn-Jarvis et al.](https://doi.org/10.3390/antiox8070202). They discus the releveance of increasing the bioavailability of flavonoids through agricultural engineering and targeted food design. The anti-proliferative, antioxidant, anti-inflammatory, and estrogenic activities of flavonoids could be harnessed to support classical treatments. While flavonoids show promising effects in cellular studies, the applied concentrations are almost impossible to reach with conventional food products. Changing the food processing might be one option to enhance the bioavailability. However, the bioavailability of flavonoids also depends on host factors like age and gender. Further research is required to understand the relevance of the nutrition in complex diseases.
 
