@@ -568,6 +568,9 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 
 > **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Biochemical diversity of flavonoids is based on hydroxylation, glycosylation, methylation, acylation, and many other modifications #FlavonoidFriday (details: https://bit.ly/3dKUQnN) 
 
+<a href="https://twitter.com/boas_pucker/status/1471736926415863809">
+<img alt="Biochemical diversity of flavonoids (Tweet #42)" src="https://pbs.twimg.com/media/FGgMKCDWQAI4B_8?format=jpg&name=4096x4096" width="30%" height="30%">
+</a>
 
 Hydroxylation patterns and other modifications of the aglcyon distinguish between different types of flavonoids. Aglycons can be modified through the successive addition of sugar moieties. The 3 and 5 position of the C ring are most frequently modified. Different sugar groups and can be attached by a large set of different glycosyltransferases as recently reviewed by [Tohge et al., 2017](https://doi.org/10.1093/jxb/erx177).
 
