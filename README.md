@@ -605,7 +605,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 <img alt="KIPEs (Tweet #45)" src="https://pbs.twimg.com/media/FGgOhLZXIAUJqTh?format=jpg&name=4096x4096" width="50%" height="50%">
 </a>
 
-KIPEs can be applied to identify the genes of the flavonoid biosynthesis in a species with a new transcriptome/genome sequence assembly. This can be helpful to understand stress response or pigmentation patterns.
+[KIPEs](https://github.com/bpucker/KIPEs) can be applied to identify the genes of the flavonoid biosynthesis in a species with a new transcriptome/genome sequence assembly. This can be helpful to understand stress response or pigmentation patterns. Details are described in the corresponding publication ([Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm)).
 
 
 
