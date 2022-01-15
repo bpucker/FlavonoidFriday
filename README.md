@@ -613,8 +613,11 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (46) Tomato fruit colours ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Engineered anthocyanin biosynthesis allows modulation of tomato fruit colours ranging from 'Crimson' over 'Magenta' to 'Indigo' #FlavonoidFriday (details: https://lnk.tu-bs.de/Ro3vE7)
+> **_<a href="https://twitter.com/boas_pucker/status/1481947954718126081">TWEET</a>:_** Engineered anthocyanin biosynthesis allows modulation of tomato fruit colours ranging from 'Crimson' over 'Magenta' to 'Indigo' #FlavonoidFriday (details: https://lnk.tu-bs.de/Ro3vE7)
 
+<a href="https://twitter.com/boas_pucker/status/1481947954718126081">
+<img alt="Tomato fruit colours (Tweet #46)" src="https://pbs.twimg.com/media/FJDmK64XsAU4u3J?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 [Butelli et al., 2021](https://doi.org/10.3390/horticulturae7090327) genetically modified tomatoes to achieve different colouration of the fruits. Naturally, the fruit is not coloured by anthocyanins, but by carotenoids. The heterologous expression of the three transcription factors _AmDel_ (bHLH), _AmRos1_ (MYB), and _AtMYB12_ together with _AmDFR_ and combined with a f3'5'h mutation (premature stop codon) allowed to span a huge range of fruit colours. The constructed lines differ in the major anthocyanin that is produced: pelanin in 'Crimson', peonanin in 'Magenta', and petanin in 'Indigo'. 
 
