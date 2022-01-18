@@ -623,6 +623,15 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 
 
+### (47) Anthocyanins in carrots ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Carrots are usually orange due to carotenoids, but high levels of anthocyanins can result in purple or black coloration of carrots #FlavonoidFriday (details: )
+
+
+[Iorizzo et al., 2020](https://www.mdpi.com/2073-4425/11/8/906) reviewed the anthocyanin biosynthesis in carrots. Carrot extracts are used as "natural" colorants of nutritional products. Anthocyanins are approved in the US and Europe, but products must be labeld with E163 to show the inclusion of these pigments. Carrots are rich in anthocyanins and lack off-taste components that are preventing the use of other plant species. The wide color range of these anthocyanins is another advantage. Anthocyanins account for a major fraction of the phenolic compounds in carrots. Purple carrots have often five different types of cyanidin glycosides (2 are non-acylated and 3 are acylated). Many studies reported a dominance of the acylated anthocyanins over the non-acylated anthocyanins. Acylation with ferulic (Cy3XSGG), sinapic (Cy3XSGG), and coumaric acid (Cy3XCGG) are the most abundant cyanidin glycoside modifcations in carrot roots. These acylated anthocyanins are better suited for food coloration than non-acylated anthocyanins due to their higher stability at higher pH values. Four major QTL were identified that are responsible for the purple pigmentation of carrots. In total, 159 potential anthocyanin biosynthesis genes were detected in the carrot genome sequence annotation. No _F3'5'H_ was identified suggesting that it is not present in carrots. _FNS_ and _FLS_ show low expression in roots of purple carrots suggesting that substrate composition needs to be avoided for high anthcoyanin formation. _DFR1_ was found to be up-regulated in all studies suggesting that this is a crucial point in controlling the anthocyanin content. DcMYB6 was identified as important anthocyanin activator in some, but not in all purple cultivars. DcMYB7 and DcMYB113 were identified as additional anthocyanin activators. These MYBs might activate the anthocyanin biosynthesis in slightly different ways resulting in different ratios of anthocyanin types. The modification of anthocyanin biosynthesis genes by genome editing or the application of co-pigmentation could be future research fields.
+
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
 
