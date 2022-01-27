@@ -635,6 +635,13 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 
 
+### (48) Anthocyanin color change ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Increase in the vacuolar pH of Ipomoea tricolor results in a color change from purplish red to blue. NHX1 imports Na+ into the vacuole in exchange for H+ #FlavonoidFriday (details: )
+
+[Yoshida et al., 2005](https://academic.oup.com/pcp/article/46/3/407/1817366) observed that a shift in the vacuolar pH of _Ipomoea tricolor_ (morning glory) from 6.6 to 7.7 results in a color change from purplish red to blue. Generally, a shift towards alkaline pH in anthocyanin-pigmented plants leads to blue coloration while a shift towards acidic pH shifts the color back to red. A Na+/H+ exchanger (NHX1) was identified in the tonoplasts of _I. tricolor_ petals. This transporter is most likely responsible for the pH shift. Anthocyanins would loose their color under alkaline conditions unless they are polyacylated and stabalized by intramolecular stacking of caffeoyl residues to the chromophore. Expression of _NHX1_ coincided with anthocyanin pigmentation in the petal cells. This correlation was strong in a time course experiment around the flower opening suggesting that pH change is synchronized with flower opening.
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
 
