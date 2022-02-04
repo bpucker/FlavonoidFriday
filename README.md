@@ -649,7 +649,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (49) Glycosylation and acylation of anthocyanins ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Anthocyanin modification is based on glycosylation and acylation catalyzed by groups of enzymes that are located in the cytoplasm or in the vacuole, respectively #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Modification of anthocyanins is based on glycosylation and acylation catalyzed by enzymes of different families. Some are located in the cytoplasm and some in the vacuole #FlavonoidFriday (details: https://lnk.tu-bs.de/ZYq1PT)
 
 
 [Sasaki et al., 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6271837/) reviewed the enzymes involved in the glycosylation and acylation of anthocyanins: glycosyltransferases (GTs) and acyltransferases (ATs). Various decorations of anthocyanins influence their biochemical properties e.g. their stability. Cytoplasmic GTs use UDP-sugar as donor while vacuolar GTs use aromatic acyl-glucose or p-hydroxybenzoylglucose. Usually the 3-position and the 5-position of anthocyanins are modified by the addition of sugars. There are species-specific differences. Vacuolar GTs belong to the glycoside hydrolase family 1 (GH1) which was initially discovered to hydrolyze glycosides. These acyl-glucose dependent anthocyanin glucosyltransferases (AAGTs) contain a signal peptide that determines their vacuolar localization.
