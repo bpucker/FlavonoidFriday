@@ -646,6 +646,17 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 [Yoshida et al., 2005](https://academic.oup.com/pcp/article/46/3/407/1817366) observed that a shift in the vacuolar pH of _Ipomoea tricolor_ (morning glory) from 6.6 to 7.7 results in a color change from purplish red to blue. Generally, a shift towards alkaline pH in anthocyanin-pigmented plants leads to blue coloration while a shift towards acidic pH shifts the color back to red. A Na+/H+ exchanger (NHX1) was identified in the tonoplasts of _I. tricolor_ petals. This transporter is most likely responsible for the pH shift. Anthocyanins would loose their color under alkaline conditions unless they are polyacylated and stabalized by intramolecular stacking of caffeoyl residues to the chromophore. Expression of _NHX1_ coincided with anthocyanin pigmentation in the petal cells. This correlation was strong in a time course experiment around the flower opening suggesting that pH change is synchronized with flower opening.
 
 
+
+### (49) Glycosylation and acylation of anthocyanins ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Anthocyanin modification is based on glycosylation and acylation catalyzed by groups of enzymes that are located in the cytoplasm or in the vacuole, respectively #FlavonoidFriday (details: )
+
+
+[Sasaki et al., 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6271837/) reviewed the enzymes involved in the glycosylation and acylation of anthocyanins: glycosyltransferases (GTs) and acyltransferases (ATs). Various decorations of anthocyanins influence their biochemical properties e.g. their stability. Cytoplasmic GTs use UDP-sugar as donor while vacuolar GTs use aromatic acyl-glucose or p-hydroxybenzoylglucose. Usually the 3-position and the 5-position of anthocyanins are modified by the addition of sugars. There are species-specific differences. Vacuolar GTs belong to the glycoside hydrolase family 1 (GH1) which was initially discovered to hydrolyze glycosides. These acyl-glucose dependent anthocyanin glucosyltransferases (AAGTs) contain a signal peptide that determines their vacuolar localization.
+Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and sinapoylglucose. Acylation can take place on sugar moities in the 5-position and 3'-position. This happens while only one of these positions is glycosylated. Cytoplasmic ATs belong to the BAHD family that was named after the first identified members and their functions. Members of the serine carboxypeptidase-like (SCPL) are ATs located in the vacuole. 
+
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
 
