@@ -649,8 +649,11 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (49) Glycosylation and acylation of anthocyanins ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Modification of anthocyanins is based on glycosylation and acylation catalyzed by enzymes of different families. Some are located in the cytoplasm and some in the vacuole #FlavonoidFriday (details: https://lnk.tu-bs.de/ZYq1PT)
+> **_<a href="https://twitter.com/boas_pucker/status/1489524135369662468">TWEET</a>:_** Modification of anthocyanins is based on glycosylation and acylation catalyzed by enzymes of different families. Some are located in the cytoplasm and some in the vacuole #FlavonoidFriday (details: https://lnk.tu-bs.de/ZYq1PT)
 
+<a href="https://twitter.com/boas_pucker/status/1489524135369662468">
+<img alt="Glycosylation and acylation of anthocyanins (Tweet #49)" src="https://pbs.twimg.com/media/FKvT45UWYAESJUf?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 [Sasaki et al., 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6271837/) reviewed the enzymes involved in the glycosylation and acylation of anthocyanins: glycosyltransferases (GTs) and acyltransferases (ATs). Various decorations of anthocyanins influence their biochemical properties e.g. their stability. Cytoplasmic GTs use UDP-sugar as donor while vacuolar GTs use aromatic acyl-glucose or p-hydroxybenzoylglucose. Usually the 3-position and the 5-position of anthocyanins are modified by the addition of sugars. There are species-specific differences. Vacuolar GTs belong to the glycoside hydrolase family 1 (GH1) which was initially discovered to hydrolyze glycosides. These acyl-glucose dependent anthocyanin glucosyltransferases (AAGTs) contain a signal peptide that determines their vacuolar localization.
 Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and sinapoylglucose. Acylation can take place on sugar moities in the 5-position and 3'-position. This happens while only one of these positions is glycosylated. Cytoplasmic ATs belong to the BAHD family that was named after the first identified members and their functions. Members of the serine carboxypeptidase-like (SCPL) are ATs located in the vacuole. 
