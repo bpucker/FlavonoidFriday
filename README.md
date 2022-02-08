@@ -659,6 +659,15 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and sinapoylglucose. Acylation can take place on sugar moities in the 5-position and 3'-position. This happens while only one of these positions is glycosylated. Cytoplasmic ATs belong to the BAHD family that was named after the first identified members and their functions. Members of the serine carboxypeptidase-like (SCPL) are ATs located in the vacuole. 
 
 
+### (50) Flavonoid metabolons ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Flavonoid biosynthesis enzymes cluster in metabolons around the membrane-bound cytochrome P450s. Metabolons result in efficient substrate channeling #FlavonoidFriday (details: )
+
+
+[Nakayama et al., 2019](https://doi.org/10.3389/fpls.2019.00821) reviewed the role of metabolons (clusters of enzymes participating in the same pathway) in the flavonoid biosynthesis. Flavonoids show lineage-specific modifications that result in an enormous number of thousands of different metabolites. This chemodiversity forms the basis of specific traits that provide an evolutionary benefit to these plants. The cytochrome P450 monooxygenases (FNS II, F3'H, F3'5'H, IFS) are assumed to be bound to the ER membrane, while the other enzymes of the flavonoid biosynthesis are most likely soluble. Flavonoid metabolons were first postulated by Stafford in 1974. Evidence for their existence in multiple species was provided in the following years. The interaction of enzymes in the flavonoid biosynthesis was demonstrated via Y2H experiments. Flavonoid metabolons are probably not linear, but a globular construct of multiple enzymes. Non-enzymatic proteins like CHI-like can be part of these metabolons. Different paralogs can show substantial differences in there affinity to other enzymes of the flavonoid biosynthesis. Interaction of FNS II with DFR and ANS could suggest a scaffolding role, because this enzyme is not required for the anthocyanin biosynthesis. Loss of FNS II leads to a reduced formation of anthocyanins. 
+
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
