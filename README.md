@@ -670,6 +670,13 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 [Nakayama et al., 2019](https://doi.org/10.3389/fpls.2019.00821) reviewed the role of metabolons (clusters of enzymes participating in the same pathway) in the flavonoid biosynthesis. Flavonoids show numerous lineage-specific modifications that result in an enormous number of thousands of different metabolites. This chemodiversity of flavonoids forms the basis of specific traits that provide an evolutionary benefit to these plants. The cytochrome P450 monooxygenases (FNS II, F3'H, F3'5'H, IFS) are assumed to be bound to the ER membrane, while the other enzymes of the flavonoid biosynthesis are most likely soluble. Flavonoid metabolons were first postulated by Stafford in 1974. Evidence for their existence in multiple species was provided in the following years. The interaction of enzymes in the flavonoid biosynthesis was demonstrated via Y2H and other interaction experiments in multiple species. Flavonoid metabolons are probably not linear, but a globular construct of multiple enzymes. Non-enzymatic proteins like CHI-like or non-functional paralogs can be part of these metabolons. Different paralogs can show substantial differences in there affinity to other enzymes of the flavonoid biosynthesis. Interaction of FNS II with DFR and ANS suggest a scaffolding role, because FNS II is not required for the anthocyanin biosynthesis. Loss of FNS II leads to a reduced formation of anthocyanins. 
 
 
+### (51) F3H evolved from FNS I ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** F3H of seed plants most likely evolved from FNS I. While FNS I is still widely distributed across liverworts, it was lost in most seed plant species #FlavonoidFriday (details: )
+
+
+[Li et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723094/pdf/PP_202001185DR1.pdf) investigated the distribution and function of flavone synthase I (FNS I) candidates in the liverworts. Their investigation suggest that the flavone biosynthesis is an old pathway that even predates flavonol biosynthesis. F3H of seed plants seems to have emerged from a FNS I lineage. FNS I undetectable in most seed plant species. The presence of FNS II in seed plants could explain the loss of FNS I in most of them. FNS I and II are funtionally redundant, but belong to different gene families.
+
 
 
 ## Contact ##
