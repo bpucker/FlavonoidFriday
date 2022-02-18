@@ -672,8 +672,11 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (51) F3H evolved from FNS I ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** F3H of seed plants most likely evolved from FNS I. While FNS I is still widely distributed across liverworts, it was lost in most seed plant lineages #FlavonoidFriday (details: https://lnk.tu-bs.de/MjK024)
+> **_<a href="https://twitter.com/boas_pucker/status/1494582460327288835">TWEET</a>:_** F3H of seed plants most likely evolved from FNS I. While FNS I is still widely distributed across liverworts, it was lost in most seed plant lineages #FlavonoidFriday (details: https://lnk.tu-bs.de/MjK024)
 
+<a href="https://twitter.com/boas_pucker/status/1494582460327288835">
+<img alt="F3H evolved from FNS I (Tweet #51)" src="https://pbs.twimg.com/media/FLvvgwKXEAY_4LX?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 [Li et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723094/pdf/PP_202001185DR1.pdf) investigated the distribution and function of flavone synthase I (FNS I) candidates in the liverworts. Their investigation suggest that the flavone biosynthesis is an old pathway that even predates flavonol biosynthesis. F3H of seed plants seems to have emerged from a FNS I lineage. FNS I undetectable in most seed plant species. The presence of FNS II in seed plants could explain the loss of FNS I in most of them. FNS I and II are funtionally redundant, but belong to different gene families.
 
