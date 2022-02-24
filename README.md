@@ -683,7 +683,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (52) OvPAP2 activates anthocyanin biosynthesis ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Ectopic expression of _Orychophragmus violaceus_ _PAP2_ in rapeseed shifts the flower color from yellow to red #FlavonoidFriday (details: https://lnk.tu-bs.de/O8hQeG)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Ectopic expression of _Orychophragmus violaceus_ _PAP2_ in rapeseed shifts the flower color from yellow to red(ish) #FlavonoidFriday (details: https://lnk.tu-bs.de/O8hQeG)
 
 
 [Fu et al., 2017](https://doi.org/10.1111/pbi.12777) investigated the molecular basis of flower pigmentation in _Orychophragmus violaceus_ through the comparison of colorless mutants against the anthocyanin-pigmented wild type. The mutant was characterized by a lack of gene expression of the _DFR_, _ANS_, and _TT19_ homologs. The bHLH _GL3_ (Bra025508) revealed no expression in the white varieties which could be an explanation for the observed phenotype. For unknown reasons, the authors continued to investigate the extopic expression of _O. violaceus_ _PAP2_ in rapeseed. One pair of _O. violaceus_ chromosomes was introduced into the closely related rapeseed. Overexpression of _OvPAP2_ in _Arabidopsis thaliana_ resulted in an enhanced anthocyanin accumulation in various plant parts including the flowers. This overexpression also caused a stronger expression of several anthocyanin biosynthesis genes. Changing the flower color of rapeseed from yellow to red would be a major step in pest control.
