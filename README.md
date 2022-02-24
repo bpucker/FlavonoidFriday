@@ -681,6 +681,15 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 [Li et al., 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723094/pdf/PP_202001185DR1.pdf) investigated the distribution and function of flavone synthase I (FNS I) candidates in the liverworts. Their investigation suggest that the flavone biosynthesis is an old pathway that even predates flavonol biosynthesis. F3H of seed plants seems to have emerged from a FNS I lineage. FNS I undetectable in most seed plant species. The presence of FNS II in seed plants could explain the loss of FNS I in most of them. FNS I and II are funtionally redundant, but belong to different gene families.
 
 
+### (52) OvPAP2 activates anthocyanin biosynthesis ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Ectopic expression of Orychophragmus violaceus PAP2 in rapeseed shifts the flower color from yellow to red #FlavonoidFriday (details: )
+
+
+[Fu et al., 2017](https://doi.org/10.1111/pbi.12777) investigated the molecular basis of flower pigmentation in _Orychophragmus violaceus_ through the comparison of colorless mutants against the wild type. The mutant was characterized by a lack of gene expression of the _DFR_, _ANS_, and _TT19_ homologs. The bHLH _GL3_ (Bra025508) revealed no expression in the white varieties which could be an explanation for the observed phenotype. For unknown reasons, the authors continued to investigate the extopic expression of _O. violaceus_ _PAP2_ in rapeseed. One pair of _O. violaceus_ chromosomes was introduced into the closely related rapeseed. Overexpression of _OvPAP2_ in _Arabidopsis thaliana_ resulted in an enhanced anthocyanin accumulation in various plant parts including the flowers. This overexpression also caused a stronger expression of several anthocyanin biosynthesis genes. Changing the flower color of rapeseed from yellow to red would be a major step in pest control.
+
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
