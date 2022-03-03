@@ -695,7 +695,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (53) Apiaceae FNS evolution ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Apiaceae are characterized by an individual FNS I lineage. This FNS I evolved through tandem gene duplication from F3H #FlavonoidFriday (details: https://lnk.tu-bs.de/Quopfb & https://doi.org/10.1101/2022.02.16.480750)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Apiaceae harbour an individual FNS I lineage. This FNS I evolved through tandem gene duplication from F3H #FlavonoidFriday (details: https://lnk.tu-bs.de/Quopfb & https://doi.org/10.1101/2022.02.16.480750)
 
 
 [Pucker & Iorizzo, 2022](https://doi.org/10.1101/2022.02.16.480750) described the evolution of _FNS I_ in the Apiaceae. _FNS I_ evolved through tandem duplication of _F3H_ followed by neo-functionalization. Only a few amino acid substitutions are required to shift the activity of a protein from F3H to FNS. This emergence of _FNS I_ in the Apiaceae is striking, because flavone biosynthesis is catalyzed by FNS II in most seed plants. It is even assumed that _F3H_ evolved from an _FNS I_ lineage in the early land plants: from FNS I to F3H and back again.
