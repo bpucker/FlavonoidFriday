@@ -718,7 +718,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (55) Connecting core and specialized metabolism ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Activation of the flavonoid biosynthesis in response to high light is regulated by triosephosphate export from the chloroplasts #FlavonoidFriday (details: https://lnk.tu-bs.de/4tPfoz)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** The activation of the flavonoid biosynthesis (especially anthocyanin biosynthesis) in response to high light is regulated by triosephosphate export from the chloroplasts #FlavonoidFriday (details: https://lnk.tu-bs.de/4tPfoz)
 
 [Zirngibl et al., 2022](https://doi.org/10.1101/2022.03.09.483619) investigated the regulatory role of triosephosphatexports from the chloroplast on the flavonoid biosynthesis. The activation of photoprotective flavonoids in response to high light conditions is not completely understood yet. Increased availability of sugars upon high light treatment provides the basis for flavonoid production. The triosephosphat transporter TPT is essential for the transport of photosynthesis products across the chloroplast membrane. Phytohormones and ROS have only a minor influence on the anthocyanin biosynthesis activation upon high light. Inactivation of the SNF1-RELATED PROTEIN KINASE 1 (SnRK1) was a prerequirement for the activation of the flavonoid biosynthesis upon high light exposure. SnRK1 is repressed by regulatory sugar-phosphates.
 
