@@ -727,6 +727,15 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 [Zirngibl et al., 2022](https://doi.org/10.1101/2022.03.09.483619) investigated the regulatory role of triosephosphatexports from the chloroplast on the flavonoid biosynthesis. The activation of photoprotective flavonoids in response to high light conditions is not completely understood yet. Increased availability of sugars upon high light treatment provides the basis for flavonoid production. The triosephosphat transporter TPT is essential for the transport of photosynthesis products across the chloroplast membrane. Phytohormones and ROS have only a minor influence on the anthocyanin biosynthesis activation upon high light. Inactivation of the SNF1-RELATED PROTEIN KINASE 1 (SnRK1) was a prerequirement for the activation of the flavonoid biosynthesis upon high light exposure. SnRK1 is repressed by regulatory sugar-phosphates.
 
 
+### (56) Up-regulation of MdACO1 promotes anthocyanin formation in apple ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Highlight promotes ethylen production in apple fruits through activation of ACO1 by the long non-coding RNA MdLNC610. This activation of the ethylene biosynthesis leads to an increased anthocyanin formation #FlavonoidFriday (details: ) 
+
+
+[Yu et al., 2022](https://doi.org/10.1093/plphys/kiac049) investigated the effects of highlight on the ripening of apples. They noticed an increased ethylen and anthocyanin formation under high light treatment compared to moderate light condition. Expression of the ethylene and anthcoyanin biosynthesis genes was increased under high light. Inhibition of the ethylene biosynthesis also resulted in a blocked anthocyanin biosynthesis suggesting that the anthocyanin biosynthesis dependes on the ethylene biosynthesis.
+The gene encoding the long non-coding RNA MdLNC610 (MSTRG.97610.1) is located downstream of the ethylene biosynthesis gen _MdAC01_. Both genes show strong co-expression. While the _MdACO1_ promoter does not have any light responsive elements, the _MdLNC610_ promoter does have a light responsive element. Therefore, this long non-coding RNA might be the regulator of the ethylene biosynthesis. An up-regulation of _ACO1_ resulted in an increased anthocyanin formation in apple fruits.
+
+
 
 
 ## Contact ##
