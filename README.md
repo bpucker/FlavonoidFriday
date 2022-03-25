@@ -729,8 +729,11 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (56) Up-regulation of _MdACO1_ promotes anthocyanin formation in apple ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** High light promotes ethylene production in apple fruits through activation of MdACO1 by the long non-coding RNA MdLNC610. This activation of the ethylene biosynthesis leads to an increased anthocyanin formation #FlavonoidFriday (details: https://lnk.tu-bs.de/bnx7D3)
+> **_<a href="https://twitter.com/boas_pucker/status/1507258483141271553">TWEET</a>:_** High light promotes ethylene production in apple fruits through activation of MdACO1 by the long non-coding RNA MdLNC610. This activation of the ethylene biosynthesis leads to an increased anthocyanin formation #FlavonoidFriday (details: https://lnk.tu-bs.de/bnx7D3)
 
+<a href="https://twitter.com/boas_pucker/status/1507258483141271553">
+<img alt="Up-regulation of _MdACO1_ promotes anthocyanin formation in apple (Tweet #56)" src="https://pbs.twimg.com/media/FOq4amaXsCQ9Rr2?format=jpg&name=medium" width="50%" height="50%">
+</a>
 
 [Yu et al., 2022](https://doi.org/10.1093/plphys/kiac049) investigated the effects of high light on the ripening of apple fruits. They noticed an increased ethylene and anthocyanin formation under high light treatment compared to moderate light condition. Expression of the ethylene and anthcoyanin biosynthesis genes was increased under high light. Inhibition of the ethylene biosynthesis also resulted in a blocked anthocyanin biosynthesis suggesting that the anthocyanin biosynthesis dependes on the ethylene biosynthesis. The gene encoding the long non-coding RNA MdLNC610 (MSTRG.97610.1) is located downstream of the ethylene biosynthesis gen _MdAC01_. Both genes show strong co-expression. While the _MdACO1_ promoter does not have any light responsive cis-elements, the _MdLNC610_ promoter does have a light responsive element. Therefore, this long non-coding RNA might be the regulator of the ethylene biosynthesis. An up-regulation of _ACO1_ resulted in an increased anthocyanin formation in apple fruits.
 
