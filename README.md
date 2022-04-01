@@ -740,7 +740,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (57) Anthocyanic Vacuolar Inclusions ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Anthocyanic vacuolar inclusions (AVIs) are clusters of anthocyanins in the vacuole. Aromatic acylation of cyanidin 3-O-glucoside can be used to induce the formation of AVIs. pH can influence formation #Flavonoid Friday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Anthocyanic vacuolar inclusions (AVIs) are clusters of anthocyanins in the vacuole. Aromatic acylation of cyanidin 3-O-glucoside can be used to induce the formation of AVIs. pH can influence the AVI formation #FlavonoidFriday (details: https://lnk.tu-bs.de/jPGkYS)
 
 
 [Kallam et al, 2017](https://www.cell.com/current-biology/pdfExtended/S0960-9822(17)30164-1) investigated the formation of anthocyanic vaucolar inclusions (AVIs) in tobacco. AVIs are clusters of anthocyanins in the vacuole which are not enclosed by a membrane. Heterologous expression of different acyltransferases caused the formation of AVIs in tobacco where no AVIs are formed naturally. This seems to be due to aromatic acylations. Aliphatic acylation did not induce the formation of AVIs. Precipitation studies with different pH values and salt concentrations identified a mechanism that could explain the formation of AVIs composing anthocyanins with aromatic acyl moieties. AVI formation _in planta_ only occurs if the anthocyanin formation and accumulation lead to high concentrations. AVI formation is pH-dependent and can be suppressed by acidification or activation by alkalinization.
