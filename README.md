@@ -738,6 +738,16 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 [Yu et al., 2022](https://doi.org/10.1093/plphys/kiac049) investigated the effects of high light on the ripening of apple fruits. They noticed an increased ethylene and anthocyanin formation under high light treatment compared to moderate light condition. Expression of the ethylene and anthcoyanin biosynthesis genes was increased under high light. Inhibition of the ethylene biosynthesis also resulted in a blocked anthocyanin biosynthesis suggesting that the anthocyanin biosynthesis dependes on the ethylene biosynthesis. The gene encoding the long non-coding RNA MdLNC610 (MSTRG.97610.1) is located downstream of the ethylene biosynthesis gen _MdAC01_. Both genes show strong co-expression. While the _MdACO1_ promoter does not have any light responsive cis-elements, the _MdLNC610_ promoter does have a light responsive element. Therefore, this long non-coding RNA might be the regulator of the ethylene biosynthesis. An up-regulation of _ACO1_ resulted in an increased anthocyanin formation in apple fruits.
 
 
+### (57) Anthocyanic Vacuolar Inclusions ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Anthocyanic vacuolar inclusions (AVIs) are clusters of anthocyanins in the vacuole. Aromatic acylation of cyanidin 3-O-glucoside can be used to induce the formation of AVIs. pH can influence formation #Flavonoid Friday (details: )
+
+
+[Kallam et al, 2017](https://www.cell.com/current-biology/pdfExtended/S0960-9822(17)30164-1) investigated the formation of anthocyanic vaucolar inclusions (AVIs) in tobacco. AVIs are clusters of anthocyanins in the vacuole which are not enclosed by a membrane. Heterologous expression of different acyltransferases caused the formation of AVIs in tobacco where no AVIs are formed naturally. This seems to be due to aromatic acylations. Aliphatic acylation did not induce the formation of AVIs. Precipitation studies with different pH values and salt concentrations identified a mechanism that could explain the formation of AVIs composing anthocyanins with aromatic acyl moieties. AVI formation _in planta_ only occurs if the anthocyanin formation and accumulation lead to high concentrations. AVI formation is pH-dependent and can be suppressed by acidification or activation by alkalinization.
+Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue flowers. 5-O-glycosylation might be a mechanism to maintain a high solubility and this mechanism could have been lost in species without acyltransferase activity. Overexpression of a _5GT_ reduces the AVI formation. 
+
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
