@@ -752,7 +752,7 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 
 ### (58) Peach flower color ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Pigmentation differences between white, pink, and red peach flowers are due to an InDel in the anthocyanin transporter gene Riant #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Pigmentation differences between white, pink, and red peach flowers are due to an InDel in the anthocyanin transporter gene Riant #FlavonoidFriday (details: https://lnk.tu-bs.de/mHvYBn)
 
 
 
