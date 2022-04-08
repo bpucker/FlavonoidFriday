@@ -750,6 +750,17 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue flowers. 5-O-glycosylation might be a mechanism to maintain a high solubility and this mechanism could have been lost in species without acyltransferase activity. Overexpression of a _5GT_ reduces the AVI formation. 
 
 
+### (58) Peach flower color ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Pigmentation differences between white, pink, and red peach flowers are due to an InDel in the anthocyanin transporter gene Riant #FlavonoidFriday (details: )
+
+
+
+[Cheng et al., 2015](https://academic.oup.com/jxb/article/66/22/7227/2893283) investigated the molecular mechanisms underlying the flower color differences in peach. There are white, pink, and red flowers on the same peach tree. A small InDel in the _Riant_ gene (Regulator involved in anthocyanin transport) that encodes an anthocyanin transport protein was identified as the causal mutation. A 2bp deletion in the last exon results in a frameshift leading to a premature stop codon. White flowers carry a homozygous knock-out, while pink flowers are heterozygous.
+
+
+
+
 
 
 ## Contact ##
