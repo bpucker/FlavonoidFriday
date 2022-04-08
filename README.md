@@ -752,9 +752,11 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 
 ### (58) Peach flower color ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Pigmentation differences between white, pink, and red peach flowers are due to an InDel in the anthocyanin transporter gene Riant #FlavonoidFriday (details: https://lnk.tu-bs.de/mHvYBn)
+> **_<a href="https://twitter.com/boas_pucker/status/1512316813077463044">TWEET</a>:_** Pigmentation differences between white, pink, and red peach flowers are due to an InDel in the anthocyanin transporter gene Riant #FlavonoidFriday (details: https://lnk.tu-bs.de/mHvYBn)
 
-
+<a href="https://twitter.com/boas_pucker/status/1512316813077463044">
+<img alt="Peach flower color (Tweet #58)" src="https://pbs.twimg.com/media/FPzFQG8X0AQdWB7?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 [Cheng et al., 2015](https://academic.oup.com/jxb/article/66/22/7227/2893283) investigated the molecular mechanisms underlying the flower color differences in peach. There are white, pink, and red flowers on the same peach tree. A small InDel in the _Riant_ gene (Regulator involved in anthocyanin transport) that encodes an anthocyanin transport protein was identified as the causal mutation. A 2bp deletion in the last exon results in a frameshift leading to a premature stop codon. White flowers carry a homozygous knock-out, while pink flowers are heterozygous.
 
