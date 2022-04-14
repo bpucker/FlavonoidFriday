@@ -761,7 +761,12 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 [Cheng et al., 2015](https://academic.oup.com/jxb/article/66/22/7227/2893283) investigated the molecular mechanisms underlying the flower color differences in peach. There are white, pink, and red flowers on the same peach tree. A small InDel in the _Riant_ gene (Regulator involved in anthocyanin transport) that encodes an anthocyanin transport protein was identified as the causal mutation. A 2bp deletion in the last exon results in a frameshift leading to a premature stop codon. White flowers carry a homozygous knock-out, while pink flowers are heterozygous.
 
 
+### (59) Anthocyanin inclusions ###
 
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Light can induce the darkening of anthocyanin pigmentation in maize through spread of anthocyanins from vacuolar inclusions into the vacuolar sap #FlavonoidFriday (details: )
+
+
+[Irani & Grotewold, 2005](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-5-7) studied the influence of light on the formation and destabalization of anthocyanic vacuolar inclusion (AVI)-like structures. Overexpression of _R_ and _C1_ was sufficient to enhance the accumulation of anthocyanins independent of the light treatment. Exposure of the resulting maize cells to light caused the spread of anthocyanins from vacuolar inclusions to the whole vacuole. This caused a darker pigmentation of the maize cells.
 
 
 
