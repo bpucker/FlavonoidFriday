@@ -763,8 +763,11 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 
 ### (59) Anthocyanin inclusions ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Light can induce the darkening of anthocyanin pigmentation in maize through spread of anthocyanins from vacuolar inclusions into the vacuolar sap #FlavonoidFriday (details: )
+> **_<a href="https://twitter.com/boas_pucker/status/1514853528942039042">TWEET</a>:_** Light can induce the darkening of anthocyanin pigmentation in maize through spread of anthocyanins from vacuolar inclusions into the vacuolar sap #FlavonoidFriday (details: )
 
+<a href="https://twitter.com/boas_pucker/status/1514853528942039042">
+<img alt="Anthocyanin inclusions (Tweet #59)" src="https://pbs.twimg.com/media/FQReHE_WUAICrCM?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 [Irani & Grotewold, 2005](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-5-7) studied the influence of light on the formation and destabalization of anthocyanic vacuolar inclusion (AVI)-like structures. Overexpression of _R_ and _C1_ was sufficient to enhance the accumulation of anthocyanins independent of the light treatment. Exposure of the resulting maize cells to light caused the spread of anthocyanins from vacuolar inclusions to the whole vacuole. This caused a darker pigmentation of the maize cells.
 
