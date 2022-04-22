@@ -776,6 +776,9 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 
 > **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Lupinus albus prenyltransferase LaPT2 modifies flavonol aglycons while LaPT1 acts upon isoflavonoids. Flavonols with a low degree of hydroxylation (kaempferol) are preferred substrates of LaPT2 #FlavonoidFriday (details: https://lnk.tu-bs.de/nWGc1D)
 
+<a href="https://twitter.com/boas_pucker/status/1517390242378133506">
+<img alt="Prenyltransferase in _Lupinus albus_ (Tweet #60)" src="https://pbs.twimg.com/media/FQ7MU7pWUAEPeh2?format=jpg&name=4096x4096" width="50%" height="50%">
+</a>
 
 [Liu et al., 2021](https://doi.org/10.3389/fpls.2021.673337) studied the _LaPT2_ gene in white lupin (_Lupinus albus_) which encodes a prenyltransferase that acts upon the flavonols kaempferol, quercetin, and myricetin. Prenylation of flavonoids is a modification that has been reported in Leguminosae, Moraceae, Umbelliferae, and Euphorbiaceae. Health promoting properties were assigned to prenylated flavonoids thus increasing the interest to study prenyltransferases. In a previous study, LaPT1 was identified to prenylate only genistein (isoflavonoid).
 _LaPT2_ is expressed in roots and shows co-expression with _LaF3H1_ and _LaFLS2_. These genes already indicate an involvement in the flavonol biosynthesis. Enzyme assays revealed that flavonols are the preferred substrate of LaPT2. This is in contrast to LaPT1 which modifies isoflavonoids. Dimethylallyl pyrophosphate (DMAPP) serves as the preferred prenyl donor for the reaction catalyzed by LaPT2. LaPT2 only accepts the flavonol aglycon which suggests that the prenylation preceds the glycosylation. LaPT2 prefers flavonols with a lower degree of hydroxylation, because conversion rate decreases from kaempferol over quercetin to mycricetin.
