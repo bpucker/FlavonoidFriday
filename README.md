@@ -774,7 +774,7 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 
 ### (60) Prenyltransferase in _Lupinus albus_ ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Lupinus albus prenyltransferase LaPT2 modifies flavonol aglycons while LaPT1 acts upon isoflavonoids. Flavonols with a low degree of hydroxylation (kaempferol) are preferred substrates of LaPT2 #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Lupinus albus prenyltransferase LaPT2 modifies flavonol aglycons while LaPT1 acts upon isoflavonoids. Flavonols with a low degree of hydroxylation (kaempferol) are preferred substrates of LaPT2 #FlavonoidFriday (details: https://lnk.tu-bs.de/nWGc1D)
 
 
 [Liu et al., 2021](https://doi.org/10.3389/fpls.2021.673337) studied the _LaPT2_ gene in white lupin (_Lupinus albus_) which encodes a prenyltransferase that acts upon the flavonols kaempferol, quercetin, and myricetin. Prenylation of flavonoids is a modification that has been reported in Leguminosae, Moraceae, Umbelliferae, and Euphorbiaceae. Health promoting properties were assigned to prenylated flavonoids thus increasing the interest to study prenyltransferases. In a previous study, LaPT1 was identified to prenylate only genistein (isoflavonoid).
@@ -803,6 +803,9 @@ Landi, M. et al. "Multiple functional roles of anthocyanins in plant-environment
 Ahn-Jarvis, J.H.; Parihar, A.; Doseff, A.I. Dietary Flavonoids for Immunoregulation and Cancer: Food Design for Targeting Disease. Antioxidants 2019, 8, 202. doi:[10.3390/antiox8070202](https://doi.org/10.3390/antiox8070202)
 
 Sun, J., Lin, L.‐z. and Chen, P. (2012), Study of the mass spectrometric behaviors of anthocyanins in negative ionization mode and its applications for characterization of anthocyanins and non‐anthocyanin polyphenols. Rapid Commun. Mass Spectrom., 26: 1123-1133. doi:[10.1002/rcm.6209](https://doi.org/10.1002/rcm.6209)
+  
+Pucker, B. & Selmar, D. Biochemistry and Molecular Basis of Intracellular Flavonoid Transport in Plants. Plants 2022, 11, 963. doi:[10.3390/plants11070963](https://doi.org/10.3390/plants11070963)
+  
 </p>
 </details>
 
