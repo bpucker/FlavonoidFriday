@@ -772,6 +772,16 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 [Irani & Grotewold, 2005](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-5-7) studied the influence of light on the formation and destabalization of anthocyanic vacuolar inclusion (AVI)-like structures. Overexpression of _R_ and _C1_ was sufficient to enhance the accumulation of anthocyanins independent of the light treatment. Exposure of the resulting maize cells to light caused the spread of anthocyanins from vacuolar inclusions to the whole vacuole. This caused a darker pigmentation of the maize cells.
 
 
+### (60) Prenyltransferase in _Lupinus albus_ ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Lupinus albus prenyltransferase LaPT2 modifies flavonol aglycons while LaPT1 acts upon isoflavonoids. Flavonols with a low degree of hydroxylation (kaempferol) are preferred substrates of LaPT2 #FlavonoidFriday (details: )
+
+
+[Liu et al., 2021](https://doi.org/10.3389/fpls.2021.673337) studied the _LaPT2_ gene in white lupin (_Lupinus albus_) which encodes a prenyltransferase that acts upon the flavonols kaempferol, quercetin, and myricetin. Prenylation of flavonoids is a modification that has been reported in Leguminosae, Moraceae, Umbelliferae, and Euphorbiaceae. Health promoting properties were assigned to prenylated flavonoids thus increasing the interest to study prenyltransferases. In a previous study, LaPT1 was identified to prenylate only genistein (isoflavonoid).
+_LaPT2_ is expressed in roots and shows co-expression with _LaF3H1_ and _LaFLS2_. These genes already indicate an involvement in the flavonol biosynthesis. Enzyme assays revealed that flavonols are the preferred substrate of LaPT2. This is in contrast to LaPT1 which modifies isoflavonoids. Dimethylallyl pyrophosphate (DMAPP) serves as the preferred prenyl donor for the reaction catalyzed by LaPT2. LaPT2 only accepts the flavonol aglycon which suggests that the prenylation preceds the glycosylation. LaPT2 prefers flavonols with a lower degree of hydroxylation, because conversion rate decreases from kaempferol over quercetin to mycricetin.
+
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
