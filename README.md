@@ -13,6 +13,15 @@ The flavonoid biosnythesis is one of the best studied specialized metabolism pat
 Fig. 1: Simplified overview of the flavonoid biosynthesis. (source:[(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm))
 
 
+Flavonoids are transported from the site of biosynthesis (ER) into the central vacuole (Fig. 2). 
+
+<a href="https://www.mdpi.com/2223-7747/11/7/963/htm">
+<img alt="Intracellular flavonoid transport overview" src="https://www.mdpi.com/plants/plants-11-00963/article_deploy/html/images/plants-11-00963-g002.png" width="50%" height="50%">
+</a>  
+
+Fig. 2: Simplified overview of the intracellular flavonoid transport. (source:[Pucker & Selmar, 2022](https://www.mdpi.com/2223-7747/11/7/963/htm))
+
+
 ### Transcriptional Regulation ###
 The sophisticated regulatory network of the flavonoid biosnythesis contains members of numerous transcription factor families. Among the important families are MYBs, bHLHs, WD40s, NACs, and WRKYs. Some MYBs, bHLHs, and WD40s form a complex which is called MBW. More information about the MYBs is available through the **[MybMonday](https://github.com/bpucker/MybMonday)**.
 
