@@ -799,6 +799,13 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 _LaPT2_ is expressed in roots and shows co-expression with _LaF3H1_ and _LaFLS2_. These genes already indicate an involvement in the flavonol biosynthesis. Enzyme assays revealed that flavonols are the preferred substrate of LaPT2. This is in contrast to LaPT1 which modifies isoflavonoids. Dimethylallyl pyrophosphate (DMAPP) serves as the preferred prenyl donor for the reaction catalyzed by LaPT2. LaPT2 only accepts the flavonol aglycon which suggests that the prenylation preceds the glycosylation. LaPT2 prefers flavonols with a lower degree of hydroxylation, because conversion rate decreases from kaempferol over quercetin to mycricetin.
 
 
+### (61) KIPEs3 online ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Automatic annotation of flavonoid biosynthesis genes with an updated KIPEs version is now available as an online service: http://pbb.bot.nat.tu-bs.de/KIPEs/ Just submit a FASTA file of your species of interest to start the analysis. #FlavonoidFriday (details: xxx & https://doi.org/10.3390/plants9091103)
+
+
+An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm)), is now available as an online service: [KIPEs3 online](http://pbb.bot.nat.tu-bs.de/KIPEs/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
+
 
 
 ## Contact ##
