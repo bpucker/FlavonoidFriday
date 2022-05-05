@@ -810,6 +810,17 @@ _LaPT2_ is expressed in roots and shows co-expression with _LaF3H1_ and _LaFLS2_
 An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm)), is now available as an online service: [KIPEs3 online](http://pbb.bot.nat.tu-bs.de/KIPEs/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
 
 
+### (62) Independent evolution of prenyltransferases ###
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Discovery of prenyltransferases in Morus alba and Cudrania tricuspidata suggested independent evolution of this enzymatic function in different plant lineages #FlavonoidFriday (details: )
+
+
+
+
+[Wang et al., 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4276850/) identified flavonoid prenyltransferases (FPTs) outside the Leguminosae. _Morus alba_ and _Cudrania tricuspidata_ harbour isoliquiritigenin 3'-dimethylallyltransferases (IDTs). Both sequences show low similarity to FPTs of the legumes and form a distant clade in a phylogentic tree. This suggest an independent evolution. The IDTs acted upon chalcones, isoflavones, and flavones. 
+
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
