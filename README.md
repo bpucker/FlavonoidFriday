@@ -812,10 +812,11 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 ### (62) Independent evolution of prenyltransferases ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Discovery of prenyltransferases in Morus alba and Cudrania tricuspidata suggested independent evolution of this enzymatic function in different plant lineages #FlavonoidFriday (details: https://lnk.tu-bs.de/kABO2d)
+> **_<a href="https://twitter.com/boas_pucker/status/1522463674308341761">TWEET</a>:_** Discovery of prenyltransferases in Morus alba and Cudrania tricuspidata suggested independent evolution of this enzymatic function in different plant lineages #FlavonoidFriday (details: https://lnk.tu-bs.de/kABO2d)
 
-
-
+<a href="https://twitter.com/boas_pucker/status/1522463674308341761">
+<img alt="Independent evolution of prenyltransferases (Tweet #62)" src="https://pbs.twimg.com/media/FSAPf4VWYAACFC6?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 [Wang et al., 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4276850/) identified flavonoid prenyltransferases (FPTs) outside the Leguminosae. _Morus alba_ and _Cudrania tricuspidata_ harbour isoliquiritigenin 3'-dimethylallyltransferases (IDTs). Both sequences show low similarity to FPTs of the legumes and form a distant clade in a phylogentic tree. This suggest an independent evolution. The IDTs acted upon chalcones, isoflavones, and flavones. 
 
