@@ -823,8 +823,11 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 ### (63) Purple pigmentation of tomato fruits ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Novel alleles of anthocyanin biosynthesis genes form the basis for purple pigmentation of Solanum galapagense-derived tomato fruits #FlavonoidFriday (details: https://lnk.tu-bs.de/H1mzCj)
+> **_<a href="https://twitter.com/boas_pucker/status/1525000391041069056">TWEET</a>:_** Novel alleles of anthocyanin biosynthesis genes form the basis for purple pigmentation of Solanum galapagense-derived tomato fruits #FlavonoidFriday (details: https://lnk.tu-bs.de/H1mzCj)
 
+<a href="https://twitter.com/boas_pucker/status/1525000391041069056">
+<img alt="Purple pigmentation of tomato fruits (Tweet #63)" src="https://pbs.twimg.com/media/FSnB6paXoAc0kfY?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 [Fenstemaker et al., 2022](https://doi.org/10.1002/pld3.394) identified quantitative trait loci of the anthocyanin pigmentation in _Solanum galapagense_-derived tomato fruits. Purple pigmentation was observed in _Solanum lycopersicoides_ LA2951 and _Solanum lycopersicum_ LA1996, but not in most of the other tomato cultivars. Most cultivars have green or red fruits. _Solanum galapagense_ LA1141 shows purple pigmentation that seems to have evolved independently. Malvidin and petunidin are responsible for this pigmentation. The MYB transcription factor _atv_ seems to be non-functional in _Solanum galapagense_ LA1141, but the MYB transcription factor _AFT_ could be responsible for the purple pigmentation. A phylogenetic analysis suggest an independent evolution of this MYB towards anthocyanin regulation in _Solanum galapagense_ LA1141, because closely related cultivars show green or red pigmentation. An alternative explanation would be introgression from a red pigmented relative, because this clade shares a gain-of-function mutation in _AFT_.
 
