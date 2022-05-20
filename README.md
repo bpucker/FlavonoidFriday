@@ -838,6 +838,10 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 > **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Mutations in two ANS genes of Ocimum basilicum are responsible for the lack of anthocyanins observed in green sweet basil plants with white flowers #FlavonoidFriday (details: )
 
 
+<a href="https://twitter.com/boas_pucker/status/1527537104045105152">
+<img alt="Pigmentation of sweet basil (Tweet #64)" src="https://pbs.twimg.com/media/FTG_HCBWYAA1slw?format=jpg&name=large" width="50%" height="50%">
+</a>
+
 [Gonda et al., 2022](https://doi.org/10.1101/2022.05.16.492104) investigated the presence/absence of anthocyanins in different sweet basil (_Ocimum basilicum_) cultivars. Some cultivars have white flowers and green leaves, while others have purple flowers and purplish leaves. The F2 of crossing a green/white with a purple plant showed a 3:1 ratio of purple to green plants suggesting a single responsible locus. The plants showed a difference in the pigmentation intensity with 50% showing light pigmentation. Association of this color phenotype with SNPs revealed a locus that explains 62% of the phenotypic variation. A candidate gene approach revealed that ANS is the only anthocyanin biosynthesis gene located in this region of the genome. Due to the ploidy of _O. basilicum_ there are two homeologous regions that harbour one ANS each: ObANS1 and ObANS2. Expression analyses did not reveal a difference between the cultivars. ObANS1 has a 1bp deletion that causes a frameshift. ObANS2 has a substitution that causes a premature stop codon. There are additional mutations that render both genes non-functional in the green/white cultivar. The presence of two non-functional ANS in the same cultivar is probably the result of breeding for anthocyanin free plants. The analysis of other cultivars suggests that the regulation of anthocyanin biosynthesis might be different between leaves and flowers.
 
 
