@@ -835,8 +835,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 ### (64) Pigmentation of sweet basil ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Mutations in two ANS genes of Ocimum basilicum are responsible for the lack of anthocyanins observed in green sweet basil plants with white flowers #FlavonoidFriday (details: )
-
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Mutations in two ANS genes of Ocimum basilicum are responsible for the lack of anthocyanins observed in green sweet basil plants with white flowers #FlavonoidFriday (details: https://lnk.tu-bs.de/4HcU0X)
 
 <a href="https://twitter.com/boas_pucker/status/1527537104045105152">
 <img alt="Pigmentation of sweet basil (Tweet #64)" src="https://pbs.twimg.com/media/FTG_HCBWYAA1slw?format=jpg&name=large" width="50%" height="50%">
