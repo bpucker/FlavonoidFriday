@@ -847,7 +847,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 ### (65) CHS in safflower ###
 
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** CHS4 in safflower (Carthamus tinctorius) appears to be regulated by differential alternative splicing which influences the completeness of the resulting protein #FlavonoidFriday (details: )
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** CHS4 in safflower (Carthamus tinctorius) appears to be regulated by differential alternative splicing which influences the completeness of the resulting protein #FlavonoidFriday (details: https://lnk.tu-bs.de/HQZf3Y)
 
 
 [Wu et al., 2021](https://doi.org/10.1111/pbi.13586) investigated the flavonoid biosynthesis genes in the safflower (_Carthamus tinctorius_) genome. Seven CHS candidate genes were identified. _CarCHS1_, _CarCHS4_, _CarCHS5_, _CarCHS6_, and _CarCHS7_ are expressed in the flower, while _CarCHS3_ is expressed in the cotyledons. Several CHS genes showed colienearily with CHS genes in lettuce and sunflower. _CarCHS5_ and _CarCHS6_ are the result of a tandem duplication of _CarCHS4_. Genes of the flavonoid biosynthesis appear regulated at the transcriptional level and even through differential alternative splicing.
