@@ -835,7 +835,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 ### (64) Pigmentation of sweet basil ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Mutations in two ANS genes of Ocimum basilicum are responsible for the lack of anthocyanins observed in green sweet basil plants with white flowers #FlavonoidFriday (details: https://lnk.tu-bs.de/4HcU0X)
+> **_<a href="https://twitter.com/boas_pucker/status/1527537104045105152">TWEET</a>:_** Mutations in two ANS genes of Ocimum basilicum are responsible for the lack of anthocyanins observed in green sweet basil plants with white flowers #FlavonoidFriday (details: https://lnk.tu-bs.de/4HcU0X)
 
 <a href="https://twitter.com/boas_pucker/status/1527537104045105152">
 <img alt="Pigmentation of sweet basil (Tweet #64)" src="https://pbs.twimg.com/media/FTG_HCBWYAA1slw?format=jpg&name=large" width="50%" height="50%">
@@ -845,9 +845,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (65) CHS in safflower ###
-
-
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** CHS4 in safflower (Carthamus tinctorius) appears to be regulated by differential alternative splicing which influences the completeness of the resulting protein #FlavonoidFriday (details: https://lnk.tu-bs.de/HQZf3Y)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** CHS4 of safflower (Carthamus tinctorius) appears to be regulated by differential alternative splicing which influences the completeness of the resulting protein #FlavonoidFriday (details: https://lnk.tu-bs.de/HQZf3Y)
 
 
 [Wu et al., 2021](https://doi.org/10.1111/pbi.13586) investigated the flavonoid biosynthesis genes in the safflower (_Carthamus tinctorius_) genome. Seven CHS candidate genes were identified. _CarCHS1_, _CarCHS4_, _CarCHS5_, _CarCHS6_, and _CarCHS7_ are expressed in the flower, while _CarCHS3_ is expressed in the cotyledons. Several CHS genes showed colienearily with CHS genes in lettuce and sunflower. _CarCHS5_ and _CarCHS6_ are the result of a tandem duplication of _CarCHS4_. Genes of the flavonoid biosynthesis appear regulated at the transcriptional level and even through differential alternative splicing.
