@@ -844,6 +844,16 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 [Gonda et al., 2022](https://doi.org/10.1101/2022.05.16.492104) investigated the presence/absence of anthocyanins in different sweet basil (_Ocimum basilicum_) cultivars. Some cultivars have white flowers and green leaves, while others have purple flowers and purplish leaves. The F2 of crossing a green/white with a purple plant showed a 3:1 ratio of purple to green plants suggesting a single responsible locus. The plants showed a difference in the pigmentation intensity with 50% showing light pigmentation. Association of this color phenotype with SNPs revealed a locus that explains 62% of the phenotypic variation. A candidate gene approach revealed that ANS is the only anthocyanin biosynthesis gene located in this region of the genome. Due to the ploidy of _O. basilicum_ there are two homeologous regions that harbour one ANS each: ObANS1 and ObANS2. Expression analyses did not reveal a difference between the cultivars. ObANS1 has a 1bp deletion that causes a frameshift. ObANS2 has a substitution that causes a premature stop codon. There are additional mutations that render both genes non-functional in the green/white cultivar. The presence of two non-functional ANS in the same cultivar is probably the result of breeding for anthocyanin free plants. The analysis of other cultivars suggests that the regulation of anthocyanin biosynthesis might be different between leaves and flowers.
 
 
+### (65) CHS in safflower ###
+
+
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** CHS4 in safflower (Carthamus tinctorius) appears to be regulated by differential alternative splicing which influences the completeness of the resulting protein #FlavonoidFriday (details: )
+
+
+[Wu et al., 2021](https://doi.org/10.1111/pbi.13586) investigated the flavonoid biosynthesis genes in the safflower (_Carthamus tinctorius_) genome. Seven CHS candidate genes were identified. _CarCHS1_, _CarCHS4_, _CarCHS5_, _CarCHS6_, and _CarCHS7_ are expressed in the flower, while _CarCHS3_ is expressed in the cotyledons. Several CHS genes showed colienearily with CHS genes in lettuce and sunflower. _CarCHS5_ and _CarCHS6_ are the result of a tandem duplication of _CarCHS4_. Genes of the flavonoid biosynthesis appear regulated at the transcriptional level and even through differential alternative splicing.
+
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
