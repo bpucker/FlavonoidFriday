@@ -845,9 +845,9 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (65) CHS in safflower ###
-> **_<a href="https://twitter.com/boas_pucker/status/1530073817707646982?cxt=HHwWjMC4ifqB9bsqAAAA">TWEET</a>:_** CHS4 of safflower (Carthamus tinctorius) appears to be regulated by differential alternative splicing which influences the completeness of the resulting protein #FlavonoidFriday (details: https://lnk.tu-bs.de/HQZf3Y)
+> **_<a href="https://twitter.com/boas_pucker/status/1530073817707646982">TWEET</a>:_** CHS4 of safflower (Carthamus tinctorius) appears to be regulated by differential alternative splicing which influences the completeness of the resulting protein #FlavonoidFriday (details: https://lnk.tu-bs.de/HQZf3Y)
 
-<a href="https://twitter.com/boas_pucker/status/1530073817707646982?cxt=HHwWjMC4ifqB9bsqAAAA">
+<a href="https://twitter.com/boas_pucker/status/1530073817707646982">
 <img alt="CHS in safflower (Tweet #65)" src="https://pbs.twimg.com/media/FTtlr21WQAAZ94V?format=jpg&name=small" width="50%" height="50%">
 </a>
 
