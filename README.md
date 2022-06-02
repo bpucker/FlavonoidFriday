@@ -855,7 +855,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (66) Glycosylation of flavonoids ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Deglycosylation of flavonoids is used in food industry to improve taste through removal of off-taste components e.g. debittering of citurs juice #FlavonoidFriday (details: XXX)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Deglycosylation of flavonoids is used in food industry to improve taste through removal of off-taste components e.g. debittering of citrus juice #FlavonoidFriday (details: https://lnk.tu-bs.de/CZKYJg)
 
 
 [Slamova et al., 2018](10.3390/ijms19072126) reviewed the current knowledge about addition and removal of sugar moieties in the flavonoid metabolism of plants. Flavonoids account for a major proportion of phenolic compounds in fruits and vegetables. Many flavonoids were reported to have a beneficial physiological effects. Natural flavonoids are often glycosylated which improves their bioavailability. Removal of sugar groups is widely used in the food industry to improve the taste by depletion of off-taste components.
