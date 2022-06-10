@@ -864,6 +864,13 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 [Slamova et al., 2018](10.3390/ijms19072126) reviewed the current knowledge about addition and removal of sugar moieties in the flavonoid metabolism of plants. Flavonoids account for a major proportion of phenolic compounds in fruits and vegetables. Many flavonoids were reported to have a beneficial physiological effects. Natural flavonoids are often glycosylated which improves their bioavailability. Removal of sugar groups is widely used in the food industry to improve the taste by depletion of off-taste components.
 
 
+### (67) Role of MtrGSTF7 in anthocyanin transport ###
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** The gstf7 mutant of Medicago truncatula shows a lack of anthocyanins, but an increased accumulation of proanthocyanidins in the leaves #FlavonoidFriday (details: XXX)
+
+
+
+[Panara et al., 2022](https://doi.org/10.3390/plants11101318) studied the function of MtrGSTF7 in _Medicago truncatula_. The _mtrgstf7_ mutant lacks anthocyanins in the leaves, but shows an increased level of proanthocyanidins. This suggests that different GSTs are responsible for anthocyanin and proanthocyanin transport, respectively. The same observation was previously reported in _Vitis vinifera_.
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
