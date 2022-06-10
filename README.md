@@ -865,9 +865,9 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (67) Role of MtrGSTF7 in anthocyanin transport ###
-> **_<a href="(https://twitter.com/boas_pucker/status/1532610533521707010">TWEET</a>:_** The gstf7 mutant of Medicago truncatula shows a lack of anthocyanins, but an increased accumulation of proanthocyanidins in the leaves. MtrGSTF7 can complement the corresponding A. thaliana mutant (tt19) #FlavonoidFriday (details: https://lnk.tu-bs.de/uwJ3X0)
+> **_<a href="https://twitter.com/boas_pucker/status/1535147247851085824">TWEET</a>:_** The gstf7 mutant of Medicago truncatula shows a lack of anthocyanins, but an increased accumulation of proanthocyanidins in the leaves. MtrGSTF7 can complement the corresponding A. thaliana mutant (tt19) #FlavonoidFriday (details: https://lnk.tu-bs.de/uwJ3X0)
 
-<a href="https://twitter.com/boas_pucker/status/1532610533521707010">
+<a href="https://twitter.com/boas_pucker/status/1535147247851085824">
 <img alt="Role of MtrGSTF7 in anthocyanin transport (Tweet #67)" src="https://pbs.twimg.com/media/FU3iDJ5WQAA-Ea8?format=jpg&name=medium" width="50%" height="50%">
 </a>
 
