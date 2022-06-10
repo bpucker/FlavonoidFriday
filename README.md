@@ -855,7 +855,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (66) Glycosylation of flavonoids ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Deglycosylation of flavonoids is used in food industry to improve taste through removal of off-taste components e.g. debittering of citrus juice #FlavonoidFriday (details: https://lnk.tu-bs.de/CZKYJg)
+> **_<a href="https://twitter.com/boas_pucker/status/1532610533521707010">TWEET</a>:_** Deglycosylation of flavonoids is used in food industry to improve taste through removal of off-taste components e.g. debittering of citrus juice #FlavonoidFriday (details: https://lnk.tu-bs.de/CZKYJg)
 
 <a href="https://twitter.com/boas_pucker/status/1532610533521707010">
 <img alt="Glycosylation of flavonoids (Tweet #66)" src="https://pbs.twimg.com/media/FUR4v4FX0AE1WQT?format=jpg&name=large" width="50%" height="50%">
@@ -865,9 +865,11 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (67) Role of MtrGSTF7 in anthocyanin transport ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** The gstf7 mutant of Medicago truncatula shows a lack of anthocyanins, but an increased accumulation of proanthocyanidins in the leaves. MtrGSTF7 can complement the corresponding A. thaliana mutant (tt19) #FlavonoidFriday (details: https://lnk.tu-bs.de/uwJ3X0)
+> **_<a href="(https://twitter.com/boas_pucker/status/1532610533521707010">TWEET</a>:_** The gstf7 mutant of Medicago truncatula shows a lack of anthocyanins, but an increased accumulation of proanthocyanidins in the leaves. MtrGSTF7 can complement the corresponding A. thaliana mutant (tt19) #FlavonoidFriday (details: https://lnk.tu-bs.de/uwJ3X0)
 
-
+<a href="https://twitter.com/boas_pucker/status/1532610533521707010">
+<img alt="Role of MtrGSTF7 in anthocyanin transport (Tweet #67)" src="https://pbs.twimg.com/media/FUR4v4FX0AE1WQT?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 [Panara et al., 2022](https://doi.org/10.3390/plants11101318) studied the function of MtrGSTF7 in _Medicago truncatula_. The _mtrgstf7_ mutant lacks anthocyanins in the leaves, but shows an increased level of proanthocyanidins. This suggests that different GSTs are responsible for anthocyanin and proanthocyanin transport, respectively. The same observation was previously reported in _Vitis vinifera_.
 
