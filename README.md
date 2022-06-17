@@ -874,6 +874,13 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 [Panara et al., 2022](https://doi.org/10.3390/plants11101318) studied the function of MtrGSTF7 in _Medicago truncatula_. The _mtrgstf7_ mutant lacks anthocyanins in the leaves, but shows an increased level of proanthocyanidins. This suggests that different GSTs are responsible for anthocyanin and proanthocyanin transport, respectively. The same observation was previously reported in _Vitis vinifera_.
 
 
+### (68) Highland barley cultivars are rich anthocyanin sources ###
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Colored highland barley varieties are rich in flavonoids/anthocyanins and polyphenols. Nutritional value is high due to antioxidant and hypoglycemic properties #FlavonoidFriday (details: xxxx)
+
+
+[Jin et al., 2022](https://doi.org/10.3390/molecules27113411) investigated the polyphenol and anthocyanin composition of differently colored highland barley varieties. The color correlated with particular levels of certain anthocyanins and other flavonoids. Purple barley displayed the highest levels of anthocyanins. Black and blue bareley varieties were characterized by high levels of chalcones and flavones, while yellow and purple showed high amounts of flavonols. Cornflower pigment-3-glucoside was the dominant anthocyanin in blue, yellow and black barley varieties. In contrast, delphinidin dominated in the black barley variety. While all colored barley varieties have nutritional value due to their antioxidant and hypoglycemic value, purple and black varieties are outstanding.
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
 
