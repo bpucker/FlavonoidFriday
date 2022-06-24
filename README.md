@@ -885,9 +885,11 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (69) Branches of the flavonoid biosynthesis ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** The flavonoid biosynthesis comprises multiple branches leading to flavones, aurones, isoflavones, flavonols, phlobaphenes, proanthocyanidins, and anthocyanins #FlavonoidFriday (details: XXXX)
+> **_<a href="https://twitter.com/boas_pucker/status/1540220678896586753">TWEET</a>:_** The flavonoid biosynthesis comprises multiple branches leading to flavones, aurones, isoflavones, flavonols, phlobaphenes, proanthocyanidins, and anthocyanins #FlavonoidFriday (details: https://lnk.tu-bs.de/NicYyp)
 
-
+<a href="https://twitter.com/boas_pucker/status/1540220678896586753">
+<img alt="Branches of the flavonoid biosynthesis (Tweet #69)" src="https://pbs.twimg.com/media/FV_OgqlWAAElI-O?format=jpg&name=4096x4096" width="50%" height="50%">
+</a>
 
 [Liu et al., 2021](https://doi.org/10.3390/ijms222312824) reviewed the latest discoveries concerning the flavonoid biosynthesis. Eight branches leading to stilbenes, aurones, flavones, isoflavones, flavonols, phlobaphenes, proanthocyanidins, and anthocyanins are covered. Important intermediates are chalcones, flavanones, dihydroflavonols, and leucoanthocyanidins. MYB-bHLH-WD40 and NF-Y transcription factor complexes are involved in the transcriptional regulation of the flavonoid biosynthesis.
 
