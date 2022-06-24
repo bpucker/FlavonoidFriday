@@ -884,6 +884,16 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 [Jin et al., 2022](https://doi.org/10.3390/molecules27113411) investigated the polyphenol and anthocyanin composition of differently colored highland barley varieties. The color correlated with particular levels of certain anthocyanins and other flavonoids. Purple barley displayed the highest levels of anthocyanins. Black and blue bareley varieties were characterized by high levels of chalcones and flavones, while yellow and purple showed high amounts of flavonols. Cornflower pigment-3-glucoside was the dominant anthocyanin in blue, yellow and black barley varieties. In contrast, delphinidin dominated in the black barley variety. While all colored barley varieties have nutritional value due to their antioxidant and hypoglycemic value, purple and black varieties are outstanding.
 
 
+### (69) Branches of the flavonoid biosynthesis ###
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** The flavonoid biosynthesis comprises multiple branches leading to flavones, aurones, isoflavones, flavonols, phlobaphenes, proanthocyanidins, and anthocyanins #FlavonoidFriday (details: XXXX)
+
+
+
+[Liu et al., 2021](https://doi.org/10.3390/ijms222312824) reviewed the latest discoveries concerning the flavonoid biosynthesis. Eight branches leading to stilbenes, aurones, flavones, isoflavones, flavonols, phlobaphenes, proanthocyanidins, and anthocyanins are covered. Important intermediates are chalcones, flavanones, dihydroflavonols, and leucoanthocyanidins. MYB-bHLH-WD40 and NF-Y transcription factor complexes are involved in the transcriptional regulation of the flavonoid biosynthesis.
+
+
+
+
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
 
