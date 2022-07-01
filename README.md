@@ -895,6 +895,15 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 
+### (70) Anthocyanin accumulation in cotton ###
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Red and blue light induce the accumulation of anthocyanins in cotton. The anthocyanin regulators (PAP) and anthocyanin transporters (GSTs) are activated under these light conditions #FlavonoidFriday (details: XXXX)
+
+
+
+[Shao et al., 2022](https://doi.org/10.3389/fpls.2022.788828) investigated the impact of red and blue light on the anthocyanin accumulation of cotton (_Gossypium hirsutum_). The R2R3-MYB transcription factor _GhPAP1D_ and the anthocyanin transporter _GhGSTF12_ were identified as up-regulated under these treatment conditions. GhHY5 might be an additional regulator that controlls the flavonoid biosynthesis through GhPAP1D.
+
+
+
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
