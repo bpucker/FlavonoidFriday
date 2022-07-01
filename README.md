@@ -896,7 +896,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (70) Anthocyanin accumulation in cotton ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Red and blue light induce the accumulation of anthocyanins in cotton. The anthocyanin regulators (PAP) and anthocyanin transporters (GSTs) are activated under these light conditions #FlavonoidFriday (details: XXXX)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Red and blue light induce the accumulation of anthocyanins in cotton. The anthocyanin regulator (PAP) and anthocyanin transporter (GST) are activated under these light conditions #FlavonoidFriday (details: https://lnk.tu-bs.de/9ZCRm1)
 
 
 
