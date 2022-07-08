@@ -905,9 +905,11 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 [Shao et al., 2022](https://doi.org/10.3389/fpls.2022.788828) investigated the impact of red and blue light on the anthocyanin accumulation of cotton (_Gossypium hirsutum_). The R2R3-MYB transcription factor _GhPAP1D_ and the anthocyanin transporter _GhGSTF12_ were identified as up-regulated under these treatment conditions. GhHY5 might be an additional regulator that controlls the flavonoid biosynthesis through GhPAP1D.
 
 ### (71) Automatic annotation of the flavonoid biosynthesis ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Interested in the flavonoid biosynthesis of a new plant species? An automatic annotation of the flavonoid biosynthesis genes is enabled by this web server: http://pbb.bot.nat.tu-bs.de/KIPEs/ #FlavonoidFriday (details: XXX & https://doi.org/10.1101/2022.06.30.498365)
+> **_<a href="https://twitter.com/boas_pucker/status/1545286566238515200">TWEET</a>:_** Interested in the flavonoid biosynthesis of a new plant species? An automatic annotation of the flavonoid biosynthesis genes is enabled by this web server: http://pbb.bot.nat.tu-bs.de/KIPEs/ #FlavonoidFriday (details: XXX & https://doi.org/10.1101/2022.06.30.498365)
 
-
+<a href="https://twitter.com/boas_pucker/status/1545286566238515200">
+<img alt="Automatic annotation of the flavonoid biosynthesis (Tweet #71)" src="https://pbs.twimg.com/media/FXHhzi1WYAEXd_6?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a [web server](http://pbb.bot.nat.tu-bs.de/KIPEs/). A recent preprint by [Rempel & Pucker, 2022](https://doi.org/10.1101/2022.06.30.498365) describes describes the novel functions. For example, KIPEs3 can also identify flavonoid decorating enzymes and protein involved in the flavonoid transport. Additionally, information about the carotenoid biosynthesis is added to enable an automatic annotation of this pathway in the core metabolism.
 
