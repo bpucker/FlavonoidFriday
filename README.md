@@ -914,7 +914,8 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a [web server](http://pbb.bot.nat.tu-bs.de/KIPEs/). A recent preprint by [Rempel & Pucker, 2022](https://doi.org/10.1101/2022.06.30.498365) describes describes the novel functions. For example, KIPEs3 can also identify flavonoid decorating enzymes and protein involved in the flavonoid transport. Additionally, information about the carotenoid biosynthesis is added to enable an automatic annotation of this pathway in the core metabolism.
 
 
-
+### FlavonoiFriday posts will become less frequent ###
+Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will be decreased. However, we are happy to share high quality findings once they get published.
 
 
 ## Contact ##
