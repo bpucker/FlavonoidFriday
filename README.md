@@ -940,7 +940,7 @@ Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a 
 
 
 ### FlavonoidFriday posts will become less frequent ###
-Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will be decreased. However, we are happy to share high quality findings once they get published.
+Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will decrease. Some classic publications will be posted again. Additionally, we are happy to share high quality findings once they get published.
 
 
 ## Contact ##
