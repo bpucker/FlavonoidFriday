@@ -917,7 +917,11 @@ Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a 
 
 
 ### (72) Modification of anthocyanins in blueberry ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Do you like blueberries? Identification of genetic loci determining fruit quality trais in Vaccinium corymbosum: https://doi.org/10.3389/fpls.2022.964656 & https://lnk.tu-bs.de/q8WLDC #Genomics #Bioinformatics #FlavonoidFriday
+> **_<a href="https://twitter.com/PuckerLab/status/1573197975131561984">TWEET</a>:_** Do you like blueberries? Identification of genetic loci determining fruit quality trais in Vaccinium corymbosum: https://doi.org/10.3389/fpls.2022.964656 & https://lnk.tu-bs.de/q8WLDC #Genomics #Bioinformatics #FlavonoidFriday
+
+<a href="https://twitter.com/PuckerLab/status/1573197975131561984">
+<img alt="Modification of anthocyanins in blueberry (Tweet #72)" src="https://twitter.com/PuckerLab/status/1573197975131561984/photo/1" width="50%" height="50%">
+</a>
 
 [Mengist et al., 2022](https://doi.org/10.3389/fpls.2022.964656) identified genomic regions harbouring genes that are associated with anthocyanin modification. Anthocynins are a major factor contributing to the nutritional value of blueberries. Four major QTLs were identified on chromosomes 1, 2, 4, and 8. Genes associated with acylation and glycosylation of anthocyanins (transferases) are located in these regions.
 
