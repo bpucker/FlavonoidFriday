@@ -938,8 +938,11 @@ Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a 
 
 
 ### (74) Chickpea seed pigmentation ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Tissue-specific silencing of the transcription factor CaTT8 or the transporter CaMATE1 in chickpea type desi prevents the formation and accumulation of anthocyanins and proanthocyanidins leading to lighter seed color #FlavonoidFriday details: https://lnk.tu-bs.de/xpzZDX.
+> **_<a href="https://twitter.com/boas_pucker/status/1636630950384750592">TWEET</a>:_** Tissue-specific silencing of the transcription factor CaTT8 or the transporter CaMATE1 in chickpea type desi prevents the formation and accumulation of anthocyanins and proanthocyanidins leading to lighter seed color #FlavonoidFriday details: https://lnk.tu-bs.de/xpzZDX.
 
+<a href="https://twitter.com/boas_pucker/status/1636630950384750592">
+<img alt="Chickpea seed pigmentation (74)" src="https://pbs.twimg.com/media/Fq7cdlMWAAAU4-5?format=jpg&name=medium" width="50%" height="50%">
+</a>
 
 [Pal et al., 2022](https://doi.org/10.1101/2022.08.22.504750) investigated the seed coloration of chickpea. There are two types of chickpea that difference in the seed and flower color. Desi is characterized by dark seeds and purple flower, while kabuli shows lighter seed color and white flowers. These phenotypes suggest that the flavonoid biosynthesis is implicated. Anthocyanins and proanthocyanidins (PAs) are known to cause dark pigmentation in plants. Tissue-specific silencing of the anthocyanin/PA regulating bHLH CaTT8 or the transporter CaMATE1 in desi resulted in a phenotype that resembles kabuli. A simlified illustration of the [flavonoid biosynthesis](https://www.mdpi.com/plants/plants-11-00963/article_deploy/html/images/plants-11-00963-g001.png) and the associated [flavonoid transport](https://www.mdpi.com/plants/plants-11-00963/article_deploy/html/images/plants-11-00963-g002.png) illustrate the role of MATE in transporting anthocyanins and PAs into the vacuole for long term storage. The substitution of a single amino acid in MATE1 (A117D) was sufficient to substantially reduce the transport function. It seems that an effective block of the anthocyanin and PA biosynthesis could be achieved through lack of gene expression or lack of anthocyanin transport.
 
