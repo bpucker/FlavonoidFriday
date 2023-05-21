@@ -949,6 +949,9 @@ Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a 
 ### (75) Flavonoid genetics in Vaccinium ###
 > **_<a href="">TWEET</a>:_** Comprehensive review about flavonoid genetics in Vaccinium crops including blueberry, cranberry, bilberry, and lingonberry #FlavonoidFriday (details: https://doi.org/10.1093/plphys/kiad250 & https://lnk.tu-bs.de/24sVPK)
 
+<a href="https://twitter.com/boas_pucker/status/1659453840020713473">
+<img alt="Flavonoid genetics in Vaccinium (75)" src="https://pbs.twimg.com/media/FwW8EADXsAI9-UW?format=jpg&name=900x900" width="50%" height="50%">
+</a>
 
 The genus _Vaccinium_, which includes popular berry crops like blueberries, cranberries, bilberries, and lingonberries, is known for its potential health benefits. These benefits are often attributed to the high levels of flavonoids, particularly anthocyanins, which give the berries their vibrant red and blue colors. Due to the growing interest in these phytochemicals among consumers, breeders have focused on developing Vaccinium varieties with enhanced flavonoid content. Recent advancements in _Vaccinium_ genomics and genetics, as well as functional studies on flavonoid regulation, have provided insights into the control of flavonoid development and identified specific genes and genetic regions that can be targeted for crop improvement. This progress not only contributes to the enhancement of Vaccinium crops but also deepens our understanding of flavonoid regulation and biosynthesis in a wider range of fruit crops. This update discusses the recent advancements in understanding flavonoid regulation, using _Vaccinium_ as a case study, and emphasizes the significant improvements in genomic tools and functional analysis.
 
