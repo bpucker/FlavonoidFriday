@@ -970,8 +970,7 @@ The paper by [Davies et al., 2022](https://doi.org/10.1093/aob/mcac109) discusse
 
 
 ### (78) Roles of ANS and LDOX in PA biosynthesis ###
-> **_<a href="">TWEET</a>:_** Study reveals how Medicago truncatula plants produce proanthocyanidins (PAs). ANS and LDOX enzymes operate in parallel pathways to generate different starter and extension units for PAs. Understanding these mechanisms opens doors to engineering PA compositions.  #FlavonoidFriday (details: https://lnk.tu-bs.de/DAFy9J)
-
+> **_<a href="">TWEET</a>:_** Medicago produces proanthocyanidins (PAs) through ANS & LDOX enzymes operating in parallel pathways to generate different starter and extension units for PAs. Understanding these mechanisms enables engineering of PA composition. #FlavonoidFriday (details: https://lnk.tu-bs.de/DAFy9J)
 
 This paper by [Jun et al., 2018](https://doi.org/10.1038/s41477-018-0292-9) investigates the formation of proanthocyanidins (PAs), which are composed of flavan-3-ol subunits, in the model legume _Medicago truncatula_. The study reveals that two 2-oxoglutarate-dependent dioxygenases, anthocyanidin synthase (ANS) and leucoanthocyanidin dioxygenase (LDOX), operate in parallel pathways to generate the (-)-epicatechin extension and starter units of PAs, with (+)-catechin acting as an intermediate in the formation of the (-)-epicatechin starter unit. The presence or absence of the LDOX pathway explains natural variations in PA compositions among different species. Genetic manipulation of ANS or LDOX provides a means to modify PA compositions for various applications. The research sheds light on the biochemical and genetic mechanisms underlying PA biosynthesis, offering insights for engineering PAs with specific properties.
 
