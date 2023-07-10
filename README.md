@@ -948,7 +948,7 @@ Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a 
 
 
 ### (75) Flavonoid genetics in Vaccinium ###
-> **_<a href="">TWEET</a>:_** Comprehensive review about flavonoid genetics in Vaccinium crops including blueberry, cranberry, bilberry, and lingonberry #FlavonoidFriday (details: https://doi.org/10.1093/plphys/kiad250 & https://lnk.tu-bs.de/24sVPK)
+> **_<a href="https://twitter.com/boas_pucker/status/1659453840020713473">TWEET</a>:_** Comprehensive review about flavonoid genetics in Vaccinium crops including blueberry, cranberry, bilberry, and lingonberry #FlavonoidFriday (details: https://doi.org/10.1093/plphys/kiad250 & https://lnk.tu-bs.de/24sVPK)
 
 <a href="https://twitter.com/boas_pucker/status/1659453840020713473">
 <img alt="Flavonoid genetics in Vaccinium (75)" src="https://pbs.twimg.com/media/FwW8EADXsAI9-UW?format=jpg&name=900x900" width="50%" height="50%">
