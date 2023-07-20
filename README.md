@@ -981,8 +981,7 @@ This paper by [Jun et al., 2018](https://doi.org/10.1038/s41477-018-0292-9) inve
 
 
 ### (79) Flavonols in the glasshouse plant _Rheum nobile_ ###
-> **_<a href="">TWEET</a>:_** xxxx
-
+> **_<a href="">TWEET</a>:_** Quercetin-derived flavonols support UV protection in the incredible alpine plant, Rheum nobile, with its built-in glasshouse #FlavonoidFriday (details: https://lnk.tu-bs.de/HA1C9u & https://doi.org/10.1038/s42003-023-05044-1)
 
 _Rheum nobile_ is an alpine plant that brings its own glasshouse. A recent publication by [Feng et al., 2023](https://doi.org/10.1038/s42003-023-05044-1) presents the genome sequence as a basis for various investigations of exciting traits. Some translucent leaves protect the plant and increase the temperature inside this leaf-protected space. As an alpine plant, _R. nobile_ is exposed to high UV radiation. quercetin-derived flavonols were detected as the major compound in UV stress mitigation. The genome sequence of _R. nobile_ enabled the identification of underlying genes including _CHS_ and _FLS_.
 
