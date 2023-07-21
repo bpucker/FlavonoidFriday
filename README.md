@@ -968,7 +968,11 @@ The genus _Vaccinium_, which includes popular berry crops like blueberries, cran
 
 
 ### (77) Evolution of red pigmentation ###
-> **_<a href="">TWEET</a>:_** Discovering the colorful secrets of plants: Red pigmentation in land plants and terrestrial algae is often a response to stress. Flavonoids, betalains, and carotenoids play key roles. #FlavonoidFriday (detail: https://lnk.tu-bs.de/zH6Y0J)
+> **_<a href="https://twitter.com/boas_pucker/status/1682276723583492096">TWEET</a>:_** Discovering the colorful secrets of plants: Red pigmentation in land plants and terrestrial algae is often a response to stress. Flavonoids, betalains, and carotenoids play key roles. #FlavonoidFriday (detail: https://lnk.tu-bs.de/zH6Y0J)
+
+<a href="https://twitter.com/boas_pucker/status/1682276723583492096">
+<img alt="Evolution of red pigmentation (77)" src="https://pbs.twimg.com/media/F0pVliDWIAMgtMz?format=jpg&name=large" width="30%" height="30%">
+</a>
 
 The paper by [Davies et al., 2022](https://doi.org/10.1093/aob/mcac109) discusses the production of red pigmentation in land plants and terrestrial algae as a response to environmental stress. It explores the various types of pigments involved, such as flavonoids, betalains, and carotenoids. The study examines the triggers for stress-induced pigmentation, theories on their functions, the evolution of biosynthetic pathways, and the structure-function aspects of different pigment types. The paper also compares stress-induced pigmentation in land plants and terrestrial algae and discusses the absence of red pigmentation in the hornwort lineage. Overall, the research highlights the multiple evolutionary occurrences of pigment biosynthesis in land plants and their benefits in protecting against harmful radiation and providing specific advantages to different plant lineages.
 
