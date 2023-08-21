@@ -1009,6 +1009,7 @@ A mutation resulting in the replacement of R130 to histidin in strawberry _F3H_ 
 
 
 
+
 ### FlavonoidFriday posts will become less frequent ###
 Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will decrease. Some classic publications will be posted again. Additionally, we are happy to share high quality findings once they get published.
 
