@@ -999,6 +999,14 @@ This paper by [Jun et al., 2018](https://doi.org/10.1038/s41477-018-0292-9) inve
 _Rheum nobile_ is an alpine plant that brings its own glasshouse. A recent publication by [Feng et al., 2023](https://doi.org/10.1038/s42003-023-05044-1) presents the genome sequence as a basis for various investigations of exciting traits. Some translucent leaves protect the plant and increase the temperature inside this leaf-protected space. As an alpine plant, _R. nobile_ is exposed to high UV radiation. quercetin-derived flavonols were detected as the major compound in UV stress mitigation. The genome sequence of _R. nobile_ enabled the identification of underlying genes including _CHS_ and _FLS_.
 
 
+### (80) Pink strawberries ###
+> **_<a href="">TWEET</a>:_** A R130H replacement in strawberry F3H causes a pigmentation shift from red to pink. Anthocyanins accumulation in fruits and flowers appeared independent #FlavonoidFriday (details: XXX)
+
+
+A mutation resulting in the replacement of R130 to histidin in strawberry _F3H_ resulted in a shift from red to pink fruit color ([Xu et al., 2023](https://doi.org/10.1093/plphys/kiad424)). This color change is caused by an almost complete lack of anthocyanins in the fruits. The _f3h_ mutant investigation also revealed differences in the anthocyanin biosynthesis regulation in the fruits and flowers. It seems that a completely independent set of genes is responsible for the anthocyanin formation in flowers. The MYB10 was confirmed as fruit-specific activator of the anthocyanin biosynthesis. Since the f3h mutant is the product of an EMS mutagenesis, secondary mutations might contribute to the overall phenotype like the green petioles that showed an increased chlorophyll accumulation.
+
+
+
 
 
 ### FlavonoidFriday posts will become less frequent ###
