@@ -1000,7 +1000,7 @@ _Rheum nobile_ is an alpine plant that brings its own glasshouse. A recent publi
 
 
 ### (80) Pink strawberries ###
-> **_<a href="">TWEET</a>:_** A R130H replacement in strawberry F3H causes a pigmentation shift from red to pink. Anthocyanins accumulation in fruits and flowers appeared independent #FlavonoidFriday (details: XXX)
+> **_<a href="">TWEET</a>:_** A R130H replacement in strawberry F3H causes a pigmentation shift from red to pink. Anthocyanins accumulation in fruits and flowers appeared independent #FlavonoidFriday (details: https://lnk.tu-bs.de/LN1A26)
 
 
 A mutation resulting in the replacement of R130 to histidin in strawberry _F3H_ resulted in a shift from red to pink fruit color ([Xu et al., 2023](https://doi.org/10.1093/plphys/kiad424)). This color change is caused by an almost complete lack of anthocyanins in the fruits. The _f3h_ mutant investigation also revealed differences in the anthocyanin biosynthesis regulation in the fruits and flowers. It seems that a completely independent set of genes is responsible for the anthocyanin formation in flowers. The MYB10 was confirmed as fruit-specific activator of the anthocyanin biosynthesis. Since the f3h mutant is the product of an EMS mutagenesis, secondary mutations might contribute to the overall phenotype like the green petioles that showed an increased chlorophyll accumulation.
