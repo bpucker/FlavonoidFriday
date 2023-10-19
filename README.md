@@ -1010,11 +1010,13 @@ A mutation resulting in the replacement of R130 by histidine in strawberry _F3H_
 
 
 ### (81) Vaccinium as model system to explore flavonoid biosynthesis ###
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Vaccinium is well known for blue anthocyanins and also serves as a model system to understand the regulation of the complex flavonoid biosynthesis in fruits #FlavonoidFriday (details: https://lnk.tu-bs.de/G7NgHD)
 
 A recent review by [Albert et al., 2023](https://doi.org/10.1093/plphys/kiad250) summarizes current knowledge about the flavonoid biosynthesis in the genus Vaccinium and highlights future research questions. Species like blueberry and bilberry belong to Vaccinium and are economically important crop species. Vaccinium is an important comparative system to explore the complex flavonoid accumulation profiles and regulation in fruits. Previous studies assigned a range of health benefits to anthocyanins. The huge diversity of flavonoid in Vaccinium is caused by hydroxylation differences and the addition of sugar moieties and acyl groups.
 
 
 ### (82) Genetic factors blocking anthocyanin biosynthesis ###
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Lack of anthocyanins in plants is often caused by transcriptional changes. Mutations associated with MYBs and bHLHs are the most frequent explanations #FlavonoidFriday (details: https://lnk.tu-bs.de/wHbUQk)
 
 Genetic factors explaining anthocyanin pigmentation differences within plant species was explored by [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820). Mutations associated with transcription factors were identified as the most frequent reasons for the lack of anthocyanins. Anthocyanin biosynthesis activating MYBs are by far the most important transcription factor group. Anthocyanin biosynthesis activating bHLHs are the second most important group. Mutations in structural genes are rarely the responsible factor. _DFR_ stands out as the most frequently mutated structural gene in plants lacking anthocyanins.
 
