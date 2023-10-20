@@ -1013,7 +1013,7 @@ A mutation resulting in the replacement of R130 by histidine in strawberry _F3H_
 > **_<a href="https://twitter.com/boas_pucker/status/1715254018417762586">TWEET</a>:_** Vaccinium is well known for blue anthocyanins and also serves as a model system to understand the regulation of the complex flavonoid biosynthesis in fruits #FlavonoidFriday (details: https://lnk.tu-bs.de/G7NgHD)
 
 <a href="https://twitter.com/boas_pucker/status/1715254018417762586">
-<img alt="Vaccinium as model system to explore flavonoid biosynthesis (81)" src="https://pbs.twimg.com/media/F8xxut1XEAA6TJm?format=jpg&name=4096x4096" width="30%" height="30%">
+<img alt="Vaccinium as model system to explore flavonoid biosynthesis (81)" src="https://pbs.twimg.com/media/F8xxut1XEAA6TJm?format=jpg&name=4096x4096" width="50%" height="50%">
 </a>
 
 A recent review by [Albert et al., 2023](https://doi.org/10.1093/plphys/kiad250) summarizes current knowledge about the flavonoid biosynthesis in the genus Vaccinium and highlights future research questions. Species like blueberry and bilberry belong to Vaccinium and are economically important crop species. Vaccinium is an important comparative system to explore the complex flavonoid accumulation profiles and regulation in fruits. Previous studies assigned a range of health benefits to anthocyanins. The huge diversity of flavonoid in Vaccinium is caused by hydroxylation differences and the addition of sugar moieties and acyl groups.
