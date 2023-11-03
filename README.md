@@ -1029,7 +1029,7 @@ A recent review by [Albert et al., 2023](https://doi.org/10.1093/plphys/kiad250)
 Genetic factors explaining anthocyanin pigmentation differences within plant species was explored by [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820). Mutations associated with transcription factors were identified as the most frequent reasons for the lack of anthocyanins. Anthocyanin biosynthesis activating MYBs are by far the most important transcription factor group. Anthocyanin biosynthesis activating bHLHs are the second most important group. Mutations in structural genes are rarely the responsible factor. _DFR_ stands out as the most frequently mutated structural gene in plants lacking anthocyanins.
 
 ### (83) Flavonol influence on glucosinolate biosynthesis ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Flavonols can repress camalexin biosynthesis while up-regulating aliphatic glucosinolate biosynthesis #FlavonoidFriday (details: https://lnk.tu-bs.de/B0aveJ & https://doi.org/10.1093/jxb/erad391)
+> **_<a href="https://twitter.com/boas_pucker/status/1720342547837698148">TWEET</a>:_** Flavonols can repress camalexin biosynthesis while up-regulating aliphatic glucosinolate biosynthesis #FlavonoidFriday (details: https://lnk.tu-bs.de/B0aveJ & https://doi.org/10.1093/jxb/erad391)
 
 <a href="https://doi.org/10.1101/2023.06.05.543820">
 <img alt="Flavonol influence on glucosinolate biosynthesis (83)" src="https://pbs.twimg.com/media/F9Svi0sWQAAIeW_?format=jpg&name=large" width="30%" height="30%">
