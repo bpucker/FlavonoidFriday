@@ -1041,7 +1041,7 @@ A flavonol feeding study by [Naik et al., 2023](https://doi.org/10.1093/jxb/erad
 > **_<a href="https://twitter.com/boas_pucker/status/1722879261659615463">TWEET</a>:_** Lack of anthocyanins in betalain-pigmented Caryophyllales is explained by loss of AN9/TT19 and low transcription of DFR and LDOX/ANS (details: https://lnk.tu-bs.de/8c3pfA & https://doi.org/10.1111/nph.19341) #FlavonoidFriday
 
 <a href="https://doi.org/10.1111/nph.19341">
-<img alt="Mechanisms explaining the lack of anthocyanins in betalain-pigmented Caryophyllales (84)" src="https://pbs.twimg.com/media/F9nbpFyXEAAHzTP?format=jpg&name=4096x4096" width="30%" height="30%">
+<img alt="Mechanisms explaining the lack of anthocyanins in betalain-pigmented Caryophyllales (84)" src="https://pbs.twimg.com/media/F9nbpFyXEAAHzTP?format=jpg&name=4096x4096" width="50%" height="50%">
 </a>
 
 A comprehensive data analysis revealed several mechanisms that explain the lack of anthocyanin pigmentation in betalain-pigmented Caryophyllales species ([Pucker et al., 2023](https://doi.org/10.1111/nph.19341)): (1) Loss of the anthocyanin biosynthesis gene _AN9_/_TT19_ and (2) low transcription of the crucial anthocyanin biosynthesis genes _DFR_ and _LDOX_/_ANS_ in the betalain-pigmented species. The low transcription of _DFR_and _ANS_ is explained by changes in their transcriptional regulator. The anthocyanin activating MYB transcription factor lost its ability to interact with its bHLH partner in the betalain-pigmented lineages. Usually, anthocyanin biosynthesis is activated by a transcription factor complex comprizing a MYB, a bHLH, and a WD40 component. 
