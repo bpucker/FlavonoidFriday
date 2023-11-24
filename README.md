@@ -1048,7 +1048,7 @@ A comprehensive data analysis revealed several mechanisms that explain the lack 
 
 
 ### (85) Mitigating substrate competition of FLS and DFR ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Competition for dihydroflavonol between flavonol synthase (FLS) and dihydroflavonol 4-reductase (DFR) could be mitigated by nuances in substrate preferences #FlavonoidFriday (details: https://lnk.tu-bs.de/UhxysH & https://doi.org/10.1101/2023.11.05.565693)
+> **_<a href="https://twitter.com/boas_pucker/status/1727952692121850220">TWEET</a>:_** Competition for dihydroflavonol between flavonol synthase (FLS) and dihydroflavonol 4-reductase (DFR) could be mitigated by nuances in substrate preferences #FlavonoidFriday (details: https://lnk.tu-bs.de/UhxysH & https://doi.org/10.1101/2023.11.05.565693)
 
 <a href="https://doi.org/10.1101/2023.11.05.565693">
 <img alt="Mitigating substrate competition of FLS and DFR (85)" src="https://www.biorxiv.org/content/biorxiv/early/2023/11/09/2023.11.05.565693/F2.large.jpg?width=800&height=600&carousel=1" width="50%" height="50%">
