@@ -1047,6 +1047,16 @@ A flavonol feeding study by [Naik et al., 2023](https://doi.org/10.1093/jxb/erad
 A comprehensive data analysis revealed several mechanisms that explain the lack of anthocyanin pigmentation in betalain-pigmented Caryophyllales species ([Pucker et al., 2023](https://doi.org/10.1111/nph.19341)): (1) Loss of the anthocyanin biosynthesis gene _AN9_/_TT19_ and (2) low transcription of the crucial anthocyanin biosynthesis genes _DFR_ and _LDOX_/_ANS_ in the betalain-pigmented species. The low transcription of _DFR_and _ANS_ is explained by changes in their transcriptional regulator. The anthocyanin activating MYB transcription factor lost its ability to interact with its bHLH partner in the betalain-pigmented lineages. Usually, anthocyanin biosynthesis is activated by a transcription factor complex comprizing a MYB, a bHLH, and a WD40 component. 
 
 
+### (85) Mitigating substrate competition of FLS and DFR ###
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Competition for dihydroflavonol between flavonol synthase (FLS) and dihydroflavonol 4-reductase (DFR) could be mitigated by nuances in substrate preferences #FlavonoidFriday (details: xxx & https://doi.org/10.1101/2023.11.05.565693)
+
+<a href="https://doi.org/10.1101/2023.11.05.565693">
+<img alt="Mitigating substrate competition of FLS and DFR (85)" src="https://www.biorxiv.org/content/biorxiv/early/2023/11/09/2023.11.05.565693/F2.large.jpg?width=800&height=600&carousel=1" width="50%" height="50%">
+</a>
+
+A systematic investigation of flavonol synthase (FLS) and dihydroflavonol 4-reductase (DFR) suggested nuances in substrate preferences as a potential mechanism for mitigation of substrate competition ((Choudhary&Pucker,2023)[https://doi.org/10.1101/2023.11.05.565693]). Differences in the expression of the corresponding genes is an additional mechanism that could mitigate the substrate competition. Specific amino acid residues in FLS and DFR influence their preferences for dihydroflavonols with a particular hydroxylation pattern. FLS and DFR appear to have different preferred substrates in many plant species i.e. one preferring dihydrokaempferol and the other one preferring dihydroquercetin. This systematic analysis also revealed some deep gene duplications which resulted in clades with yet unknown functions.
+
+
 
 
 
