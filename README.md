@@ -457,13 +457,13 @@ _IbGSTF4_ showed strong gene expression in purple-fleshed tissues. A complementa
 
 ### (31) Plant Biotechnology and Bioinformatics group starts research on specialized metabolites at TU Braunschweig ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1443825506021888003">TWEET</a>:_** Today, @PuckerLab starts research on specialized metabolism at @tuBraunschweig. Genomics & bioinformatics will help to unlock the secrets of plants. Details: https://lnk.tu-bs.de/nvToVH #PlantSci #FlavonoidFriday
+> **_<a href="https://twitter.com/boas_pucker/status/1443825506021888003">TWEET</a>:_** Today, @PuckerLab starts research on specialized metabolism at @tuBraunschweig. Genomics & bioinformatics will help to unlock the secrets of plants. Details: [@PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) #PlantSci #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1443825506021888003">
 <img alt="Plant Biotechnology and Bioinformatics (Tweet #31)" src="https://pbs.twimg.com/media/FAl8hVBWQAEFgVe?format=jpg&name=4096x4096" width="50%" height="50%">
 </a>
 
-Details about the research in the group and open positions can be found on the website: https://www.tu-braunschweig.de/en/ifp/pbb
+Details about the research in the group and open positions can be found on the website: [@PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb).
 
 
 ### (32) Bifunctional FLS in rapeseed ###
@@ -616,7 +616,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (45) KIPEs ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1479347070855270401">TWEET</a>:_** Starting 2022 with research on flavonoids? KIPEs can help you to find the flavonoid biosynthesis genes in your plant species of interest: https://lnk.tu-bs.de/SYzXMe #FlavonoidFriday (details: https://bit.ly/3pRbBn8)
+> **_<a href="https://twitter.com/boas_pucker/status/1479347070855270401">TWEET</a>:_** Starting 2022 with research on flavonoids? KIPEs can help you to find the flavonoid biosynthesis genes in your plant species of interest: [KIPEs paper](https://www.mdpi.com/2223-7747/9/9/1103/htm) #FlavonoidFriday (details: https://bit.ly/3pRbBn8)
 
 <a href="https://twitter.com/boas_pucker/status/1479347070855270401">
 <img alt="KIPEs (Tweet #45)" src="https://pbs.twimg.com/media/FGgOhLZXIAUJqTh?format=jpg&name=4096x4096" width="50%" height="50%">
