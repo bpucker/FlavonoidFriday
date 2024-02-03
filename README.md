@@ -803,18 +803,18 @@ _LaPT2_ is expressed in roots and shows co-expression with _LaF3H1_ and _LaFLS2_
 
 ### (61) KIPEs3 online ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1519926958196363264">TWEET</a>:_** Automatic annotation of flavonoid biosynthesis genes with KIPEs3 is now available as an online service: http://pbb.bot.nat.tu-bs.de/KIPEs/. Just submit a FASTA file of your species of interest to start the analysis. #FlavonoidFriday (https://lnk.tu-bs.de/R9pO5i & https://doi.org/10.3390/plants9091103)
+> **_<a href="https://twitter.com/boas_pucker/status/1519926958196363264">TWEET</a>:_** Automatic annotation of flavonoid biosynthesis genes with KIPEs3 is now available as an online service: http://pbb.bot.nat.tu-bs.de/KIPEs/. Just submit a FASTA file of your species of interest to start the analysis. #FlavonoidFriday (https://doi.org/10.3390/plants9091103)
 
 <a href="https://twitter.com/boas_pucker/status/1519926958196363264">
 <img alt="KIPEs3 online (Tweet #61)" src="https://pbs.twimg.com/media/FRemcC5XEAA1YZN?format=jpg&name=large" width="50%" height="50%">
 </a>
 
-An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm)), is now available as an online service: [KIPEs3 online](http://pbb.bot.nat.tu-bs.de/KIPEs/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
+An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm)), is now available as an online service: [KIPEs3 online](https://pbb-tools.de/KIPEs/). Users can submit a FASTA file with peptide sequences of their species of interest without having to install the tool locally.
 
 
 ### (62) Independent evolution of prenyltransferases ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1522463674308341761">TWEET</a>:_** Discovery of prenyltransferases in Morus alba and Cudrania tricuspidata suggested independent evolution of this enzymatic function in different plant lineages #FlavonoidFriday (details: https://lnk.tu-bs.de/kABO2d)
+> **_<a href="https://twitter.com/boas_pucker/status/1522463674308341761">TWEET</a>:_** Discovery of prenyltransferases in Morus alba and Cudrania tricuspidata suggested independent evolution of this enzymatic function in different plant lineages #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1522463674308341761">
 <img alt="Independent evolution of prenyltransferases (Tweet #62)" src="https://pbs.twimg.com/media/FSAPf4VWYAACFC6?format=jpg&name=large" width="50%" height="50%">
@@ -825,7 +825,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 ### (63) Purple pigmentation of tomato fruits ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1525000391041069056">TWEET</a>:_** Novel alleles of anthocyanin biosynthesis genes form the basis for purple pigmentation of Solanum galapagense-derived tomato fruits #FlavonoidFriday (details: https://lnk.tu-bs.de/H1mzCj)
+> **_<a href="https://twitter.com/boas_pucker/status/1525000391041069056">TWEET</a>:_** Novel alleles of anthocyanin biosynthesis genes form the basis for purple pigmentation of Solanum galapagense-derived tomato fruits #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1525000391041069056">
 <img alt="Purple pigmentation of tomato fruits (Tweet #63)" src="https://pbs.twimg.com/media/FSnB6paXoAc0kfY?format=jpg&name=large" width="50%" height="50%">
@@ -837,7 +837,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 ### (64) Pigmentation of sweet basil ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1527537104045105152">TWEET</a>:_** Mutations in two ANS genes of Ocimum basilicum are responsible for the lack of anthocyanins observed in green sweet basil plants with white flowers #FlavonoidFriday (details: https://lnk.tu-bs.de/4HcU0X)
+> **_<a href="https://twitter.com/boas_pucker/status/1527537104045105152">TWEET</a>:_** Mutations in two ANS genes of Ocimum basilicum are responsible for the lack of anthocyanins observed in green sweet basil plants with white flowers #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1527537104045105152">
 <img alt="Pigmentation of sweet basil (Tweet #64)" src="https://pbs.twimg.com/media/FTG_HCBWYAA1slw?format=jpg&name=large" width="50%" height="50%">
@@ -847,7 +847,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (65) CHS in safflower ###
-> **_<a href="https://twitter.com/boas_pucker/status/1530073817707646982">TWEET</a>:_** CHS4 of safflower (Carthamus tinctorius) appears to be regulated by differential alternative splicing which influences the completeness of the resulting protein #FlavonoidFriday (details: https://lnk.tu-bs.de/HQZf3Y)
+> **_<a href="https://twitter.com/boas_pucker/status/1530073817707646982">TWEET</a>:_** CHS4 of safflower (Carthamus tinctorius) appears to be regulated by differential alternative splicing which influences the completeness of the resulting protein #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1530073817707646982">
 <img alt="CHS in safflower (Tweet #65)" src="https://pbs.twimg.com/media/FTtlr21WQAAZ94V?format=jpg&name=small" width="50%" height="50%">
@@ -857,7 +857,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (66) Glycosylation of flavonoids ###
-> **_<a href="https://twitter.com/boas_pucker/status/1532610533521707010">TWEET</a>:_** Deglycosylation of flavonoids is used in food industry to improve taste through removal of off-taste components e.g. debittering of citrus juice #FlavonoidFriday (details: https://lnk.tu-bs.de/CZKYJg)
+> **_<a href="https://twitter.com/boas_pucker/status/1532610533521707010">TWEET</a>:_** Deglycosylation of flavonoids is used in food industry to improve taste through removal of off-taste components e.g. debittering of citrus juice #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1532610533521707010">
 <img alt="Glycosylation of flavonoids (Tweet #66)" src="https://pbs.twimg.com/media/FUR4v4FX0AE1WQT?format=jpg&name=large" width="50%" height="50%">
@@ -867,7 +867,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (67) Role of MtrGSTF7 in anthocyanin transport ###
-> **_<a href="https://twitter.com/boas_pucker/status/1535147247851085824">TWEET</a>:_** The gstf7 mutant of Medicago truncatula shows a lack of anthocyanins, but an increased accumulation of proanthocyanidins in the leaves. MtrGSTF7 can complement the corresponding A. thaliana mutant (tt19) #FlavonoidFriday (details: https://lnk.tu-bs.de/uwJ3X0)
+> **_<a href="https://twitter.com/boas_pucker/status/1535147247851085824">TWEET</a>:_** The gstf7 mutant of Medicago truncatula shows a lack of anthocyanins, but an increased accumulation of proanthocyanidins in the leaves. MtrGSTF7 can complement the corresponding A. thaliana mutant (tt19) #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1535147247851085824">
 <img alt="Role of MtrGSTF7 in anthocyanin transport (Tweet #67)" src="https://pbs.twimg.com/media/FU3iDJ5WQAA-Ea8?format=jpg&name=medium" width="50%" height="50%">
@@ -877,7 +877,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (68) Highland barley cultivars are rich anthocyanin sources ###
-> **_<a href="https://pbs.twimg.com/media/FVbBGiiWYAAZhyU?format=jpg&name=large">TWEET</a>:_** Colored highland barley varieties are rich in flavonoids/anthocyanins and polyphenols. Nutritional value is high due to antioxidant and hypoglycemic properties of these compounds #FlavonoidFriday (details: https://lnk.tu-bs.de/RtSHen)
+> **_<a href="https://pbs.twimg.com/media/FVbBGiiWYAAZhyU?format=jpg&name=large">TWEET</a>:_** Colored highland barley varieties are rich in flavonoids/anthocyanins and polyphenols. Nutritional value is high due to antioxidant and hypoglycemic properties of these compounds #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1537683963438944256">
 <img alt="Highland barley cultivars are rich anthocyanin sources (Tweet #68)" src="https://pbs.twimg.com/media/FVbBGiiWYAAZhyU?format=jpg&name=large" width="50%" height="50%">
@@ -887,7 +887,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (69) Branches of the flavonoid biosynthesis ###
-> **_<a href="https://twitter.com/boas_pucker/status/1540220678896586753">TWEET</a>:_** The flavonoid biosynthesis comprises multiple branches leading to flavones, aurones, isoflavones, flavonols, phlobaphenes, proanthocyanidins, and anthocyanins #FlavonoidFriday (details: https://lnk.tu-bs.de/NicYyp)
+> **_<a href="https://twitter.com/boas_pucker/status/1540220678896586753">TWEET</a>:_** The flavonoid biosynthesis comprises multiple branches leading to flavones, aurones, isoflavones, flavonols, phlobaphenes, proanthocyanidins, and anthocyanins #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1540220678896586753">
 <img alt="Branches of the flavonoid biosynthesis (Tweet #69)" src="https://pbs.twimg.com/media/FV_OgqlWAAElI-O?format=jpg&name=4096x4096" width="50%" height="50%">
@@ -898,7 +898,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 
 
 ### (70) Anthocyanin accumulation in cotton ###
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Red and blue light induce the accumulation of anthocyanins in cotton. The anthocyanin regulator (PAP) and anthocyanin transporter (GST) are activated under these light conditions #FlavonoidFriday (details: https://lnk.tu-bs.de/9ZCRm1)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Red and blue light induce the accumulation of anthocyanins in cotton. The anthocyanin regulator (PAP) and anthocyanin transporter (GST) are activated under these light conditions #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1542757395134156800">
 <img alt="Anthocyanin accumulation in cotton (Tweet #70)" src="https://pbs.twimg.com/media/FWjZrWWXEAEd6Dm?format=jpg&name=large" width="50%" height="50%">
@@ -907,7 +907,7 @@ An automatic flavonoid annotation workflow ([Pucker et al., 2020](https://www.md
 [Shao et al., 2022](https://doi.org/10.3389/fpls.2022.788828) investigated the impact of red and blue light on the anthocyanin accumulation of cotton (_Gossypium hirsutum_). The R2R3-MYB transcription factor _GhPAP1D_ and the anthocyanin transporter _GhGSTF12_ were identified as up-regulated under these treatment conditions. GhHY5 might be an additional regulator that controlls the flavonoid biosynthesis through GhPAP1D.
 
 ### (71) Automatic annotation of the flavonoid biosynthesis ###
-> **_<a href="https://twitter.com/boas_pucker/status/1545286566238515200">TWEET</a>:_** Interested in the flavonoid biosynthesis of a new plant species? An automatic annotation of the flavonoid biosynthesis genes is enabled by this web server: http://pbb.bot.nat.tu-bs.de/KIPEs/ #FlavonoidFriday (details: https://lnk.tu-bs.de/8D2ahw & https://doi.org/10.1101/2022.06.30.498365)
+> **_<a href="https://twitter.com/boas_pucker/status/1545286566238515200">TWEET</a>:_** Interested in the flavonoid biosynthesis of a new plant species? An automatic annotation of the flavonoid biosynthesis genes is enabled by this web server: http://pbb.bot.nat.tu-bs.de/KIPEs/ #FlavonoidFriday (https://doi.org/10.1101/2022.06.30.498365)
 
 <a href="https://twitter.com/boas_pucker/status/1545286566238515200">
 <img alt="Automatic annotation of the flavonoid biosynthesis (Tweet #71)" src="https://pbs.twimg.com/media/FXHhzi1WYAEXd_6?format=jpg&name=large" width="50%" height="50%">
@@ -917,7 +917,7 @@ Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a 
 
 
 ### (72) Modification of anthocyanins in blueberry ###
-> **_<a href="https://twitter.com/PuckerLab/status/1573197975131561984">TWEET</a>:_** Do you like blueberries? Identification of genetic loci determining fruit quality trais in Vaccinium corymbosum: https://doi.org/10.3389/fpls.2022.964656 & https://lnk.tu-bs.de/q8WLDC #Genomics #Bioinformatics #FlavonoidFriday
+> **_<a href="https://twitter.com/PuckerLab/status/1573197975131561984">TWEET</a>:_** Do you like blueberries? Identification of genetic loci determining fruit quality trais in Vaccinium corymbosum: https://doi.org/10.3389/fpls.2022.964656 #Genomics #Bioinformatics #FlavonoidFriday
 
 <a href="https://twitter.com/PuckerLab/status/1573197975131561984">
 <img alt="Modification of anthocyanins in blueberry (Tweet #72)" src="https://pbs.twimg.com/media/Fc-iF0HX0AE59Z-?format=jpg&name=large" width="50%" height="50%">
@@ -928,7 +928,7 @@ Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a 
 
 
 ### (73) Two strawberry DFRs show substrate specificity differences ###
-> **_<a href="https://twitter.com/boas_pucker/status/1634086686287097856">TWEET</a>:_** Strawberry has two DFRs with specific substrate preferences: DFR1 accepts only dihydrokaempferol, while DFR2 accepts only dihydroquercetin and dihydromyricetin. Resulting anthocyanins are orange/red or red/pink, respectively. Details: https://lnk.tu-bs.de/6pKrdf #FlavonoidFriday
+> **_<a href="https://twitter.com/boas_pucker/status/1634086686287097856">TWEET</a>:_** Strawberry has two DFRs with specific substrate preferences: DFR1 accepts only dihydrokaempferol, while DFR2 accepts only dihydroquercetin and dihydromyricetin. Resulting anthocyanins are orange/red or red/pink, respectively #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1634086686287097856">
 <img alt="Two strawberry DFRs show substrate specificity differences (73)" src="https://pbs.twimg.com/media/Fq1JDvDWAAMublK?format=jpg&name=4096x4096" width="50%" height="50%">
@@ -938,7 +938,7 @@ Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a 
 
 
 ### (74) Chickpea seed pigmentation ###
-> **_<a href="https://twitter.com/boas_pucker/status/1636630950384750592">TWEET</a>:_** Tissue-specific silencing of the transcription factor CaTT8 or the transporter CaMATE1 in chickpea type desi prevents the formation and accumulation of anthocyanins and proanthocyanidins leading to lighter seed color #FlavonoidFriday details: https://lnk.tu-bs.de/xpzZDX.
+> **_<a href="https://twitter.com/boas_pucker/status/1636630950384750592">TWEET</a>:_** Tissue-specific silencing of the transcription factor CaTT8 or the transporter CaMATE1 in chickpea type desi prevents the formation and accumulation of anthocyanins and proanthocyanidins leading to lighter seed color #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1636630950384750592">
 <img alt="Chickpea seed pigmentation (74)" src="https://pbs.twimg.com/media/Fq7cdlMWAAAU4-5?format=jpg&name=medium" width="50%" height="50%">
@@ -948,7 +948,7 @@ Knowledge-based Identification of Pathway Enzymes v3 (KIPEs3) is available on a 
 
 
 ### (75) Flavonoid genetics in Vaccinium ###
-> **_<a href="https://twitter.com/boas_pucker/status/1659453840020713473">TWEET</a>:_** Comprehensive review about flavonoid genetics in Vaccinium crops including blueberry, cranberry, bilberry, and lingonberry #FlavonoidFriday (details: https://doi.org/10.1093/plphys/kiad250 & https://lnk.tu-bs.de/24sVPK)
+> **_<a href="https://twitter.com/boas_pucker/status/1659453840020713473">TWEET</a>:_** Comprehensive review about flavonoid genetics in Vaccinium crops including blueberry, cranberry, bilberry, and lingonberry #FlavonoidFriday (https://doi.org/10.1093/plphys/kiad250)
 
 <a href="https://twitter.com/boas_pucker/status/1659453840020713473">
 <img alt="Flavonoid genetics in Vaccinium (75)" src="https://pbs.twimg.com/media/FwW8EADXsAI9-UW?format=jpg&name=900x900" width="50%" height="50%">
@@ -958,7 +958,7 @@ The genus _Vaccinium_, which includes popular berry crops like blueberries, cran
 
 
 ### (76) Multiple bHLHs control flower pigmentation ###
-> **_<a href="https://twitter.com/boas_pucker/status/1679740007865630720">TWEET</a>:_** Floral pigmentation patterns revealed: Study on Antirrhinum majus mutants highlights the specific roles of multiple bHLH proteins and showcased fascinating interactions. #FlavonoidFriday (details: https://lnk.tu-bs.de/AoN2gp)
+> **_<a href="https://twitter.com/boas_pucker/status/1679740007865630720">TWEET</a>:_** Floral pigmentation patterns revealed: Study on Antirrhinum majus mutants highlights the specific roles of multiple bHLH proteins and showcased fascinating interactions. #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1679740007865630720">
 <img alt="Multiple bHLHs control flower pigmentation (76)" src="https://pbs.twimg.com/media/F0pVNVVXoAEgl91?format=jpg&name=medium" width="30%" height="30%">
