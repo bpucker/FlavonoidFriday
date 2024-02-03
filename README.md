@@ -463,7 +463,7 @@ Details about the research in the group and open positions can be found on the w
 
 ### (32) Bifunctional FLS in rapeseed ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1446362223387971586">TWEET</a>:_** A flavonol derivative is a major off-taste component in rapeseed protein isolates preventing use in human consumption. Read about bifunctional FLS in B. napus seeds:https://bit.ly/3ieXWTO #FlavonoidFriday
+> **_<a href="https://twitter.com/boas_pucker/status/1446362223387971586">TWEET</a>:_** A flavonol derivative is a major off-taste component in rapeseed protein isolates preventing use in human consumption. Read about bifunctional FLS in B. napus seeds: [paper](https://doi.org/10.1101/2021.06.30.450533) #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1446362223387971586">
 <img alt="Bifunctional FLS in rapeseed (Tweet #32)" src="https://pbs.twimg.com/media/FAZXihWVQAUhCDS?format=jpg&name=4096x4096" width="50%" height="50%">
