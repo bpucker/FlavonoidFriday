@@ -630,7 +630,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (46) Tomato fruit colours ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1481947954718126081">TWEET</a>:_** Engineered anthocyanin biosynthesis allows modulation of tomato fruit colours ranging from 'Crimson' over 'Magenta' to 'Indigo' #FlavonoidFriday (details: https://lnk.tu-bs.de/Ro3vE7)
+> **_<a href="https://twitter.com/boas_pucker/status/1481947954718126081">TWEET</a>:_** Engineered anthocyanin biosynthesis allows modulation of tomato fruit colours ranging from 'Crimson' over 'Magenta' to 'Indigo' #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1481947954718126081">
 <img alt="Tomato fruit colours (Tweet #46)" src="https://pbs.twimg.com/media/FJDmK64XsAU4u3J?format=jpg&name=large" width="50%" height="50%">
@@ -642,7 +642,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (47) Anthocyanins in carrots ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1484484669533949956">TWEET</a>:_** Carrots are usually orange due to carotenoids, but high levels of anthocyanins can result in purple or black coloration of carrots #FlavonoidFriday (details: https://lnk.tu-bs.de/DRJ9M5)
+> **_<a href="https://twitter.com/boas_pucker/status/1484484669533949956">TWEET</a>:_** Carrots are usually orange due to carotenoids, but high levels of anthocyanins can result in purple or black coloration of carrots #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1484484669533949956">
 <img alt="Anthocyanins in carrots (Tweet #47)" src="https://pbs.twimg.com/media/FJXUXnOX0AUpWd1?format=jpg&name=4096x4096" width="50%" height="50%">
@@ -654,7 +654,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (48) Anthocyanin color change ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1486957214522818561">TWEET</a>:_** Increase in the vacuolar pH of Ipomoea tricolor results in a color change from purplish red to blue. NHX1 imports Na+ into the vacuole in exchange for H+ #FlavonoidFriday (details: https://lnk.tu-bs.de/W5DyNC)
+> **_<a href="https://twitter.com/boas_pucker/status/1486957214522818561">TWEET</a>:_** Increase in the vacuolar pH of Ipomoea tricolor results in a color change from purplish red to blue. NHX1 imports Na+ into the vacuole in exchange for H+ #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1486957214522818561">
 <img alt="Anthocyanin color change (Tweet #48)" src="https://pbs.twimg.com/media/FKF-MCWWUAM1LcJ?format=jpg&name=4096x4096" width="50%" height="50%">
@@ -666,7 +666,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (49) Glycosylation and acylation of anthocyanins ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1489524135369662468">TWEET</a>:_** Modification of anthocyanins is based on glycosylation and acylation catalyzed by enzymes of different families. Some are located in the cytoplasm and some in the vacuole #FlavonoidFriday (details: https://lnk.tu-bs.de/ZYq1PT)
+> **_<a href="https://twitter.com/boas_pucker/status/1489524135369662468">TWEET</a>:_** Modification of anthocyanins is based on glycosylation and acylation catalyzed by enzymes of different families. Some are located in the cytoplasm and some in the vacuole #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1489524135369662468">
 <img alt="Glycosylation and acylation of anthocyanins (Tweet #49)" src="https://pbs.twimg.com/media/FKvT45UWYAESJUf?format=jpg&name=large" width="50%" height="50%">
@@ -678,7 +678,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (50) Flavonoid metabolons ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1492038193406828545">TWEET</a>:_** Flavonoid biosynthesis enzymes cluster in metabolons around the membrane-bound cytochrome P450s. Metabolons result in efficient substrate channeling #FlavonoidFriday (details: https://lnk.tu-bs.de/gMfc5N)
+> **_<a href="https://twitter.com/boas_pucker/status/1492038193406828545">TWEET</a>:_** Flavonoid biosynthesis enzymes cluster in metabolons around the membrane-bound cytochrome P450s. Metabolons result in efficient substrate channeling #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1492038193406828545">
 <img alt="Flavonoid metabolons (Tweet #50)" src="https://pbs.twimg.com/media/FLGCkdaXIAkb4vm?format=jpg&name=4096x4096" width="50%" height="50%">
@@ -689,7 +689,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (51) F3H evolved from FNS I ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1494582460327288835">TWEET</a>:_** F3H of seed plants most likely evolved from FNS I. While FNS I is still widely distributed across liverworts, it was lost in most seed plant lineages #FlavonoidFriday (details: https://lnk.tu-bs.de/MjK024)
+> **_<a href="https://twitter.com/boas_pucker/status/1494582460327288835">TWEET</a>:_** F3H of seed plants most likely evolved from FNS I. While FNS I is still widely distributed across liverworts, it was lost in most seed plant lineages #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1494582460327288835">
 <img alt="F3H evolved from FNS I (Tweet #51)" src="https://pbs.twimg.com/media/FLvvgwKXEAY_4LX?format=jpg&name=large" width="50%" height="50%">
@@ -700,7 +700,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (52) OvPAP2 activates anthocyanin biosynthesis ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1497104076563267614">TWEET</a>:_** Ectopic expression of _Orychophragmus violaceus_ _PAP2_ in rapeseed shifts the flower color from yellow to red(ish) #FlavonoidFriday (details: https://lnk.tu-bs.de/O8hQeG)
+> **_<a href="https://twitter.com/boas_pucker/status/1497104076563267614">TWEET</a>:_** Ectopic expression of _Orychophragmus violaceus_ _PAP2_ in rapeseed shifts the flower color from yellow to red(ish) #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1497104076563267614">
 <img alt="OvPAP2 activates anthocyanin biosynthesis (Tweet #52)" src="https://pbs.twimg.com/media/FMYr0cHWUAgJKTq?format=jpg&name=4096x4096" width="50%" height="50%">
@@ -712,7 +712,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (53) Apiaceae FNS evolution ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1499648338106494976">TWEET</a>:_** Apiaceae harbour an individual FNS I lineage. This FNS I evolved through tandem gene duplication from F3H #FlavonoidFriday (details: https://lnk.tu-bs.de/Quopfb & https://doi.org/10.1101/2022.02.16.480750)
+> **_<a href="https://twitter.com/boas_pucker/status/1499648338106494976">TWEET</a>:_** Apiaceae harbour an individual FNS I lineage. This FNS I evolved through tandem gene duplication from F3H #FlavonoidFriday (https://doi.org/10.1101/2022.02.16.480750)
 
 <a href="https://twitter.com/boas_pucker/status/1499648338106494976">
 <img alt="Apiaceae FNS evolution (Tweet #53)" src="https://pbs.twimg.com/media/FM848TbWUAAbezd?format=jpg&name=medium" width="50%" height="50%">
@@ -724,7 +724,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (54) Hyperacidification of vacuoles leads to colour change ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1502185053740101632">TWEET</a>:_** Petunia P-ATPases PH1 and PH5 cause hyperacidification of vacuoles. Vacuolar pH determines the colour of anthocyanins. Low vacuolar pH in petunia results in a blue colouration #FlavonoidFriday (details: https://lnk.tu-bs.de/kSd68J)
+> **_<a href="https://twitter.com/boas_pucker/status/1502185053740101632">TWEET</a>:_** Petunia P-ATPases PH1 and PH5 cause hyperacidification of vacuoles. Vacuolar pH determines the colour of anthocyanins. Low vacuolar pH in petunia results in a blue colouration #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1502185053740101632">
 <img alt="Hyperacidification of vacuoles leads to colour change (Tweet #54)" src="https://pbs.twimg.com/media/FNjHV8GVgAo5INS?format=jpg&name=large" width="50%" height="50%">
@@ -735,7 +735,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (55) Connecting core and specialized metabolism ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1504721767599857686">TWEET</a>:_** The activation of the flavonoid biosynthesis (especially anthocyanin biosynthesis) in response to high light is regulated by triosephosphate export from the chloroplasts #FlavonoidFriday (details: https://lnk.tu-bs.de/4tPfoz)
+> **_<a href="https://twitter.com/boas_pucker/status/1504721767599857686">TWEET</a>:_** The activation of the flavonoid biosynthesis (especially anthocyanin biosynthesis) in response to high light is regulated by triosephosphate export from the chloroplasts #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1504721767599857686">
 <img alt="Connecting core and specialized metabolism (Tweet #55)" src="https://pbs.twimg.com/media/FOC3yCEWQAcmv9b?format=jpg&name=4096x4096" width="50%" height="50%">
@@ -746,7 +746,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (56) Up-regulation of _MdACO1_ promotes anthocyanin formation in apple ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1507258483141271553">TWEET</a>:_** High light promotes ethylene production in apple fruits through activation of MdACO1 by the long non-coding RNA MdLNC610. This activation of the ethylene biosynthesis leads to an increased anthocyanin formation #FlavonoidFriday (details: https://lnk.tu-bs.de/bnx7D3)
+> **_<a href="https://twitter.com/boas_pucker/status/1507258483141271553">TWEET</a>:_** High light promotes ethylene production in apple fruits through activation of MdACO1 by the long non-coding RNA MdLNC610. This activation of the ethylene biosynthesis leads to an increased anthocyanin formation #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1507258483141271553">
 <img alt="Up-regulation of _MdACO1_ promotes anthocyanin formation in apple (Tweet #56)" src="https://pbs.twimg.com/media/FOq4amaXsCQ9Rr2?format=jpg&name=medium" width="50%" height="50%">
@@ -757,7 +757,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 ### (57) Anthocyanic Vacuolar Inclusions ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1509780100492914690">TWEET</a>:_** Anthocyanic vacuolar inclusions (AVIs) are clusters of anthocyanins in the vacuole. Aromatic acylation of cyanidin 3-O-glucoside can be used to induce the formation of AVIs. pH can influence the AVI formation #FlavonoidFriday (details: https://lnk.tu-bs.de/jPGkYS)
+> **_<a href="https://twitter.com/boas_pucker/status/1509780100492914690">TWEET</a>:_** Anthocyanic vacuolar inclusions (AVIs) are clusters of anthocyanins in the vacuole. Aromatic acylation of cyanidin 3-O-glucoside can be used to induce the formation of AVIs. pH can influence the AVI formation #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1509780100492914690">
 <img alt="Anthocyanic Vacuolar Inclusions (Tweet #57)" src="https://pbs.twimg.com/media/FPPDE19XsCwaapJ?format=jpg&name=large" width="50%" height="50%">
@@ -769,7 +769,7 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 
 ### (58) Peach flower color ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1512316813077463044">TWEET</a>:_** Pigmentation differences between white, pink, and red peach flowers are due to an InDel in the anthocyanin transporter gene Riant #FlavonoidFriday (details: https://lnk.tu-bs.de/mHvYBn)
+> **_<a href="https://twitter.com/boas_pucker/status/1512316813077463044">TWEET</a>:_** Pigmentation differences between white, pink, and red peach flowers are due to an InDel in the anthocyanin transporter gene Riant #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1512316813077463044">
 <img alt="Peach flower color (Tweet #58)" src="https://pbs.twimg.com/media/FPzFQG8X0AQdWB7?format=jpg&name=large" width="50%" height="50%">
@@ -780,7 +780,7 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 
 ### (59) Anthocyanin inclusions ###
 
-> **_<a href="https://twitter.com/boas_pucker/status/1514853528942039042">TWEET</a>:_** Light can induce the darkening of anthocyanin pigmentation in maize through spread of anthocyanins from vacuolar inclusions into the vacuolar sap #FlavonoidFriday (details: )
+> **_<a href="https://twitter.com/boas_pucker/status/1514853528942039042">TWEET</a>:_** Light can induce the darkening of anthocyanin pigmentation in maize through spread of anthocyanins from vacuolar inclusions into the vacuolar sap #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1514853528942039042">
 <img alt="Anthocyanin inclusions (Tweet #59)" src="https://pbs.twimg.com/media/FQReHE_WUAICrCM?format=jpg&name=large" width="50%" height="50%">
@@ -791,7 +791,7 @@ Decoration of anthocyanins with aromatic acyl groups is one way to achieve blue 
 
 ### (60) Prenyltransferase in _Lupinus albus_ ###
 
-> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Lupinus albus prenyltransferase LaPT2 modifies flavonol aglycons while LaPT1 acts upon isoflavonoids. Flavonols with a low degree of hydroxylation (kaempferol) are preferred substrates of LaPT2 #FlavonoidFriday (details: https://lnk.tu-bs.de/nWGc1D)
+> **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** Lupinus albus prenyltransferase LaPT2 modifies flavonol aglycons while LaPT1 acts upon isoflavonoids. Flavonols with a low degree of hydroxylation (kaempferol) are preferred substrates of LaPT2 #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1517390242378133506">
 <img alt="Prenyltransferase in _Lupinus albus_ (Tweet #60)" src="https://pbs.twimg.com/media/FQ7MU7pWUAEPeh2?format=jpg&name=4096x4096" width="50%" height="50%">
