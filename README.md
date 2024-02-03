@@ -968,7 +968,7 @@ The genus _Vaccinium_, which includes popular berry crops like blueberries, cran
 
 
 ### (77) Evolution of red pigmentation ###
-> **_<a href="https://twitter.com/boas_pucker/status/1682276723583492096">TWEET</a>:_** Discovering the colorful secrets of plants: Red pigmentation in land plants and terrestrial algae is often a response to stress. Flavonoids, betalains, and carotenoids play key roles. #FlavonoidFriday (detail: https://lnk.tu-bs.de/zH6Y0J)
+> **_<a href="https://twitter.com/boas_pucker/status/1682276723583492096">TWEET</a>:_** Discovering the colorful secrets of plants: Red pigmentation in land plants and terrestrial algae is often a response to stress. Flavonoids, betalains, and carotenoids play key roles. #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1682276723583492096">
 <img alt="Evolution of red pigmentation (77)" src="https://pbs.twimg.com/media/F0pVliDWIAMgtMz?format=jpg&name=large" width="30%" height="30%">
@@ -978,8 +978,7 @@ The paper by [Davies et al., 2022](https://doi.org/10.1093/aob/mcac109) discusse
 
 
 ### (78) Roles of ANS and LDOX in PA biosynthesis ###
-> **_<a href="https://twitter.com/boas_pucker/status/1684813436243304448">TWEET</a>:_** Medicago produces proanthocyanidins (PAs) through ANS & LDOX enzymes operating in parallel pathways to generate different starter and extension units for PAs. Understanding these mechanisms enables engineering of PA composition. #FlavonoidFriday (details: https://lnk.tu-bs.de/DAFy9J)
-
+> **_<a href="https://twitter.com/boas_pucker/status/1684813436243304448">TWEET</a>:_** Medicago produces proanthocyanidins (PAs) through ANS & LDOX enzymes operating in parallel pathways to generate different starter and extension units for PAs. Understanding these mechanisms enables engineering of PA composition. #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1684813436243304448">
 <img alt="Roles of ANS and LDOX in PA biosynthesis (78)" src="https://pbs.twimg.com/media/F0pWyxNXgAEYImk?format=jpg&name=large" width="30%" height="30%">
@@ -990,7 +989,7 @@ This paper by [Jun et al., 2018](https://doi.org/10.1038/s41477-018-0292-9) inve
 
 
 ### (79) Flavonols in the glasshouse plant _Rheum nobile_ ###
-> **_<a href="https://twitter.com/boas_pucker/status/1687350152544301056">TWEET</a>:_** Quercetin-derived flavonols support UV protection in the incredible alpine plant, Rheum nobile, with its built-in glasshouse #FlavonoidFriday (details: https://lnk.tu-bs.de/HA1C9u & https://doi.org/10.1038/s42003-023-05044-1)
+> **_<a href="https://twitter.com/boas_pucker/status/1687350152544301056">TWEET</a>:_** Quercetin-derived flavonols support UV protection in the incredible alpine plant, Rheum nobile, with its built-in glasshouse #FlavonoidFriday (https://doi.org/10.1038/s42003-023-05044-1)
 
 <a href="https://twitter.com/boas_pucker/status/1687350152544301056">
 <img alt="Flavonols in the glasshouse plant _Rheum nobile_ (79)" src="https://pbs.twimg.com/media/F1fIorHakAA5jq4?format=jpg&name=large" width="30%" height="30%">
@@ -1000,7 +999,7 @@ _Rheum nobile_ is an alpine plant that brings its own glasshouse. A recent publi
 
 
 ### (80) Pink strawberries ###
-> **_<a href="https://twitter.com/boas_pucker/status/1694960298464309694">TWEET</a>:_** R130H substitution in strawberry F3H causes a pigmentation shift from red to pink. Anthocyanin accumulation in fruits and petioles appeared independent #FlavonoidFriday (details: https://lnk.tu-bs.de/LN1A26)
+> **_<a href="https://twitter.com/boas_pucker/status/1694960298464309694">TWEET</a>:_** R130H substitution in strawberry F3H causes a pigmentation shift from red to pink. Anthocyanin accumulation in fruits and petioles appeared independent #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1694960298464309694">
 <img alt="Pink strawberries (80)" src="https://pbs.twimg.com/media/F4MP8aFXkAABujs?format=jpg&name=medium" width="30%" height="30%">
@@ -1010,7 +1009,7 @@ A mutation resulting in the replacement of R130 by histidine in strawberry _F3H_
 
 
 ### (81) Vaccinium as model system to explore flavonoid biosynthesis ###
-> **_<a href="https://twitter.com/boas_pucker/status/1715254018417762586">TWEET</a>:_** Vaccinium is well known for blue anthocyanins and also serves as a model system to understand the regulation of the complex flavonoid biosynthesis in fruits #FlavonoidFriday (details: https://lnk.tu-bs.de/G7NgHD)
+> **_<a href="https://twitter.com/boas_pucker/status/1715254018417762586">TWEET</a>:_** Vaccinium is well known for blue anthocyanins and also serves as a model system to understand the regulation of the complex flavonoid biosynthesis in fruits #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1715254018417762586">
 <img alt="Vaccinium as model system to explore flavonoid biosynthesis (81)" src="https://pbs.twimg.com/media/F8xxut1XEAA6TJm?format=jpg&name=4096x4096" width="50%" height="50%">
@@ -1020,7 +1019,7 @@ A recent review by [Albert et al., 2023](https://doi.org/10.1093/plphys/kiad250)
 
 
 ### (82) Genetic factors blocking anthocyanin biosynthesis ###
-> **_<a href="https://twitter.com/boas_pucker/status/1717790732784734385">TWEET</a>:_** Lack of anthocyanins in plants is often caused by transcriptional changes. Mutations associated with MYBs and bHLHs are the most frequent explanations #FlavonoidFriday (details: https://lnk.tu-bs.de/wHbUQk)
+> **_<a href="https://twitter.com/boas_pucker/status/1717790732784734385">TWEET</a>:_** Lack of anthocyanins in plants is often caused by transcriptional changes. Mutations associated with MYBs and bHLHs are the most frequent explanations #FlavonoidFriday
 
 <a href="https://twitter.com/boas_pucker/status/1717790732784734385">
 <img alt="Genetic factors blocking anthocyanin biosynthesis (82)" src="https://pbs.twimg.com/media/F8xyBxFW4AAaXM6?format=jpg&name=4096x4096" width="50%" height="50%">
@@ -1029,7 +1028,7 @@ A recent review by [Albert et al., 2023](https://doi.org/10.1093/plphys/kiad250)
 Genetic factors explaining anthocyanin pigmentation differences within plant species was explored by [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820). Mutations associated with transcription factors were identified as the most frequent reasons for the lack of anthocyanins. Anthocyanin biosynthesis activating MYBs are by far the most important transcription factor group. Anthocyanin biosynthesis activating bHLHs are the second most important group. Mutations in structural genes are rarely the responsible factor. _DFR_ stands out as the most frequently mutated structural gene in plants lacking anthocyanins.
 
 ### (83) Flavonol influence on glucosinolate biosynthesis ###
-> **_<a href="https://twitter.com/boas_pucker/status/1720342547837698148">TWEET</a>:_** Flavonols can repress camalexin biosynthesis while up-regulating aliphatic glucosinolate biosynthesis #FlavonoidFriday (details: https://lnk.tu-bs.de/B0aveJ & https://doi.org/10.1093/jxb/erad391)
+> **_<a href="https://twitter.com/boas_pucker/status/1720342547837698148">TWEET</a>:_** Flavonols can repress camalexin biosynthesis while up-regulating aliphatic glucosinolate biosynthesis #FlavonoidFriday (https://doi.org/10.1093/jxb/erad391)
 
 <a href="https://doi.org/10.1101/2023.06.05.543820">
 <img alt="Flavonol influence on glucosinolate biosynthesis (83)" src="https://pbs.twimg.com/media/F9Svi0sWQAAIeW_?format=jpg&name=large" width="30%" height="30%">
@@ -1038,7 +1037,7 @@ Genetic factors explaining anthocyanin pigmentation differences within plant spe
 A flavonol feeding study by [Naik et al., 2023](https://doi.org/10.1093/jxb/erad391) revealed regulatory effects: flavonols negatively regulate camalexin biosynthesis, but promote aliphatic glucosinolate biosynthesis. The three different flavonols kaempferol, quercetin, and rutin were fed to a flavonol synthase (_fls_) mutant. Gene expression in these plants was compared to an untreated plant. Interestingly, the camalexin biosynthesis is negatively regulated, while the aliphatic glucosinolate biosynthesis is up-regulated. Quercetin treatment caused a stronger response than the kaempferol or rutin treatment.
 
 ### (84) Mechanisms explaining the lack of anthocyanins in betalain-pigmented Caryophyllales ###
-> **_<a href="https://twitter.com/boas_pucker/status/1722879261659615463">TWEET</a>:_** Lack of anthocyanins in betalain-pigmented Caryophyllales is explained by loss of AN9/TT19 and low transcription of DFR and LDOX/ANS (details: https://lnk.tu-bs.de/8c3pfA & https://doi.org/10.1111/nph.19341) #FlavonoidFriday
+> **_<a href="https://twitter.com/boas_pucker/status/1722879261659615463">TWEET</a>:_** Lack of anthocyanins in betalain-pigmented Caryophyllales is explained by loss of AN9/TT19 and low transcription of DFR and LDOX/ANS (https://doi.org/10.1111/nph.19341) #FlavonoidFriday
 
 <a href="https://doi.org/10.1111/nph.19341">
 <img alt="Mechanisms explaining the lack of anthocyanins in betalain-pigmented Caryophyllales (84)" src="https://pbs.twimg.com/media/F9nbpFyXEAAHzTP?format=jpg&name=4096x4096" width="50%" height="50%">
@@ -1048,7 +1047,7 @@ A comprehensive data analysis revealed several mechanisms that explain the lack 
 
 
 ### (85) Mitigating substrate competition of FLS and DFR ###
-> **_<a href="https://twitter.com/boas_pucker/status/1727952692121850220">TWEET</a>:_** Competition for dihydroflavonol between flavonol synthase (FLS) and dihydroflavonol 4-reductase (DFR) could be mitigated by nuances in substrate preferences #FlavonoidFriday (details: https://lnk.tu-bs.de/UhxysH & https://doi.org/10.1101/2023.11.05.565693)
+> **_<a href="https://twitter.com/boas_pucker/status/1727952692121850220">TWEET</a>:_** Competition for dihydroflavonol between flavonol synthase (FLS) and dihydroflavonol 4-reductase (DFR) could be mitigated by nuances in substrate preferences #FlavonoidFriday (https://doi.org/10.1101/2023.11.05.565693)
 
 <a href="https://doi.org/10.1101/2023.11.05.565693">
 <img alt="Mitigating substrate competition of FLS and DFR (85)" src="https://www.biorxiv.org/content/biorxiv/early/2023/11/09/2023.11.05.565693/F2.large.jpg?width=800&height=600&carousel=1" width="50%" height="50%">
