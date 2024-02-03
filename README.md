@@ -30,7 +30,7 @@ While the flavonoid biosynthesis is present in (almost) all land plants, certain
 
 
 ### Automatic annotation of the flavonoid biosynthesis ###
-Do you have a new transcriptome and genome assembly of a plant species? If you are interested in studying the flavonoid biosynthesis, [KIPEs](https://github.com/bpucker/KIPEs) [(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm) could be helpful. KIPEs produces an annotation of the flavonoid biosynthesis players based on knowledge about the flavonoid biosynthesis in other species (Fig. 3). A table of the involved genes and phylogenetic trees of all players in the pathways can serve as basis to investigate the flavonoid biosynthesis in a new species. KIPEs is freely available for download via github. Additionally, we operate a web server for convenient use: [KIPEs web server](http://pbb.bot.nat.tu-bs.de/KIPEs/).
+Do you have a new transcriptome and genome assembly of a plant species? If you are interested in studying the flavonoid biosynthesis, [KIPEs](https://github.com/bpucker/KIPEs) [(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm) could be helpful. KIPEs produces an annotation of the flavonoid biosynthesis players based on knowledge about the flavonoid biosynthesis in other species (Fig. 3). A table of the involved genes and phylogenetic trees of all players in the pathways can serve as basis to investigate the flavonoid biosynthesis in a new species. KIPEs is freely available for download via github. Additionally, we operate a web server for convenient use: [KIPEs web server](https://pbb-tools.de/KIPEs/).
 
 <a href="https://www.mdpi.com/2223-7747/9/9/1103/htm">
 <img alt="KIPEs workflow" src="https://www.mdpi.com/plants/plants-09-01103/article_deploy/html/images/plants-09-01103-g002.png" width="50%" height="50%">
@@ -42,7 +42,7 @@ Fig. 3: KIPEs workflow. (source: [Pucker et al., 2020](https://www.mdpi.com/2223
 ### Excellent reviews about the flavonoid biosynthesis ###
 There are several excellent resources to get an overview of the flavonoid biosynthesis. This is an incomplete list:
 
-Winkel-Shirley, 2001: Flavonoid Biosynthesis. A Colorful Model for Genetics, Biochemistry, Cell Biology, and Biotechnology. doi:[10.1104/pp.126.2.485](http://www.plantphysiol.org/content/126/2/485)
+Winkel-Shirley, 2001: Flavonoid Biosynthesis. A Colorful Model for Genetics, Biochemistry, Cell Biology, and Biotechnology. doi:[10.1104/pp.126.2.485](https://doi.org/10.1104/pp.126.2.485)
 
 Grotewold, 2006: The Science of Flavonoids. [Book published by Springer](https://www.springer.com/de/book/9780387288215)
 
