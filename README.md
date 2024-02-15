@@ -1052,7 +1052,7 @@ A systematic investigation of flavonol synthase (FLS) and dihydroflavonol 4-redu
 
 
 ### (86) Anthocyanin losses across plantae ###
-> **_<a href="">TWEET</a>:_** Mutations associated with the loss of anthocyanin pigmentation are often affecting transcriptional regulation #FlavonoidFriday https://doi.org/10.1101/2023.06.05.543820 & XXXXXX
+> **_<a href="">TWEET</a>:_** Mutations associated with the loss of anthocyanin pigmentation are often affecting the transcriptional regulation #FlavonoidFriday (details: https://doi.org/10.1101/2023.06.05.543820 & https://bit.ly/3HZjT5K)
 
 
 Loss of anthocyanins have been described in a wide range of different plant species. A recent publication by [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820) revealed that many different plant lineages show the same pattern: transcription factor mutations are most often associated with the loss of anthocyanins. There is only a very small number of cases in which structural genes are responsible for the anthocyanin loss.
