@@ -1051,6 +1051,12 @@ A comprehensive data analysis revealed several mechanisms that explain the lack 
 A systematic investigation of flavonol synthase (FLS) and dihydroflavonol 4-reductase (DFR) suggested nuances in substrate preferences as a potential mechanism for mitigation of substrate competition ((Choudhary&Pucker,2023)[https://doi.org/10.1101/2023.11.05.565693]). Differences in the expression of the corresponding genes is an additional mechanism that could mitigate the substrate competition. Specific amino acid residues in FLS and DFR influence their preferences for dihydroflavonols with a particular hydroxylation pattern. FLS and DFR appear to have different preferred substrates in many plant species i.e. one preferring dihydrokaempferol and the other one preferring dihydroquercetin. This systematic analysis also revealed some deep gene duplications which resulted in clades with yet unknown functions.
 
 
+### (86) Anthocyanin losses across plantae ###
+> **_<a href="">TWEET</a>:_** Mutations associated with the loss of anthocyanin pigmentation are often affecting transcriptional regulation #FlavonoidFriday https://doi.org/10.1101/2023.06.05.543820 & XXXXXX
+
+
+Loss of anthocyanins have been described in a wide range of different plant species. A recent publication by [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820) revealed that many different plant lineages show the same pattern: transcription factor mutations are most often associated with the loss of anthocyanins. There is only a very small number of cases in which structural genes are responsible for the anthocyanin loss.
+
 
 
 
