@@ -1070,7 +1070,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 
 
 ### (88) Pigmentation loss in _Digitalis purpurea_ flowers ###
-> **_<a href="">TWEET</a>:_** Large insertion in the anthocyanidin synthase (ANS) gene is associated with flower pigmentation loss in Digitalis pupurea (foxglove) #FlavonoidFriday (details: https://doi.org/10.1101/2024.02.14.580303 & https://lnk.tu-bs.de/Zg4DBu)
+> **_<a href="">TWEET</a>:_** Large insertion in the anthocyanidin synthase (ANS) gene is associated with flower pigmentation loss in Digitalis purpurea (foxglove) #FlavonoidFriday (details: https://doi.org/10.1101/2024.02.14.580303 & https://lnk.tu-bs.de/Zg4DBu)
 
 <a href="https://doi.org/10.1101/2024.02.14.580303">
 <img alt="Pigmentation loss in _Digitalis purpurea_ flowers (88)" src="https://www.tu-braunschweig.de/fileadmin/_processed_/3/0/csm_Digitalis_purpurea_red_vs_white_3e2235c83e.png" width="50%" height="50%">
