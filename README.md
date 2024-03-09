@@ -1069,6 +1069,15 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 [Zhou et al., 2015](https://doi.org/10.1111/tpj.12792) investigated the transcriptional regulation of the anthocyanin formation responsible for the blood-flesh trait of peach (_Prunus persica_). A mapping study revealed a 200-kb interval harbouring the causal gene of the blood-flesh trait. The NAC transcription factor gene _BLOOD_ (_BL_) is located in this interval. BL forms a heterodimer with PpNAC1 to activate the expression of _PpMYB10.1_ which triggers the anthocyanin biosynthesis genes ultimately resulting in coloration of the fruit. The presence of an additional bHLH partner seems to be required for the transcriptional activaton.
 
 
+### (88) Pigmentation loss in _Digitalis purpurea_ flowers ###
+> **_<a href="">TWEET</a>:_** Large insertion in the anthocyanidin synthase (ANS) gene is associated with flower pigmentation loss in Digitalis pupurea (foxglove) #FlavonoidFriday (details: https://doi.org/10.1101/2024.02.14.580303 & XXX)
+
+<a href="https://doi.org/10.1101/2024.02.14.580303">
+<img alt="Pigmentation loss in _Digitalis purpurea_ flowers (88)" src="https://www.tu-braunschweig.de/fileadmin/_processed_/3/0/csm_Digitalis_purpurea_red_vs_white_3e2235c83e.png" width="50%" height="50%">
+</a>
+
+[Wolff et al., 2024](https://doi.org/10.1101/2024.02.14.580303) describes the genome sequence and corresponding annotation of _Digitalis purpurea_ (common foxglove). The comparison of red and white flowering plants based on long read sequencing of their genomes. A large insertion in the anthocyanidin synthase (_ANS_) gene is associated with the white flower color. Loss-of-function mutations in _ANS_ have been reported before in the context of anthocyanin loss.
+
 
 
 ### FlavonoidFriday posts will become less frequent ###
