@@ -1062,6 +1062,13 @@ A systematic investigation of flavonol synthase (FLS) and dihydroflavonol 4-redu
 Loss of anthocyanins have been described in a wide range of different plant species. A recent publication by [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820) revealed that many different plant lineages show the same pattern: transcription factor mutations are most often associated with the loss of anthocyanins. There is only a very small number of cases in which structural genes are responsible for the anthocyanin loss.
 
 
+### (87) Red pigmentation of peach flesh ###
+> **_<a href="">TWEET</a>:_** The NAC transcription factors BLOOD and PpNAC1 form a dimer to activate PpMYB10.1 resulting in anthocyanin pigmentation in peach #FlavonoidFriday (details: xxx)
+
+
+[Zhou et al., 2015](https://doi.org/10.1111/tpj.12792) investigated the transcriptional regulation of the anthocyanin formation responsible for the blood-flesh trait of peach (_Prunus persica_). A mapping study revealed a 200-kb interval harbouring the causal gene of the blood-flesh trait. The NAC transcription factor BLOOD (BL) is located in this interval. BL forms a heterodimer with PpNAC1 to activate the expression of _PpMYB10.1_ which triggers the anthocyanin biosynthesis genes ultimately resulting in coloration of the fruit. The presence of an additional bHLH partner seems to be required for the transcriptional activaton.
+
+
 
 
 ### FlavonoidFriday posts will become less frequent ###
