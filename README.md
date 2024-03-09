@@ -36,7 +36,7 @@ Do you have a new transcriptome and genome assembly of a plant species? If you a
 <img alt="KIPEs3 workflow" src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0294342.g001" width="50%" height="50%">
 </a>  
 
-Fig. 3: KIPEs workflow. (source: [Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm))
+Fig. 3: KIPEs workflow. (source: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342))
 
 ### Anthocyanin loss - a frequent event during evolution ###
 Accessions of many plant species lack anthocyanin pigmentation. This is often visible when flowers of individual plants appear white instead of red or blue. These evolutionary color changes are not randomly affecting genes in the anthocyanin biosynthesis, but are mostly affecting transcription factors. The most frequently affected transcription factor in the anthocyanin activating R2R3-MYB. Read more about this topic in a systematic assessment of available studies: [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820).
