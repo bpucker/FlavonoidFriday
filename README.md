@@ -30,10 +30,10 @@ While the flavonoid biosynthesis is present in (almost) all land plants, certain
 
 
 ### Automatic annotation of the flavonoid biosynthesis ###
-Do you have a new transcriptome and genome assembly of a plant species? If you are interested in studying the flavonoid biosynthesis, [KIPEs](https://github.com/bpucker/KIPEs) [(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm) could be helpful. KIPEs produces an annotation of the flavonoid biosynthesis players based on knowledge about the flavonoid biosynthesis in other species (Fig. 3). A table of the involved genes and phylogenetic trees of all players in the pathways can serve as basis to investigate the flavonoid biosynthesis in a new species. KIPEs is freely available for download via github. Additionally, we operate a web server for convenient use: [KIPEs web server](https://pbb-tools.de/KIPEs/).
+Do you have a new transcriptome and genome assembly of a plant species? If you are interested in studying the flavonoid biosynthesis, [KIPEs](https://github.com/bpucker/KIPEs) [(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm) could be helpful. KIPEs produces an annotation of the flavonoid biosynthesis players based on knowledge about the flavonoid biosynthesis in other species (Fig. 3). A table of the involved genes and phylogenetic trees of all players in the pathways can serve as basis to investigate the flavonoid biosynthesis in a new species. KIPEs is freely available for download via github. Additionally, we operate a web server for convenient use: [KIPEs web server](https://pbb-tools.de/KIPEs/). The latest version also enables the annotation of the carotenoid biosynthesis: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342).
 
-<a href="https://www.mdpi.com/2223-7747/9/9/1103/htm">
-<img alt="KIPEs workflow" src="https://www.mdpi.com/plants/plants-09-01103/article_deploy/html/images/plants-09-01103-g002.png" width="50%" height="50%">
+<a href="https://doi.org/10.1371/journal.pone.0294342">
+<img alt="KIPEs3 workflow" src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0294342.g001" width="50%" height="50%">
 </a>  
 
 Fig. 3: KIPEs workflow. (source: [Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm))
@@ -42,7 +42,7 @@ Fig. 3: KIPEs workflow. (source: [Pucker et al., 2020](https://www.mdpi.com/2223
 Accessions of many plant species lack anthocyanin pigmentation. This is often visible when flowers of individual plants appear white instead of red or blue. These evolutionary color changes are not randomly affecting genes in the anthocyanin biosynthesis, but are mostly affecting transcription factors. The most frequently affected transcription factor in the anthocyanin activating R2R3-MYB. Read more about this topic in a systematic assessment of available studies: [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820).
 
 <a href="https://doi.org/10.1101/2023.06.05.543820">
-<img alt="Phylogenetic distribution of anthocyanin loss events" src="" width="50%" height="50%">
+<img alt="Phylogenetic distribution of anthocyanin loss events" src="https://www.biorxiv.org/content/biorxiv/early/2023/11/10/2023.06.05.543820/F3.large.jpg?width=800&height=600&carousel=1" width="50%" height="50%">
 </a>  
 
 Fig. 4: Phylogenetic distribution of anthocyanin loss events.
