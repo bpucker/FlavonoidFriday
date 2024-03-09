@@ -26,7 +26,7 @@ Fig. 2: Simplified overview of the intracellular flavonoid transport. (source: [
 The sophisticated regulatory network of the flavonoid biosnythesis contains members of numerous transcription factor families. Among the important families are MYBs, bHLHs, WD40s, NACs, and WRKYs. Some MYBs, bHLHs, and WD40s form a complex which is called MBW. More information about the MYBs is available through the **[MybMonday](https://github.com/bpucker/MybMonday)**.
 
 ### Mutual Exclusion of Anthocyanins and Betalains ###
-While the flavonoid biosynthesis is present in (almost) all land plants, certain branches are not. One famemous example is the mutual exclusion of anthocyanins and betalains in the Caryophyllales. The yellow to red betalains are tyrosine-derived pigment group which replaced anthocyanins in several families of the Caryophyllales. Both pigments have never reported together in the same tissue and the same species. Please see [Timoneda *et al*., 2019](https://doi.org/10.1111/nph.15980) for a recent review of the complex pigment evolution in the Caryophyllales.
+While the flavonoid biosynthesis is present in (almost) all land plants, certain branches are not. One famemous example is the mutual exclusion of anthocyanins and betalains in the Caryophyllales. The yellow to red betalains are tyrosine-derived pigment group which replaced anthocyanins in several families of the Caryophyllales. Both pigments have never reported together in the same tissue and the same species. Please see [Timoneda *et al*., 2019](https://doi.org/10.1111/nph.15980) for a recent review of the complex pigment evolution in the Caryophyllales. Our latest publication on the topic explains why there are no anthocyanins in the betalain-pigmented Caryophyllales: [Pucker et al., 2024](https://doi.org/10.1111/nph.19341).
 
 
 ### Automatic annotation of the flavonoid biosynthesis ###
@@ -38,6 +38,14 @@ Do you have a new transcriptome and genome assembly of a plant species? If you a
 
 Fig. 3: KIPEs workflow. (source: [Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm))
 
+### Anthocyanin loss - a frequent event during evolution ###
+Accessions of many plant species lack anthocyanin pigmentation. This is often visible when flowers of individual plants appear white instead of red or blue. These evolutionary color changes are not randomly affecting genes in the anthocyanin biosynthesis, but are mostly affecting transcription factors. The most frequently affected transcription factor in the anthocyanin activating R2R3-MYB. Read more about this topic in a systematic assessment of available studies: [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820).
+
+<a href="https://doi.org/10.1101/2023.06.05.543820">
+<img alt="Phylogenetic distribution of anthocyanin loss events" src="" width="50%" height="50%">
+</a>  
+
+Fig. 4: Phylogenetic distribution of anthocyanin loss events.
 
 ### Excellent reviews about the flavonoid biosynthesis ###
 There are several excellent resources to get an overview of the flavonoid biosynthesis. This is an incomplete list:
