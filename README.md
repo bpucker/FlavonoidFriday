@@ -1087,6 +1087,14 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 [Wolff et al., 2024](https://doi.org/10.1101/2024.02.14.580303) describes the genome sequence and corresponding annotation of _Digitalis purpurea_ (common foxglove). The comparison of red and white flowering plants based on long read sequencing of their genomes. A large insertion in the anthocyanidin synthase (_ANS_) gene is associated with the white flower color. Loss-of-function mutations in _ANS_ have been reported before in the context of anthocyanin loss.
 
 
+### (89) BGLU characterizations in _Arabidopsis thaliana_ ###
+> **_<a href="">TWEET</a>:_** BGLU1, BGLU3, and BGLU4 are involved in the glycosylation of already glycosylated flavonoids in Arabidopsis thaliana #FlavonoidFriday (details: XXX & https://doi.org/10.1101/2024.01.30.577901)
+
+
+[Frommmann et al., 2024](https://doi.org/10.1101/2024.01.30.577901) descibe the roles of BGLU1, BGLU3, and BGLU4 in the glycosylation of already glycosylated flavonoids in _Arabidopsis thaliana_. The name BGLU was assigned based on family members that act as ß-glucosidases. Glycosylation is a crucial factor contributing to the enormous diversity of different flavonoid observed in plants. BGLU1, BGLU3, and BGLU4 belong to the glycoside hydrolase family 1-type glycosyltransferases (GH1-type GTs). BGLU1 appears to add rhamnosyl groups to kaempferol diglycosides in leaves. BGLU3 and BGLU4 seem to transfer glycosyl groups to quercetin glycosides in seeds. BGLU3 is characterized by a high substrate promiscuity. While GH1-type GTs have previously been reported in the central vacuole, the BGLUs studied here were observed in the cytoplasm at the ER around the nucleus suggesting that they might undergo vesicle transport to the vacuole.
+
+
+
 
 ### FlavonoidFriday posts will become less frequent ###
 Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will decrease. Some classic publications will be posted again. Additionally, we are happy to share high quality findings once they get published.
