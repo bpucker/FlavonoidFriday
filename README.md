@@ -1074,7 +1074,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 > **_<a href="https://github.com/bpucker/FlavonoidFriday">TWEET</a>:_** The NAC transcription factors BLOOD and PpNAC1 form a dimer to activate PpMYB10.1 resulting in anthocyanin pigmentation in peach #FlavonoidFriday (details: https://lnk.tu-bs.de/9egbyq)
 
 <a href="https://github.com/bpucker/FlavonoidFriday">
-<img alt="Red pigmentation of peach flesh (87)" src="https://pbs.twimg.com/media/GIPnV-YX0AAVUiZ?format=jpg&name=large" width="50%" height="50%">
+<img alt="Red pigmentation of peach flesh (87)" src="https://pbs.twimg.com/media/GIPnV-YX0AAVUiZ?format=jpg&name=large" width="30%" height="30%">
 </a>
 
 [Zhou et al., 2015](https://doi.org/10.1111/tpj.12792) investigated the transcriptional regulation of the anthocyanin formation responsible for the blood-flesh trait of peach (_Prunus persica_). A mapping study revealed a 200-kb interval harbouring the causal gene of the blood-flesh trait. The NAC transcription factor gene _BLOOD_ (_BL_) is located in this interval. BL forms a heterodimer with PpNAC1 to activate the expression of _PpMYB10.1_ which triggers the anthocyanin biosynthesis genes ultimately resulting in coloration of the fruit. The presence of an additional bHLH partner seems to be required for the transcriptional activaton.
