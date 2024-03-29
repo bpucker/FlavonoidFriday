@@ -1094,7 +1094,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 > **_<a href="">TWEET</a>:_** BGLU1, BGLU3, and BGLU4 are involved in the glycosylation of already glycosylated flavonoids in Arabidopsis thaliana #FlavonoidFriday (details: https://lnk.tu-bs.de/Dq9sTG & https://doi.org/10.1101/2024.01.30.577901)
 
 <a href="https://doi.org/10.1101/2024.01.30.577901">
-<img alt="BGLU characterizations in _Arabidopsis thaliana_ (89)" src="https://pbs.twimg.com/media/GIU_R29WQAAHlNc?format=jpg&name=4096x4096" width="50%" height="50%">
+<img alt="BGLU characterizations in _Arabidopsis thaliana_ (89)" src="https://pbs.twimg.com/media/GIU_R29WQAAHlNc?format=jpg&name=4096x4096" width="20%" height="20%">
 </a>
 
 [Frommmann et al., 2024](https://doi.org/10.1101/2024.01.30.577901) descibe the roles of BGLU1, BGLU3, and BGLU4 in the glycosylation of already glycosylated flavonoids in _Arabidopsis thaliana_. The name BGLU was assigned based on family members that act as ß-glucosidases. Glycosylation is a crucial factor contributing to the enormous diversity of different flavonoid observed in plants. BGLU1, BGLU3, and BGLU4 belong to the glycoside hydrolase family 1-type glycosyltransferases (GH1-type GTs). BGLU1 appears to add rhamnosyl groups to kaempferol diglycosides in leaves. BGLU3 and BGLU4 seem to transfer glycosyl groups to quercetin glycosides in seeds. BGLU3 is characterized by a high substrate promiscuity. While GH1-type GTs have previously been reported in the central vacuole, the BGLUs studied here were observed in the cytoplasm at the ER around the nucleus suggesting that they might undergo vesicle transport to the vacuole.
