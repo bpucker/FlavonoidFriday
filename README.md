@@ -1108,7 +1108,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 
 
 
-### (91) Genetic hot spots of anthocyanins loss ###
+### (91) Genetic hot spots of anthocyanin loss ###
 > **_<a href="">TWEET</a>:_** Did you know? White flowers often result from interrupted anthocyanin biosynthesis. MYB transcription factors and DFR are key 'hot spots' for anthocyanin loss. #FlavonoidFriday (details: )
 
 A systematic analysis of literature about intraspecific anthocyanin loss events by [Recinos & Pucker, 2024](https://doi.org/10.1101/2023.06.05.543820) revealed that certain steps in the biosynthesis pathway are more often affected than others. Generally, transcription factors are more often hit than structural genes. MYBs are the predominant group among the transcription factors. Among the structural genes, DFR - the first committed step in the pathway - appears most often as block in the anthocyanin biosynthesis.
