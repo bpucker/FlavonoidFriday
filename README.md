@@ -1101,6 +1101,26 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 
 
 
+### (90) _Victoria cruziana_ flower color change ###
+> **_<a href="">TWEET</a>:_** Did you know? 🌸 The color change from white to pink in the giant waterlily (Victoria) is due to increased anthocyanin biosynthesis! 🌺 #FlavonoidFriday (details: )
+
+[Nowak et al., 2024](https://doi.org/10.1101/2024.06.15.599162) investigated the flower color of the giant waterlily _Victoria cruziana_. This species is known to bloom at night. It has been reported that the majestic flower apears white in the first night and turns pinkish during the following day. Anthocyanins appear as a likely explanation. Anthocyanin biosynthesis genes were identified based on a _V. cruziana_ genome sequence. RNA-seq and direct RNA sequencing provided information about the activity of genes. Anthocyanin biosynthesis genes (_DFR_, _ANS_, _arGST_) and the corresponding MYB transcription factors were only substantially expressed in pinkish flowers.
+
+
+
+### (91) Genetic hot spots of anthocyanins loss ###
+> **_<a href="">TWEET</a>:_** Did you know? White flowers often result from interrupted anthocyanin biosynthesis. MYB transcription factors and DFR are key 'hot spots' for anthocyanin loss. #FlavonoidFriday (details: )
+
+A systematic analysis of literature about intraspecific anthocyanin loss events by [Recinos & Pucker, 2024](https://doi.org/10.1101/2023.06.05.543820) revealed that certain steps in the biosynthesis pathway are more often affected than others. Generally, transcription factors are more often hit than structural genes. MYBs are the predominant group among the transcription factors. Among the structural genes, DFR - the first committed step in the pathway - appears most often as block in the anthocyanin biosynthesis.
+
+
+
+### (92) Dark side of anthocyanin biosynthesis ###
+> **_<a href="">TWEET</a>:_** Anthocyanins typically give flowers their orange, red, magenta, blue, or purple hues. However, they can sometimes create very dark pigmentation! #FlavonoidFriday #FlavonoidFriday (details: )
+
+A systematic assessment of dark (almost black) pigmentation of plant structures by [Wolff & Pucker, 2024](https://doi.org/10.20944/preprints202406.1824.v1) revealed a polyphyletic nature of this trait. Multiple plant lineages show independently dark leaves, flowers, or berries. Mechanisms leading to this unsualy pigmentation remain largely unknown, but a hyperactivation of the anthocyanin biosynthesis seems to play an important role. The ecological functions might be pollinator interaction, protection, and camouflage.
+
+
 
 ### FlavonoidFriday posts will become less frequent ###
 Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will decrease. Some classic publications will be posted again. Additionally, we are happy to share high quality findings once they get published.
