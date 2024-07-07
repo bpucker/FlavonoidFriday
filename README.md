@@ -1104,6 +1104,10 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 ### (90) _Victoria cruziana_ flower color change ###
 > **_<a href="">TWEET</a>:_** Did you know? 🌸 The color change from white to pink in the giant waterlily (Victoria) is due to increased anthocyanin biosynthesis! 🌺 #FlavonoidFriday (details: https://lnk.tu-bs.de/Nh9eam)
 
+<a href="https://doi.org/10.1101/2024.06.15.599162">
+<img alt="_Victoria cruziana_ flower color change" src="https://pbs.twimg.com/media/GRGWsJFXMAAq3yf?format=jpg&name=4096x4096" width="20%" height="20%">
+</a>
+
 [Nowak et al., 2024](https://doi.org/10.1101/2024.06.15.599162) investigated the flower color of the giant waterlily _Victoria cruziana_. This species is known to bloom at night. It has been reported that the majestic flower apears white in the first night and turns pinkish during the following day. Anthocyanins appear as a likely explanation. Anthocyanin biosynthesis genes were identified based on a _V. cruziana_ genome sequence. RNA-seq and direct RNA sequencing provided information about the activity of genes. Anthocyanin biosynthesis genes (_DFR_, _ANS_, _arGST_) and the corresponding MYB transcription factors were only substantially expressed in pinkish flowers.
 
 
