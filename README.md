@@ -1105,7 +1105,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 > **_<a href="">TWEET</a>:_** Did you know? 🌸 The color change from white to pink in the giant waterlily (Victoria) is due to increased anthocyanin biosynthesis! 🌺 #FlavonoidFriday (details: https://lnk.tu-bs.de/Nh9eam)
 
 <a href="https://doi.org/10.1101/2024.06.15.599162">
-<img alt="_Victoria cruziana_ flower color change" src="https://pbs.twimg.com/media/GRGWsJFXMAAq3yf?format=jpg&name=4096x4096" width="20%" height="20%">
+<img alt="_Victoria cruziana_ flower color change" src="https://pbs.twimg.com/media/GRGWsJFXMAAq3yf?format=jpg&name=4096x4096" width="50%" height="50%">
 </a>
 
 [Nowak et al., 2024](https://doi.org/10.1101/2024.06.15.599162) investigated the flower color of the giant waterlily _Victoria cruziana_. This species is known to bloom at night. It has been reported that the majestic flower apears white in the first night and turns pinkish during the following day. Anthocyanins appear as a likely explanation. Anthocyanin biosynthesis genes were identified based on a _V. cruziana_ genome sequence. RNA-seq and direct RNA sequencing provided information about the activity of genes. Anthocyanin biosynthesis genes (_DFR_, _ANS_, _arGST_) and the corresponding MYB transcription factors were only substantially expressed in pinkish flowers.
@@ -1115,7 +1115,11 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 ### (91) Genetic hot spots of anthocyanin loss ###
 > **_<a href="">TWEET</a>:_** Did you know? White flowers often result from interrupted anthocyanin biosynthesis. MYB transcription factors and DFR are key 'hot spots' for anthocyanin loss. #FlavonoidFriday (details: https://lnk.tu-bs.de/KYDUFw)
 
-A systematic analysis of literature about intraspecific anthocyanin loss events by [Recinos & Pucker, 2024](https://doi.org/10.1101/2023.06.05.543820) revealed that certain steps in the biosynthesis pathway are more often affected than others. Generally, transcription factors are more often hit than structural genes. MYBs are the predominant group among the transcription factors. Among the structural genes, DFR - the first committed step in the pathway - appears most often as block in the anthocyanin biosynthesis.
+<a href="https://doi.org/10.1186/s12870-024-05316-w">
+<img alt="Genetic hot spots of anthocyanin loss" src="https://pbs.twimg.com/media/GRGXE65XcAADsT_?format=jpg&name=large" width="50%" height="50%">
+</a>
+
+A systematic analysis of literature about intraspecific anthocyanin loss events by [Recinos & Pucker, 2024](https://doi.org/10.1186/s12870-024-05316-w) revealed that certain steps in the biosynthesis pathway are more often affected than others. Generally, transcription factors are more often hit than structural genes. MYBs are the predominant group among the transcription factors. Among the structural genes, DFR - the first committed step in the pathway - appears most often as block in the anthocyanin biosynthesis.
 
 
 
