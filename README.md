@@ -1126,6 +1126,11 @@ A systematic analysis of literature about intraspecific anthocyanin loss events 
 ### (92) Dark side of anthocyanin biosynthesis ###
 > **_<a href="">TWEET</a>:_** Anthocyanins typically give flowers their orange, red, magenta, blue, or purple hues. However, they can sometimes create very dark pigmentation! #FlavonoidFriday #FlavonoidFriday (details: https://lnk.tu-bs.de/zjfbYi)
 
+<a href="https://doi.org/10.20944/preprints202406.1824.v1">
+<img alt="Dark side of anthocyanin biosynthesis" src="https://pbs.twimg.com/media/GRGXbF8XwAEhbxB?format=jpg&name=large" width="50%" height="50%">
+</a>
+
+
 A systematic assessment of dark (almost black) pigmentation of plant structures by [Wolff & Pucker, 2024](https://doi.org/10.20944/preprints202406.1824.v1) revealed a polyphyletic nature of this trait. Multiple plant lineages show independently dark leaves, flowers, or berries. Mechanisms leading to this unsualy pigmentation remain largely unknown, but a hyperactivation of the anthocyanin biosynthesis seems to play an important role. The ecological functions might be pollinator interaction, protection, and camouflage.
 
 
