@@ -1130,8 +1130,32 @@ A systematic analysis of literature about intraspecific anthocyanin loss events 
 <img alt="Dark side of anthocyanin biosynthesis" src="https://pbs.twimg.com/media/GRGXbF8XwAEhbxB?format=jpg&name=large" width="50%" height="50%">
 </a>
 
-
 A systematic assessment of dark (almost black) pigmentation of plant structures by [Wolff & Pucker, 2024](https://doi.org/10.20944/preprints202406.1824.v1) revealed a polyphyletic nature of this trait. Multiple plant lineages show independently dark leaves, flowers, or berries. Mechanisms leading to this unsualy pigmentation remain largely unknown, but a hyperactivation of the anthocyanin biosynthesis seems to play an important role. The ecological functions might be pollinator interaction, protection, and camouflage.
+
+
+
+### (93) _ANS_ loss of function underlies yellow raspberry ###
+> **_<a href="">TWEET</a>:_** Loss of ANS activity blocks anthocyanin biosynthesis, explaining the absence of dark pigmentation and resulting in yellow raspberries. #FlavonoidFriday (details: XXX)
+
+[Rafique et al., 2016](https://doi.org/10.3389%2Ffpls.2016.01892) identified a nonsense mutation in ANS. The ANS enzyme catalyzes a crucial step in the anthocyanin biosynthesis. This mutation causes a block in the pathway, leading to a substantial reduction in anthocyanin pigment accumulation. The causal mutation is a 5bp insertion in the CDS of _ANS_, resulting in a frameshift. Reduced _ANS_ transcript abundance may be explained by nonsense-mediated mRNA decay.
+
+
+
+### (94) Genetic Basis of Pigmentation in Sicilian Blood Oranges ###
+> **_<a href="">TWEET</a>:_** Pigmentation in Sicilian blood oranges is driven by a cold-activated Copia-like retrotransposon insertion near the anthocyanin-activating MYB gene Ruby #FlavonoidFriday (details: XXXX)
+
+[Butelli et al., 2012](https://doi.org/10.1105/tpc.111.095232) identified a retrotransposon near the anthocyanin-activating MYB transcription factor gene Ruby. This cold-induced retrotransposon may explain the importance of cold for anthocyanin pigmentation in Sicilian blood oranges. The authors suggest that retrotransposons are a key source of variation in _Citrus_.
+
+
+
+
+
+### (95) SlAN1 controls anthocyanin accumulation in tomato fruit tissues ###
+> **_<a href="">TWEET</a>:_** SlAN1, a bHLH transcription factor, limits anthocyanin biosynthesis in tomato fruit. Light-induced anthocyanin production is confined to the peel #FlavonoidFriday (details: XXX)
+
+[Reis et al., 2024](https://doi.org/10.1101/2024.04.02.587792) identified the bHLH transcription factor SlAN1 (Solyc09g065100) as the limiting factor for anthocyanin accumulation in tomato fruit tissues. Tomatoes, a key global crop, exhibit light-dependent anthocyanin biosynthesis. The cyanin-colored epicarp’s sun-blocking property explains the low anthocyanin content in most cultivars. This finding suggests a potential engineering strategy, already implemented by overexpressing MYB and bHLH in purple tomatoes [Butelli et al., 2008](https://doi.org/10.1038/nbt.1506).
+
+
 
 
 
