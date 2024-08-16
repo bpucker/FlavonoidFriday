@@ -1137,6 +1137,10 @@ A systematic assessment of dark (almost black) pigmentation of plant structures 
 ### (93) _ANS_ loss of function underlies yellow raspberry ###
 > **_<a href="">TWEET</a>:_** Loss of ANS activity blocks anthocyanin biosynthesis, explaining the absence of dark pigmentation and resulting in yellow raspberries. #FlavonoidFriday (details: https://lnk.tu-bs.de/SWnFb9)
 
+<a href="https://github.com/bpucker/FlavonoidFriday">
+<img alt="_ANS_ loss of function underlies yellow raspberry" src="https://pbs.twimg.com/media/GUuK4m-WEAATkuf?format=jpg&name=4096x4096" width="50%" height="50%">
+</a>
+
 [Rafique et al., 2016](https://doi.org/10.3389%2Ffpls.2016.01892) identified a nonsense mutation in ANS. The ANS enzyme catalyzes a crucial step in the anthocyanin biosynthesis. This mutation causes a block in the pathway, leading to a substantial reduction in anthocyanin pigment accumulation. The causal mutation is a 5bp insertion in the CDS of _ANS_, resulting in a frameshift. Reduced _ANS_ transcript abundance may be explained by nonsense-mediated mRNA decay.
 
 
