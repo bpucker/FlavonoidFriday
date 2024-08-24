@@ -1148,6 +1148,11 @@ A systematic assessment of dark (almost black) pigmentation of plant structures 
 ### (94) Genetic Basis of Pigmentation in Sicilian Blood Oranges ###
 > **_<a href="">TWEET</a>:_** Pigmentation in Sicilian blood oranges is driven by a cold-activated Copia-like retrotransposon insertion near the anthocyanin-activating MYB gene Ruby #FlavonoidFriday (details: https://lnk.tu-bs.de/4zY026)
 
+
+<a href="https://github.com/bpucker/FlavonoidFriday">
+<img alt="Genetic Basis of Pigmentation in Sicilian Blood Oranges" src="https://pbs.twimg.com/media/GUuLojKWoAAV6Vl?format=jpg&name=large" width="50%" height="50%">
+</a>
+
 [Butelli et al., 2012](https://doi.org/10.1105/tpc.111.095232) identified a retrotransposon near the anthocyanin-activating MYB transcription factor gene Ruby. This cold-induced retrotransposon may explain the importance of cold for anthocyanin pigmentation in Sicilian blood oranges. The authors suggest that retrotransposons are a key source of variation in _Citrus_.
 
 
