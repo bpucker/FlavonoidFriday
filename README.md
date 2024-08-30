@@ -1162,6 +1162,11 @@ A systematic assessment of dark (almost black) pigmentation of plant structures 
 ### (95) SlAN1 controls anthocyanin accumulation in tomato fruit tissues ###
 > **_<a href="">TWEET</a>:_** SlAN1, a bHLH transcription factor, limits anthocyanin biosynthesis in tomato fruit. Light-induced anthocyanin production is confined to the peel #FlavonoidFriday (details: https://lnk.tu-bs.de/LX5Vx2)
 
+
+<a href="https://github.com/bpucker/FlavonoidFriday">
+<img alt="SlAN1 controls anthocyanin accumulation in tomato fruit tissues" src="https://pbs.twimg.com/media/GUuMczXWIAAFYki?format=jpg&name=large" width="50%" height="50%">
+</a>
+
 [Reis et al., 2024](https://doi.org/10.1101/2024.04.02.587792) identified the bHLH transcription factor SlAN1 (Solyc09g065100) as the limiting factor for anthocyanin accumulation in tomato fruit tissues. Tomatoes, a key global crop, exhibit light-dependent anthocyanin biosynthesis. The cyanin-colored epicarp’s sun-blocking property explains the low anthocyanin content in most cultivars. This finding suggests a potential engineering strategy, already implemented by overexpressing MYB and bHLH in purple tomatoes [Butelli et al., 2008](https://doi.org/10.1038/nbt.1506).
 
 
