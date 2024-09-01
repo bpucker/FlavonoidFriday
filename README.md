@@ -1172,6 +1172,23 @@ A systematic assessment of dark (almost black) pigmentation of plant structures 
 
 
 
+### (96) Mitigating competition of FLS and DFR ###
+> **_<a href="">TWEET</a>:_** How do plants balance FLS and DFR in flavonoid biosynthesis? Through differential expression and substrate preferences. #FlavonoidFriday (details: https://doi.org/10.1371/journal.pone.0305837 & XXX)
+
+
+FLS (Flavonol Synthase) and DFR (Dihydroflavonol 4-reductase) are the first committed enzymes in competing branches of the flavonoid biosynthesis pathway. DFR catalyzes the production of anthocyanins, which contribute to pigmentation in plants, while FLS leads to the formation of flavonols. [Pucker & Choudhary, 2024](https://doi.org/10.1371/journal.pone.0305837) identified several mechanisms that reduce competition between these enzymes. Specific amino acid residues in DFR and FLS are crucial for their substrate preferences, with DFR favoring monohydroxylated substrates (e.g., dihydrokaempferol) and FLS favoring dihydroxylated substrates (e.g., dihydroquercetin). Additionally, _DFR_ and _FLS_ exhibit near-mutual exclusivity in expression across different plant tissues.
+
+
+
+
+### (97) Functions of anthocyanins ###
+> **_<a href="">TWEET</a>:_** Anthocyanins fulfill diverse physiological and ecological roles, aiding in plant stress response and reproduction #FlavonoidFriday (details: https://doi.org/10.20944/preprints202408.2272.v1 & XXX)
+
+
+A chemically diverse set of modified anthocyanins fulfills various functions in plants ([Grüning et al., 2024](https://doi.org/10.20944/preprints202408.2272.v1)). Anthocyanins are renowned for imparting red, blue, purple, and black colors to flowers. Beyond coloration, these compounds serve as potent antioxidants, helping plants scavenge reactive oxygen species (ROS). They also protect plants from excessive radiation by blocking light. Additionally, anthocyanins play a crucial role in attracting pollinators and seed dispersers, thus aiding plant reproduction.
+
+
+
 
 ### FlavonoidFriday posts will become less frequent ###
 Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will decrease. Some classic publications will be posted again. Additionally, we are happy to share high quality findings once they get published.
