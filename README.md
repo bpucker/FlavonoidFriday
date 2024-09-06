@@ -1175,6 +1175,9 @@ A systematic assessment of dark (almost black) pigmentation of plant structures 
 ### (96) Mitigating competition of FLS and DFR ###
 > **_<a href="">TWEET</a>:_** How do plants balance FLS and DFR in flavonoid biosynthesis? Through differential expression and substrate preferences. #FlavonoidFriday (details: https://doi.org/10.1371/journal.pone.0305837 & https://lnk.tu-bs.de/YJ1B9o)
 
+<a href="https://github.com/bpucker/FlavonoidFriday">
+<img alt="Mitigating competition of FLS and DFR" src="https://pbs.twimg.com/media/GWaP0dzXUAAJ6tR?format=jpg&name=large" width="50%" height="50%">
+</a>
 
 FLS (Flavonol Synthase) and DFR (Dihydroflavonol 4-reductase) are the first committed enzymes in competing branches of the flavonoid biosynthesis pathway. DFR catalyzes the production of anthocyanins, which contribute to pigmentation in plants, while FLS leads to the formation of flavonols. [Pucker & Choudhary, 2024](https://doi.org/10.1371/journal.pone.0305837) identified several mechanisms that reduce competition between these enzymes. Specific amino acid residues in DFR and FLS are crucial for their substrate preferences, with DFR favoring monohydroxylated substrates (e.g., dihydrokaempferol) and FLS favoring dihydroxylated substrates (e.g., dihydroquercetin). Additionally, _DFR_ and _FLS_ exhibit near-mutual exclusivity in expression across different plant tissues.
 
