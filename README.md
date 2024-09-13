@@ -1191,7 +1191,7 @@ FLS (Flavonol Synthase) and DFR (Dihydroflavonol 4-reductase) are the first comm
 <img alt="Functions of anthocyanins" src="https://pbs.twimg.com/media/GWaQ5SXWwAIZvwg?format=jpg&name=medium" width="50%" height="50%">
 </a>
 
-A chemically diverse set of modified anthocyanins fulfills various functions in plants ([Grüning et al., 2024](https://doi.org/10.20944/preprints202408.2272.v1)). Anthocyanins are renowned for imparting red, blue, purple, and black colors to flowers. Beyond coloration, these compounds serve as potent antioxidants, helping plants scavenge reactive oxygen species (ROS). They also protect plants from excessive radiation by blocking light. Additionally, anthocyanins play a crucial role in attracting pollinators and seed dispersers, thus aiding plant reproduction.
+A chemically diverse set of modified anthocyanins fulfills various functions in plants ([Grünig et al., 2024](https://doi.org/10.20944/preprints202408.2272.v1)). Anthocyanins are renowned for imparting red, blue, purple, and black colors to flowers. Beyond coloration, these compounds serve as potent antioxidants, helping plants scavenge reactive oxygen species (ROS). They also protect plants from excessive radiation by blocking light. Additionally, anthocyanins play a crucial role in attracting pollinators and seed dispersers, thus aiding plant reproduction.
 
 
 
