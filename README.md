@@ -56,6 +56,7 @@ Grotewold, 2006: The Science of Flavonoids. [Book published by Springer](https:/
 
 Tohge _et al_., 2017: Current understanding of the pathways of flavonoid biosynthesis in model and crop plants. doi:[10.1093/jxb/erx177](https://doi.org/10.1093/jxb/erx177)
 
+Davies _et al._, 2024: The evolution of flavonoid biosynthesis. doi: [10.1098/rstb.2023.0361](https://doi.org/10.1098/rstb.2023.0361).
 
 
 ## Tweets with addtional background ##
