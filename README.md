@@ -1195,6 +1195,15 @@ FLS (Flavonol Synthase) and DFR (Dihydroflavonol 4-reductase) are the first comm
 A chemically diverse set of modified anthocyanins fulfills various functions in plants ([Grünig et al., 2024](https://doi.org/10.20944/preprints202408.2272.v1)). Anthocyanins are renowned for imparting red, blue, purple, and black colors to flowers. Beyond coloration, these compounds serve as potent antioxidants, helping plants scavenge reactive oxygen species (ROS). They also protect plants from excessive radiation by blocking light. Additionally, anthocyanins play a crucial role in attracting pollinators and seed dispersers, thus aiding plant reproduction.
 
 
+### (98) Flavonoid biosynthesis evolution ###
+> **_<a href="">TWEET</a>:_** Flavonoid biosynthesis is widespread across land plants, but major differences between lineages are still unexplored. A recent review summarizes open questions #FlavonoidFriday: XXX
+
+
+[Davies _et al_., 2024](https://doi.org/10.1098/rstb.2023.0361) summarized the knowledge about the evolution of the flavonoid biosynthesis. Gene gain and loss events on major plant lineages are postulated based on available plant genome sequences. A set of questions and next steps to further advance our understanding of the flavonoid biosynthesis are presented: (1) establishing more non-flowering plant model systems, (2) functional characterization of enzymes, (3) unraveling the functions of flavonoids in different plant lineages, (4) identifying gene loss events, (5) understanding the metabolons of the flavonoid biosynthesis, and (6) investigating the transcriptional regulation of the flavonoid biosynthesis. 
+
+
+
+
 
 
 ### FlavonoidFriday posts will become less frequent ###
