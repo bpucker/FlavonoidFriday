@@ -1,5 +1,5 @@
 # #FlavonoidFriday
-This repository provides additional background to the #FlavonoidFriday tweets. #FlavonoidFriday is maintained by the [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) at TU Braunschweig.
+This repository provides additional background to the #FlavonoidFriday tweets. #FlavonoidFriday is maintained by the [PuckerLab](https://www.mps.uni-bonn.de).
 
 ## Introduction ##
 The flavonoid biosnythesis is one of the best studied specialized metabolism pathways in plants. Flavonoids are produced by almost all land plants, but specific branches of this pathway are not present in all species. Flavonol biosynthesis, flavone biosynthesis, anthocyanin biosnythesis, and proanthocyanidin biosynthesis are some branches of the flavonoid biosynthesis. Products of these branches have different functions and the enzymes might compete for substrate when branches are active at the same time. Therefore, the gene expression of all players in this pathway is tightly regulated by a number of transcription factors (see Transcriptional Regulation). Fig. 1 provides a simplified overview of the flavonoid biosynthesis [(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm).
@@ -39,15 +39,18 @@ Do you have a new transcriptome and genome assembly of a plant species? If you a
 Fig. 3: KIPEs workflow. (source: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342))
 
 ### Anthocyanin loss - a frequent event during evolution ###
-Accessions of many plant species lack anthocyanin pigmentation. This is often visible when flowers of individual plants appear white instead of red or blue. These evolutionary color changes are not randomly affecting genes in the anthocyanin biosynthesis, but are mostly affecting transcription factors. The most frequently affected transcription factor in the anthocyanin activating R2R3-MYB. Read more about this topic in a systematic assessment of available studies: [Recinos & Pucker, 2023](https://doi.org/10.1101/2023.06.05.543820).
+Accessions of many plant species lack anthocyanin pigmentation. This is often visible when flowers of individual plants appear white instead of red or blue. These evolutionary color changes are not randomly affecting genes in the anthocyanin biosynthesis, but are mostly affecting transcription factors. The most frequently affected transcription factor in the anthocyanin activating R2R3-MYB. Read more about this topic in a systematic assessment of available studies: [Recinos & Pucker, 2024](https://doi.org/10.1186/s12870-024-05316-w).
 
-<a href="https://doi.org/10.1101/2023.06.05.543820">
+<a href="https://doi.org/10.1186/s12870-024-05316-w">
 <img alt="Phylogenetic distribution of anthocyanin loss events" src="https://www.biorxiv.org/content/biorxiv/early/2023/11/10/2023.06.05.543820/F3.large.jpg?width=800&height=600&carousel=1" width="50%" height="50%">
 </a>  
 
 Fig. 4: Phylogenetic distribution of anthocyanin loss events.
 
-### Excellent reviews about the flavonoid biosynthesis ###
+Anthocyanins fulfil a large number of ecological and phyiological functions ([Grünig et al., 2024](https://www.preprints.org/manuscript/202408.2272/v1)).
+
+
+### Recommended reviews about the flavonoid biosynthesis ###
 There are several excellent resources to get an overview of the flavonoid biosynthesis. This is an incomplete list:
 
 Winkel-Shirley, 2001: Flavonoid Biosynthesis. A Colorful Model for Genetics, Biochemistry, Cell Biology, and Biotechnology. doi:[10.1104/pp.126.2.485](https://doi.org/10.1104/pp.126.2.485)
@@ -57,6 +60,8 @@ Grotewold, 2006: The Science of Flavonoids. [Book published by Springer](https:/
 Tohge _et al_., 2017: Current understanding of the pathways of flavonoid biosynthesis in model and crop plants. doi:[10.1093/jxb/erx177](https://doi.org/10.1093/jxb/erx177)
 
 Davies _et al._, 2024: The evolution of flavonoid biosynthesis. doi: [10.1098/rstb.2023.0361](https://doi.org/10.1098/rstb.2023.0361).
+
+Grünig _et al._, 2024: Diversity and Ecological Functions of Anthocyanins. doi: [10.20944/preprints202408.2272.v1 ](https://www.preprints.org/manuscript/202408.2272/v1).
 
 
 ## Tweets with addtional background ##
