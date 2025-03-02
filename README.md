@@ -955,10 +955,16 @@ A chemically diverse set of modified anthocyanins fulfills various functions in 
 
 
 ### (99) Bean seed color patterns ###
-> **Post:** Seed color patterns in beans are due to sequence variants in genes encoding components of the MBW complex #FlavonoidFriday: XXXXXX
+> **Post:** Seed color patterns in beans are due to sequence variants in genes encoding components of the MBW complex #FlavonoidFriday: https://lnk.tu-bs.de/C0Mcgj
 
 A recent study by [Parker et al., 2024](https://doi.org/10.1111/tpj.16947) investigated the molecular basis of various seed color patterns and flower colors. A MYB protein (TT2), a bHLH protein (TT8, MYC1), and the WD40 protein TTG1 form the MBW complex, which is well known for regulating anthocyanin and proanthocyanidin biosynthesis. A RIL population analysis revealed several QTLs containing genes encoding these three components of the MBW complex. Multiple alleles of these key regulatory genes have been reported.
 
+
+### (100) Vibrant blue color of cornflower ###
+> **Post:** Cornflower vibrant color comes from a unique complex of anthocyanins, flavones, and metal ions (Fe³⁺, Mg²⁺), stabilized by pH. This metal-anthocyanin interaction shifts the pigment to blue! #FlavonoidFriday XXXXX
+(📸 https://doi.org/10.1101/2025.01.31.635922)
+
+Cornflower, Centaurea cyanus, is famous for its striking blue petals. But what makes this wildflower so vibrantly colored? The molecular basis of this coloration is different from many other blue flowering plants, which accumulate only anthocyanins. The cornflower pigmentation is a fascinating interplay of chemistry and light based on a unique pigment complex. This complex is composed of anthocyanins (cyanidins), flavones, and metal ions (such as iron or magnesium), which interact to stabilize the blue color. In other flowers, anthocyanins typically produce purple or red shades, but in cornflowers, the presence of these additional compounds shifts the spectrum to an unmistakable blue. Interestingly, cornflowers can also display variations in color, including shades of pink, purple, or even white. These color variations are often due to genetic variants that alter pigment production or pH differences in the petal cells. The vivid blue petals are highly attractive to pollinators. This ensures successful pollination and contributes to the plant’s survival in meadows and fields. The recently released cornflower genome sequence ([Dassow et al., 2025](https://doi.org/10.1101/2025.01.31.635922)) may provide new insights into the molecular mechanisms behind its unique pigmentation.
 
 
 
