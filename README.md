@@ -1,5 +1,5 @@
 # #FlavonoidFriday
-This repository provides additional background to the #FlavonoidFriday tweets. #FlavonoidFriday is maintained by the [PuckerLab](https://www.mps.uni-bonn.de).
+This repository provides additional background to the #FlavonoidFriday posts. #FlavonoidFriday is maintained by the [PuckerLab](https://www.mps.uni-bonn.de).
 
 ## Introduction ##
 The flavonoid biosnythesis is one of the best studied specialized metabolism pathways in plants. Flavonoids are produced by almost all land plants, but specific branches of this pathway are not present in all species. Flavonol biosynthesis, flavone biosynthesis, anthocyanin biosnythesis, and proanthocyanidin biosynthesis are some branches of the flavonoid biosynthesis. Products of these branches have different functions and the enzymes might compete for substrate when branches are active at the same time. Therefore, the gene expression of all players in this pathway is tightly regulated by a number of transcription factors (see Transcriptional Regulation). Fig. 1 provides a simplified overview of the flavonoid biosynthesis [(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm).
@@ -952,6 +952,12 @@ A chemically diverse set of modified anthocyanins fulfills various functions in 
 <img alt="Flavonoid biosynthesis evolution" src="https://pbs.twimg.com/media/Ga62NH2XcAE1bLE?format=jpg&name=4096x4096" width="50%" height="50%">
 
 [Davies _et al_., 2024](https://doi.org/10.1098/rstb.2023.0361) summarized the knowledge about the evolution of the flavonoid biosynthesis. Gene gain and loss events on major plant lineages are postulated based on available plant genome sequences. A set of questions and next steps to further advance our understanding of the flavonoid biosynthesis are presented: (1) establishing more non-flowering plant model systems, (2) functional characterization of enzymes, (3) unraveling the functions of flavonoids in different plant lineages, (4) identifying gene loss events, (5) understanding the metabolons of the flavonoid biosynthesis, and (6) investigating the transcriptional regulation of the flavonoid biosynthesis. 
+
+
+### (99) Bean seed color patterns ###
+> **Post:** Seed color patterns in beans are due to sequence variants in genes encoding components of the MBW complex #FlavonoidFriday: XXXXXX
+
+A recent study by [Parker et al., 2024](https://doi.org/10.1111/tpj.16947) investigated the molecular basis of various seed color patterns and flower colors. A MYB protein (TT2), a bHLH protein (TT8, MYC1), and the WD40 protein TTG1 form the MBW complex, which is well known for regulating anthocyanin and proanthocyanidin biosynthesis. A RIL population analysis revealed several QTLs containing genes encoding these three components of the MBW complex. Multiple alleles of these key regulatory genes have been reported.
 
 
 
