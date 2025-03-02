@@ -850,7 +850,7 @@ A systematic investigation of flavonol synthase (FLS) and dihydroflavonol 4-redu
 
 
 ### (86) Anthocyanin losses across plantae ###
-> **Post:** Mutations associated with the loss of anthocyanin pigmentation are often affecting the transcriptional regulation #FlavonoidFriday (details: https://doi.org/10.1101/2023.06.05.543820 & https://bit.ly/3HZjT5K)
+> **Post:** Mutations associated with the loss of anthocyanin pigmentation are often affecting the transcriptional regulation #FlavonoidFriday (details: https://doi.org/10.1101/2023.06.05.543820)
 
 <img alt="Anthocyanin losses across plantae (86)" src="https://pbs.twimg.com/media/GGY2nODXYAAHJsR?format=jpg&name=4096x4096" width="50%" height="50%">
 
@@ -858,7 +858,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 
 
 ### (87) Red pigmentation of peach flesh ###
-> **Post:** The NAC transcription factors BLOOD and PpNAC1 form a dimer to activate PpMYB10.1 resulting in anthocyanin pigmentation in peach #FlavonoidFriday (details: https://lnk.tu-bs.de/9egbyq)
+> **Post:** The NAC transcription factors BLOOD and PpNAC1 form a dimer to activate PpMYB10.1 resulting in anthocyanin pigmentation in peach #FlavonoidFriday
 
 <img alt="Red pigmentation of peach flesh (87)" src="https://pbs.twimg.com/media/GIPnV-YX0AAVUiZ?format=jpg&name=large" width="30%" height="30%">
 
@@ -866,7 +866,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 
 
 ### (88) Pigmentation loss in _Digitalis purpurea_ flowers ###
-> **Post:** Large insertion in the anthocyanidin synthase (ANS) gene is associated with flower pigmentation loss in Digitalis purpurea (foxglove) #FlavonoidFriday (details: https://doi.org/10.1101/2024.02.14.580303 & https://lnk.tu-bs.de/Zg4DBu)
+> **Post:** Large insertion in the anthocyanidin synthase (ANS) gene is associated with flower pigmentation loss in Digitalis purpurea (foxglove) #FlavonoidFriday (details: https://doi.org/10.1101/2024.02.14.580303)
 
 <img alt="Pigmentation loss in _Digitalis purpurea_ flowers (88)" src="https://www.tu-braunschweig.de/fileadmin/_processed_/3/0/csm_Digitalis_purpurea_red_vs_white_3e2235c83e.png" width="50%" height="50%">
 
@@ -874,7 +874,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 
 
 ### (89) BGLU characterizations in _Arabidopsis thaliana_ ###
-> **Post:** BGLU1, BGLU3, and BGLU4 are involved in the glycosylation of already glycosylated flavonoids in Arabidopsis thaliana #FlavonoidFriday (details: https://lnk.tu-bs.de/Dq9sTG & https://doi.org/10.1101/2024.01.30.577901)
+> **Post:** BGLU1, BGLU3, and BGLU4 are involved in the glycosylation of already glycosylated flavonoids in Arabidopsis thaliana #FlavonoidFriday (details: https://doi.org/10.1101/2024.01.30.577901)
 
 <img alt="BGLU characterizations in _Arabidopsis thaliana_ (89)" src="https://pbs.twimg.com/media/GIU_R29WQAAHlNc?format=jpg&name=4096x4096" width="20%" height="20%">
 
@@ -882,7 +882,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 
 
 ### (90) _Victoria cruziana_ flower color change ###
-> **Post:** Did you know? 🌸 The color change from white to pink in the giant waterlily (Victoria) is due to increased anthocyanin biosynthesis! 🌺 #FlavonoidFriday (details: https://lnk.tu-bs.de/Nh9eam)
+> **Post:** Did you know? 🌸 The color change from white to pink in the giant waterlily (Victoria) is due to increased anthocyanin biosynthesis! 🌺 #FlavonoidFriday
 
 <img alt="_Victoria cruziana_ flower color change" src="https://pbs.twimg.com/media/GRGWsJFXMAAq3yf?format=jpg&name=4096x4096" width="50%" height="50%">
 
@@ -891,7 +891,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 
 
 ### (91) Genetic hot spots of anthocyanin loss ###
-> **Post:** Did you know? White flowers often result from interrupted anthocyanin biosynthesis. MYB transcription factors and DFR are key 'hot spots' for anthocyanin loss. #FlavonoidFriday (details: https://lnk.tu-bs.de/KYDUFw)
+> **Post:** Did you know? White flowers often result from interrupted anthocyanin biosynthesis. MYB transcription factors and DFR are key 'hot spots' for anthocyanin loss. #FlavonoidFriday
 
 <img alt="Genetic hot spots of anthocyanin loss" src="https://pbs.twimg.com/media/GRGXE65XcAADsT_?format=jpg&name=large" width="50%" height="50%">
 
@@ -899,7 +899,7 @@ A systematic analysis of literature about intraspecific anthocyanin loss events 
 
 
 ### (92) Dark side of anthocyanin biosynthesis ###
-> **Post:** Anthocyanins typically give flowers their orange, red, magenta, blue, or purple hues. However, they can sometimes create very dark pigmentation! #FlavonoidFriday #FlavonoidFriday (details: https://lnk.tu-bs.de/zjfbYi)
+> **Post:** Anthocyanins typically give flowers their orange, red, magenta, blue, or purple hues. However, they can sometimes create very dark pigmentation! #FlavonoidFriday #FlavonoidFriday
 
 <img alt="Dark side of anthocyanin biosynthesis" src="https://pbs.twimg.com/media/GRGXbF8XwAEhbxB?format=jpg&name=large" width="50%" height="50%">
 
@@ -907,7 +907,7 @@ A systematic assessment of dark (almost black) pigmentation of plant structures 
 
 
 ### (93) _ANS_ loss of function underlies yellow raspberry ###
-> **Post:** Loss of ANS activity blocks anthocyanin biosynthesis, explaining the absence of dark pigmentation and resulting in yellow raspberries. #FlavonoidFriday (details: https://lnk.tu-bs.de/SWnFb9)
+> **Post:** Loss of ANS activity blocks anthocyanin biosynthesis, explaining the absence of dark pigmentation and resulting in yellow raspberries. #FlavonoidFriday
 
 <img alt="_ANS_ loss of function underlies yellow raspberry" src="https://pbs.twimg.com/media/GUuK4m-WEAATkuf?format=jpg&name=4096x4096" width="50%" height="50%">
 
@@ -915,7 +915,7 @@ A systematic assessment of dark (almost black) pigmentation of plant structures 
 
 
 ### (94) Genetic Basis of Pigmentation in Sicilian Blood Oranges ###
-> **Post:** Pigmentation in Sicilian blood oranges is driven by a cold-activated Copia-like retrotransposon insertion near the anthocyanin-activating MYB gene Ruby #FlavonoidFriday (details: https://lnk.tu-bs.de/4zY026)
+> **Post:** Pigmentation in Sicilian blood oranges is driven by a cold-activated Copia-like retrotransposon insertion near the anthocyanin-activating MYB gene Ruby #FlavonoidFriday
 
 <img alt="Genetic Basis of Pigmentation in Sicilian Blood Oranges" src="https://pbs.twimg.com/media/GUuLojKWoAAV6Vl?format=jpg&name=large" width="50%" height="50%">
 
@@ -923,7 +923,7 @@ A systematic assessment of dark (almost black) pigmentation of plant structures 
 
 
 ### (95) SlAN1 controls anthocyanin accumulation in tomato fruit tissues ###
-> **Post:** SlAN1, a bHLH transcription factor, limits anthocyanin biosynthesis in tomato fruit. Light-induced anthocyanin production is confined to the peel #FlavonoidFriday (details: https://lnk.tu-bs.de/LX5Vx2)
+> **Post:** SlAN1, a bHLH transcription factor, limits anthocyanin biosynthesis in tomato fruit. Light-induced anthocyanin production is confined to the peel #FlavonoidFriday
 
 <img alt="SlAN1 controls anthocyanin accumulation in tomato fruit tissues" src="https://pbs.twimg.com/media/GUuMczXWIAAFYki?format=jpg&name=large" width="50%" height="50%">
 
@@ -931,7 +931,7 @@ A systematic assessment of dark (almost black) pigmentation of plant structures 
 
 
 ### (96) Mitigating competition of FLS and DFR ###
-> **Post:** How do plants balance FLS and DFR in flavonoid biosynthesis? Through differential expression and substrate preferences. #FlavonoidFriday (details: https://doi.org/10.1371/journal.pone.0305837 & https://lnk.tu-bs.de/YJ1B9o)
+> **Post:** How do plants balance FLS and DFR in flavonoid biosynthesis? Through differential expression and substrate preferences. #FlavonoidFriday (details: https://doi.org/10.1371/journal.pone.0305837)
 
 <img alt="Mitigating competition of FLS and DFR" src="https://pbs.twimg.com/media/GWaP0dzXUAAJ6tR?format=jpg&name=large" width="50%" height="50%">
 
@@ -939,7 +939,7 @@ FLS (Flavonol Synthase) and DFR (Dihydroflavonol 4-reductase) are the first comm
 
 
 ### (97) Functions of anthocyanins ###
-> **Post:** Anthocyanins fulfill diverse physiological and ecological roles, aiding in plant stress response and reproduction #FlavonoidFriday (details: https://doi.org/10.20944/preprints202408.2272.v1 & https://lnk.tu-bs.de/i5mRDs)
+> **Post:** Anthocyanins fulfill diverse physiological and ecological roles, aiding in plant stress response and reproduction #FlavonoidFriday (details: https://doi.org/10.20944/preprints202408.2272.v1)
 
 <img alt="Functions of anthocyanins" src="https://pbs.twimg.com/media/GWaQ5SXWwAIZvwg?format=jpg&name=medium" width="50%" height="50%">
 
@@ -947,7 +947,7 @@ A chemically diverse set of modified anthocyanins fulfills various functions in 
 
 
 ### (98) Flavonoid biosynthesis evolution ###
-> **Post:** Flavonoid biosynthesis is widespread across land plants, but major differences between lineages are still unexplored. A recent review summarizes open questions #FlavonoidFriday: https://lnk.tu-bs.de/RdsqJW
+> **Post:** Flavonoid biosynthesis is widespread across land plants, but major differences between lineages are still unexplored. A recent review summarizes open questions #FlavonoidFriday
 
 <img alt="Flavonoid biosynthesis evolution" src="https://pbs.twimg.com/media/Ga62NH2XcAE1bLE?format=jpg&name=4096x4096" width="50%" height="50%">
 
