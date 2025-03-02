@@ -870,7 +870,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 
 <img alt="Pigmentation loss in _Digitalis purpurea_ flowers (88)" src="https://www.tu-braunschweig.de/fileadmin/_processed_/3/0/csm_Digitalis_purpurea_red_vs_white_3e2235c83e.png" width="50%" height="50%">
 
-[Wolff et al., 2024](https://doi.org/10.1101/2024.02.14.580303) describes the genome sequence and corresponding annotation of _Digitalis purpurea_ (common foxglove). The comparison of red and white flowering plants based on long read sequencing of their genomes. A large insertion in the anthocyanidin synthase (_ANS_) gene is associated with the white flower color. Loss-of-function mutations in _ANS_ have been reported before in the context of anthocyanin loss.
+[Horz et al., 2024](https://doi.org/10.1101/2024.02.14.580303) describes the genome sequence and corresponding annotation of _Digitalis purpurea_ (common foxglove). The comparison of red and white flowering plants based on long read sequencing of their genomes. A large insertion in the anthocyanidin synthase (_ANS_) gene is associated with the white flower color. Loss-of-function mutations in _ANS_ have been reported before in the context of anthocyanin loss.
 
 
 ### (89) BGLU characterizations in _Arabidopsis thaliana_ ###
