@@ -957,6 +957,8 @@ A chemically diverse set of modified anthocyanins fulfills various functions in 
 ### (99) Bean seed color patterns ###
 > **Post:** Seed color patterns in beans are due to sequence variants in genes encoding components of the MBW complex #FlavonoidFriday: https://lnk.tu-bs.de/C0Mcgj
 
+<img alt="Seed color patterns in beans. Reference: https://doi.org/10.1111/tpj.16947" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreihzrpgk5d7djo6vptdtdqwn3zky4fwu5ihtsgwhsz76neojc24ltm@jpeg" width="50%" height="50%">
+
 A recent study by [Parker et al., 2024](https://doi.org/10.1111/tpj.16947) investigated the molecular basis of various seed color patterns and flower colors. A MYB protein (TT2), a bHLH protein (TT8, MYC1), and the WD40 protein TTG1 form the MBW complex, which is well known for regulating anthocyanin and proanthocyanidin biosynthesis. A RIL population analysis revealed several QTLs containing genes encoding these three components of the MBW complex. Multiple alleles of these key regulatory genes have been reported.
 
 
