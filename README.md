@@ -986,7 +986,7 @@ Due to a lack of recent open access publications about the flavonoid biosynthesi
 
 
 ## Contact ##
-Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:b.pucker@tu-braunschweig.de?subject=[GitHub]FlavonoidFriday)
+Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:pucker@uni-bonn.de?subject=[GitHub]FlavonoidFriday)
 
 
 ## References ##
