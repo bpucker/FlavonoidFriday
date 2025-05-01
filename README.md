@@ -370,11 +370,11 @@ _IbGSTF4_ showed strong gene expression in purple-fleshed tissues. A complementa
 
 ### (31) Plant Biotechnology and Bioinformatics group starts research on specialized metabolites at TU Braunschweig ###
 
-> **Post:** Today, @PuckerLab starts research on specialized metabolism at @tuBraunschweig. Genomics & bioinformatics will help to unlock the secrets of plants. Details: [@PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) #PlantSci #FlavonoidFriday
+> **Post:** Today, @PuckerLab starts research on specialized metabolism at @tuBraunschweig. Genomics & bioinformatics will help to unlock the secrets of plants. Details: [@PuckerLab](https://www.mps.uni-bonn.de) #PlantSci #FlavonoidFriday
 
 <img alt="Plant Biotechnology and Bioinformatics (Tweet #31)" src="https://pbs.twimg.com/media/FAl8hVBWQAEFgVe?format=jpg&name=4096x4096" width="50%" height="50%">
 
-Details about the research in the group and open positions can be found on the website: [@PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb).
+Details about the research in the group and open positions can be found on the website: [@PuckerLab](https://www.mps.uni-bonn.de).
 
 
 ### (32) Bifunctional FLS in rapeseed ###
@@ -868,7 +868,7 @@ Loss of anthocyanins have been described in a wide range of different plant spec
 ### (88) Pigmentation loss in _Digitalis purpurea_ flowers ###
 > **Post:** Large insertion in the anthocyanidin synthase (ANS) gene is associated with flower pigmentation loss in Digitalis purpurea (foxglove) #FlavonoidFriday (details: https://doi.org/10.1101/2024.02.14.580303)
 
-<img alt="Pigmentation loss in _Digitalis purpurea_ flowers (88)" src="https://www.tu-braunschweig.de/fileadmin/_processed_/3/0/csm_Digitalis_purpurea_red_vs_white_3e2235c83e.png" width="50%" height="50%">
+<img alt="Pigmentation loss in _Digitalis purpurea_ flowers (88)" src="https://www.biorxiv.org/content/biorxiv/early/2024/02/15/2024.02.14.580303/F1.large.jpg?width=800&height=600&carousel=1" width="50%" height="50%">
 
 [Horz et al., 2024](https://doi.org/10.1101/2024.02.14.580303) describes the genome sequence and corresponding annotation of _Digitalis purpurea_ (common foxglove). The comparison of red and white flowering plants based on long read sequencing of their genomes. A large insertion in the anthocyanidin synthase (_ANS_) gene is associated with the white flower color. Loss-of-function mutations in _ANS_ have been reported before in the context of anthocyanin loss.
 
