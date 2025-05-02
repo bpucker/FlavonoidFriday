@@ -974,6 +974,8 @@ Cornflower, _Centaurea cyanus_, is famous for its striking blue petals. But what
 ### (101) Anthocyanin accumulation in cannabis ###
 > **Post:** Color differences between cannabis accessions can be explained by differential expression of flavonoid biosynthesis genes #FlavonoidFriday: https://lnk.tu-bs.de/8ubwTn
 
+<img alt="Anthocyanin accumulation in cannabis. Reference: [10.1002/pld3.70016](https://doi.org/10.1002/pld3.70016)" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreifsduijdrwdgcwlfd3qdpnppsftukpk4dnhkfbxgvilbq4nhcebau@jpeg" width="30%" height="30%">
+
 A recent study by [Gaglova et al., 2024](https://doi.org/10.1002/pld3.70016) investigated the flavonoid biosynthesis in cannabis (_Cannabis sativa_). Genes encoding core enzymes of the flavonoid biosynthesis were identified based on orthology to previously characterized genes. Differential expression of several genes involved in the flavonoid biosynthesis was observed between cannabis cultivars differing in pigmentation intensity. 
 
 
