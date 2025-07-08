@@ -978,8 +978,9 @@ Cornflower, _Centaurea cyanus_, is famous for its striking blue petals. But what
 
 A recent study by [Gaglova et al., 2024](https://doi.org/10.1002/pld3.70016) investigated the flavonoid biosynthesis in cannabis (_Cannabis sativa_). Genes encoding core enzymes of the flavonoid biosynthesis were identified based on orthology to previously characterized genes. Differential expression of several genes involved in the flavonoid biosynthesis was observed between cannabis cultivars differing in pigmentation intensity. 
 
+### (102) _Digitalis_ flower color variation ###
 
-
+_Digitalis purpurea_ is well known for its large populations displaying bright magenta flowers. However, some individual plants within these populations lack this pigmentation, as evidenced by their white flowers. [Horz et al. (2024)](https://doi.org/10.1101/2024.02.14.580303) discovered that a large DNA insertion in the critical anthocyanidin synthase gene is responsible for disrupting pigment biosynthesis.
 
 
 
