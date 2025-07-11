@@ -16,7 +16,7 @@ Fig. 1: Simplified overview of the flavonoid biosynthesis. (source: [Pucker et a
 Flavonoids are transported from the site of biosynthesis (ER) into the central vacuole. Two potential flavonoid transport routes have been proposed: (1) transport across the tonoplast mediated by membrane-bound transport proteins and (2) vesicle-mediated transport with or without an involvement of the Golgi apparatus (Fig. 2, [Pucker & Selmar, 2022](https://www.mdpi.com/2223-7747/11/7/963/htm)).
 
 <a href="https://www.mdpi.com/2223-7747/11/7/963/htm">
-<img alt="Intracellular flavonoid transport overview" src="https://www.mdpi.com/plants/plants-11-00963/article_deploy/html/images/plants-11-00963-g002.png" width="50%" height="50%">
+<img alt="Intracellular flavonoid transport overview" src="https://www.mdpi.com/plants/plants-11-00963/article_deploy/html/images/plants-11-00963-g002.png" width="600">
 </a>  
 
 Fig. 2: Simplified overview of the intracellular flavonoid transport. (source: [Pucker & Selmar, 2022](https://www.mdpi.com/2223-7747/11/7/963/htm))
