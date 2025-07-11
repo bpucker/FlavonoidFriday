@@ -933,7 +933,7 @@ A systematic assessment of dark (almost black) pigmentation of plant structures 
 ### (96) Mitigating competition of FLS and DFR ###
 > **Post:** How do plants balance FLS and DFR in flavonoid biosynthesis? Through differential expression and substrate preferences. #FlavonoidFriday (details: https://doi.org/10.1371/journal.pone.0305837)
 
-<img alt="Mitigating competition of FLS and DFR" src="https://pbs.twimg.com/media/GWaP0dzXUAAJ6tR?format=jpg&name=large" width="50%" height="50%">
+<img alt="Mitigating competition of FLS and DFR" src="https://pbs.twimg.com/media/GWaP0dzXUAAJ6tR?format=jpg&name=large" width="400">
 
 FLS (Flavonol Synthase) and DFR (Dihydroflavonol 4-reductase) are the first committed enzymes in competing branches of the flavonoid biosynthesis pathway. DFR catalyzes the production of anthocyanins, which contribute to pigmentation in plants, while FLS leads to the formation of flavonols. [Pucker & Choudhary, 2024](https://doi.org/10.1371/journal.pone.0305837) identified several mechanisms that reduce competition between these enzymes. Specific amino acid residues in DFR and FLS are crucial for their substrate preferences, with DFR favoring monohydroxylated substrates (e.g., dihydrokaempferol) and FLS favoring dihydroxylated substrates (e.g., dihydroquercetin). Additionally, _DFR_ and _FLS_ exhibit near-mutual exclusivity in expression across different plant tissues.
 
@@ -941,7 +941,7 @@ FLS (Flavonol Synthase) and DFR (Dihydroflavonol 4-reductase) are the first comm
 ### (97) Functions of anthocyanins ###
 > **Post:** Anthocyanins fulfill diverse physiological and ecological roles, aiding in plant stress response and reproduction #FlavonoidFriday (details: https://doi.org/10.20944/preprints202408.2272.v1)
 
-<img alt="Functions of anthocyanins" src="https://pbs.twimg.com/media/GWaQ5SXWwAIZvwg?format=jpg&name=medium" width="50%" height="50%">
+<img alt="Functions of anthocyanins" src="https://pbs.twimg.com/media/GWaQ5SXWwAIZvwg?format=jpg&name=medium" width="400">
 
 A chemically diverse set of modified anthocyanins fulfills various functions in plants ([Grünig et al., 2024](https://doi.org/10.20944/preprints202408.2272.v1)). Anthocyanins are renowned for imparting red, blue, purple, and black colors to flowers. Beyond coloration, these compounds serve as potent antioxidants, helping plants scavenge reactive oxygen species (ROS). They also protect plants from excessive radiation by blocking light. Additionally, anthocyanins play a crucial role in attracting pollinators and seed dispersers, thus aiding plant reproduction.
 
