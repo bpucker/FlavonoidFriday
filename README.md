@@ -6,7 +6,7 @@ The flavonoid biosnythesis is one of the best studied specialized metabolism pat
 
 
 <a href="https://www.mdpi.com/2223-7747/9/9/1103/htm">
-<img alt="Flavonoid biosynthesis pathway overview" src="https://www.mdpi.com/plants/plants-09-01103/article_deploy/html/images/plants-09-01103-g001.png" width="50%" height="50%">
+<img alt="Flavonoid biosynthesis pathway overview" src="https://www.mdpi.com/plants/plants-09-01103/article_deploy/html/images/plants-09-01103-g001.png"  width="600">
 </a>  
 
 
@@ -33,7 +33,7 @@ While the flavonoid biosynthesis is present in (almost) all land plants, certain
 Do you have a new transcriptome and genome assembly of a plant species? If you are interested in studying the flavonoid biosynthesis, [KIPEs](https://github.com/bpucker/KIPEs) [(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm) could be helpful. KIPEs produces an annotation of the flavonoid biosynthesis players based on knowledge about the flavonoid biosynthesis in other species (Fig. 3). A table of the involved genes and phylogenetic trees of all players in the pathways can serve as basis to investigate the flavonoid biosynthesis in a new species. KIPEs is freely available for download via github. Additionally, we operate a web server for convenient use: [KIPEs web server](https://pbb-tools.de/KIPEs/). The latest version also enables the annotation of the carotenoid biosynthesis: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342).
 
 <a href="https://doi.org/10.1371/journal.pone.0294342">
-<img alt="KIPEs3 workflow" src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0294342.g001" width="50%" height="50%">
+<img alt="KIPEs3 workflow" src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0294342.g001"  width="300">
 </a>  
 
 Fig. 3: KIPEs workflow. (source: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342))
@@ -42,7 +42,7 @@ Fig. 3: KIPEs workflow. (source: [Rempel et al., 2023](https://doi.org/10.1371/j
 Accessions of many plant species lack anthocyanin pigmentation. This is often visible when flowers of individual plants appear white instead of red or blue. These evolutionary color changes are not randomly affecting genes in the anthocyanin biosynthesis, but are mostly affecting transcription factors. The most frequently affected transcription factor in the anthocyanin activating R2R3-MYB. Read more about this topic in a systematic assessment of available studies: [Recinos & Pucker, 2024](https://doi.org/10.1186/s12870-024-05316-w).
 
 <a href="https://doi.org/10.1186/s12870-024-05316-w">
-<img alt="Phylogenetic distribution of anthocyanin loss events" src="https://www.biorxiv.org/content/biorxiv/early/2023/11/10/2023.06.05.543820/F3.large.jpg?width=800&height=600&carousel=1" width="50%" height="50%">
+<img alt="Phylogenetic distribution of anthocyanin loss events" src="https://www.biorxiv.org/content/biorxiv/early/2023/11/10/2023.06.05.543820/F3.large.jpg?width=800&height=600&carousel=1"  width="600">
 </a>  
 
 Fig. 4: Phylogenetic distribution of anthocyanin loss events.
@@ -67,7 +67,7 @@ Grünig _et al._, 2024: Diversity and Ecological Functions of Anthocyanins. doi:
 ### (1) General Flavonoid Biosynthesis Overview ###
 > **Post:** Flavonoids are a large group of phenylalanine-derived specialized metabolites in plants. Branches of the biosynthesis lead to flavonols, anthocyanins, proanthocyanins, flavones, and others. #FlavonoidFriday
 
-<img alt="Flavonoid biosynthesis pathway overview (Tweet #1)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096" width="20%" height="20%">
+<img alt="Flavonoid biosynthesis pathway overview (Tweet #1)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096"  width="600">
 (Figure source: [Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm))
 
 The background about this tweet is described above in the general introduction to the flavonoid biosynthesis.
@@ -76,13 +76,13 @@ The background about this tweet is described above in the general introduction t
 ### (2) Flavonol biosynthesis is an old branch of the flavonoid biosynthesis ###
 > **Post:** Flavonols are an evolutionary old group of flavonoids. Their functions include UV & ROS protection, but also signaling & regulation of developmental processes. Flavonol production is triggered by biotic and abiotic factors #FlavonoidFriday
 
-<img alt="Flavonol biosynthesis pathway (Tweet #2)" src="https://pbs.twimg.com/media/EvVYRu-XUAY864Q?format=png&name=900x900" width="20%" height="20%">
+<img alt="Flavonol biosynthesis pathway (Tweet #2)" src="https://pbs.twimg.com/media/EvVYRu-XUAY864Q?format=png&name=900x900"  width="600">
 
 
 ### (3) Anthocyanins are colourful pigments ###
 > **Post:** Anthocyanins (Greek: 'blue flower') are pigments with pH-dependent colours ranging from red to blue. Their functions include attraction of animals for pollination & seed dispersal, but also protection against abiotic stressors. #FlavonoidFriday
 
-<img alt="Anthocyanins (Tweet #3)" src="https://pbs.twimg.com/media/EvVbCduXMAEDII8?format=jpg&name=medium" width="30%" height="30%">
+<img alt="Anthocyanins (Tweet #3)" src="https://pbs.twimg.com/media/EvVbCduXMAEDII8?format=jpg&name=medium"  width="600">
 
 While anthocyanins are well known for their colour, it is likely that additional functions in stress response might be even more important (reviewed by Landi et al., 2015).
 
@@ -90,7 +90,7 @@ While anthocyanins are well known for their colour, it is likely that additional
 ### (4) Proanthocyanidins are responsible for seed coat colouration ###
 > **Post:** Proanthocyanidins (PA) are responsible for a dark appearance of seed coats. The biosynthesis of PAs is not completely understood and probably differs between species #FlavonoidFriday
 
-<img alt="Proanthocyanidins (Tweet #4)" src="https://pbs.twimg.com/media/EwyzS7hWYAI6zQZ?format=jpg&name=medium" width="30%" height="30%">
+<img alt="Proanthocyanidins (Tweet #4)" src="https://pbs.twimg.com/media/EwyzS7hWYAI6zQZ?format=jpg&name=medium"  width="600">
 
 LAR and ANR are involved in the PA biosynthesis in many species. However, A. thaliana lacks LAR, but is still able to produce proanthocyanidins which provide a dark colouration to the seed coat. This indicates that there must be a PA biosynthesis pathway which does not require LAR.
 
