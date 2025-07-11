@@ -645,7 +645,7 @@ _LaPT2_ is expressed in roots and shows co-expression with _LaF3H1_ and _LaFLS2_
 
 ### (61) KIPEs3 online ###
 
-> **Post:** Automatic annotation of flavonoid biosynthesis genes with KIPEs3 is now available as an online service: http://pbb.bot.nat.tu-bs.de/KIPEs/. Just submit a FASTA file of your species of interest to start the analysis. #FlavonoidFriday (https://doi.org/10.3390/plants9091103)
+> **Post:** Automatic annotation of flavonoid biosynthesis genes with KIPEs3 is now available as an online service: http://pbb-tools.de/KIPEs/. Just submit a FASTA file of your species of interest to start the analysis. #FlavonoidFriday (https://doi.org/10.3390/plants9091103)
 
 <img alt="KIPEs3 online (Tweet #61)" src="https://pbs.twimg.com/media/FRemcC5XEAA1YZN?format=jpg&name=large" width="400">
 
