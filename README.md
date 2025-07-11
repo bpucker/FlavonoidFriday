@@ -981,6 +981,8 @@ A recent study by [Gaglova et al., 2024](https://doi.org/10.1002/pld3.70016) inv
 ### (102) _Digitalis_ flower color variation ###
 > **Post:** Digitalis purpurea (foxglove) usually sports magenta blooms thanks to anthocyanins—but mutations in pigment genes can lead to striking white flowers 🌸 #FlavonoidFriday (https://doi.org/10.1101/2024.02.14.580303 & https://shorturl.at/IA5LZ)
 
+<img alt="_Digitalis_ flower color variation. Reference: [10.1101/2024.02.14.580303](https://doi.org/10.1101/2024.02.14.580303)" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreihpn72tjch3ciebjumlheypkqdtfd7ce67b4xwbcfdpt2n77kam54@jpeg" width="30%" height="30%">
+
 _Digitalis purpurea_ is well known for its large populations displaying bright magenta flowers. However, some individual plants within these populations lack this pigmentation, as evidenced by their white flowers. [Horz et al. (2024)](https://doi.org/10.1101/2024.02.14.580303) discovered that a large DNA insertion in the critical anthocyanidin synthase gene is responsible for disrupting pigment biosynthesis.
 
 
