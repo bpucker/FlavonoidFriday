@@ -109,7 +109,7 @@ Flavonoids are not just responsible for beautiful flower phenotypes. These molec
 
 > **Post:** Pelargonidin, cyanidin, peonidin, delphinidin, petunidin and malvidin are among the most common precursors of anthocyanins. #FlavonoidFriday
 
-<img alt="Colours of Anthocyanins (Tweet #6)" src="https://pbs.twimg.com/media/EygvdJdWEAoTWyK?format=jpg&name=900x900" width="40%" height="40%">
+<img alt="Colours of Anthocyanins (Tweet #6)" src="https://pbs.twimg.com/media/EygvdJdWEAoTWyK?format=jpg&name=900x900" width="400">
 
 Pelargonidin (Pg), cyanidin (Cy), peonidin (Pn), delphinidin (Dp), petunidin (Pt) and malvidin (Mv) are the six most common anthocyanidins ([Sun et al., 2012](https://onlinelibrary.wiley.com/doi/full/10.1002/rcm.6209)). Anthocyanidins are unstable until sugar groups are attached. This modification step converts anthocyanidins (aglycones) into anthcyanins. Anthocyanins are contribute to a wide range of colours ranging from red to mangenta (cyanin), from orange to red (pelargonin), and from magenta to purple (delphinin) ([Ferreyra et al., 2012](https://doi.org/10.3389/fpls.2012.00222)).
 
@@ -119,7 +119,7 @@ Pelargonidin (Pg), cyanidin (Cy), peonidin (Pn), delphinidin (Dp), petunidin (Pt
 > **Post:** While anthocyanins are present in most plant species, they are replaced by another group of pigments in some families of the Caryophyllales: betalains. #FlavonoidFriday
 (src:https://doi.org/10.1111/nph.15980)
 
-<img alt="Replacement of Anthocyanins by Betalains (Tweet #7)" src="https://pbs.twimg.com/media/EzEFv8lWEAAoA3H?format=jpg&name=large" width="30%" height="30%">
+<img alt="Replacement of Anthocyanins by Betalains (Tweet #7)" src="https://pbs.twimg.com/media/EzEFv8lWEAAoA3H?format=jpg&name=large" width="400">
 
 Both pigments (anthocyanins and betalains) were never observed together in the same plant which resulted in the mutual exclusion theory. A molecular mechanism which could cause this mutual exclusion is not known yet. Betalains do not occur in plant species outside the Caryophyllales. The current knowledge about the evolution of the betalain biosynthesis was recently reviewed in [Timoneda et al., 2019](https://doi.org/10.1111/nph.15980).
 
@@ -128,7 +128,7 @@ Both pigments (anthocyanins and betalains) were never observed together in the s
 
 > **Post:** Anthocyanins are not just colourful pigments, but have additional funtions: 1) metal-chelating agent 2) photoprotection & antioxidant 3) modulator of ROS signaling 4) delay of senescence #FlavonoidFriday
 
-<img alt="Anthocyanins - more than just colourful (Tweet #8)" src="https://pbs.twimg.com/media/Ezou1oRWQAApjzb?format=png&name=900x900" width="30%" height="30%">
+<img alt="Anthocyanins - more than just colourful (Tweet #8)" src="https://pbs.twimg.com/media/Ezou1oRWQAApjzb?format=png&name=900x900" width="400">
 
 Anthocyanins are well known for the colouring of flowers and other plant tissue. However, the evolution of these pigments might not only be due to the colour. It is possible that additional functions provided evolutionary advantages. A publication by [Landi et al., 2015](https://doi.org/10.1016/j.envexpbot.2015.05.012) describes some of these functions:
 1) Anthocyanins can serve as metal-chelating agents.
@@ -142,7 +142,7 @@ The functions and possible also additional ones can contribute differently to th
 
 > **Post:** A relative increase of anthocyanin biosynthesis over flavonol biosynthesis seems to explain the leaf colour difference between the Perilla frutescens cultivars JIZI1 and JIZI2. #FlavonoidFriday
 
-<img alt="Red leaf colour of _Perilla frutescens_ (Tweet #9)" src="https://pbs.twimg.com/media/E0MY1HHWQAgGKgN?format=png&name=900x900" width="30%" height="30%">
+<img alt="Red leaf colour of _Perilla frutescens_ (Tweet #9)" src="https://pbs.twimg.com/media/E0MY1HHWQAgGKgN?format=png&name=900x900" width="400">
 
 _Perilla frutescens_ is a Chinese plant with nutritional and medical use. Flavonoids are probably an important factor. The varieties JIZI1 and JIZI2 differ in the (relative) amount of accumulated flavonoids. The green vs. red leaf colour difference indicates that anthocyanins might be involved. Differential expression analysis revealed 15 enzymes involved in this pathway. [Jiang et al., 2020](https://doi.org/10.1038/s41598-020-73274-y) state that 109 flavones, 33 flavonols, 27 flavonoids, 22 anthocyanins, 20 flavanones, and 12 isoflavones differ in their concentration between both cultivars. A gene expression analysis of the flavonoid biosynthesis shows up-regulation of almost all steps except for CHI and FLS. This might suggest (1) a general up-regulation of the pathway and (2) that the flux is directed towards anthocyanins and away from flavonols.
 
@@ -157,7 +157,7 @@ However, several open questions remain:
 
 > **Post:** Anthocyanins are modified by glycosyltransferases, methyltransferases, and acyltransferases. These modifications can stabilize anthocyanins and are responsible for the huge diversity. #FlavonoidFriday
 
-<img alt="Decoration of anthocyanins differs between species (Tweet #10)" src="https://pbs.twimg.com/media/E0xCO0CXEAEA9tq?format=jpg&name=4096x4096" width="30%" height="30%">
+<img alt="Decoration of anthocyanins differs between species (Tweet #10)" src="https://pbs.twimg.com/media/E0xCO0CXEAEA9tq?format=jpg&name=4096x4096" width="400">
 
 [Tohge et al., 2017](https://doi.org/10.1093/jxb/erx177) provide a great summary of the current knowledge about the diversity of the flavonoid decoration/modification steps. While the aglycon biosynthesis is well characterized and highly conserved between species, the modification appears to be more flexible. Generally, sugars can be added at the OH groups at the C3, C5, and C7 positions. Not just single sugars, but also sugar chains or trees can serve as decoration. A recently identified flavonol modifying enzyme is BGLU6 ([Ishihara et al., 2016](https://doi.org/10.1093/jxb/erv546)) which shows differences between A. thaliana accessions i.e. within a species. Therefore, it is not surprising that these decoration pathways are different between plant species.
 
@@ -166,7 +166,7 @@ However, several open questions remain:
 
 > **Post:** Repressors of the anthocyanin biosynthesis are regulated by (1) development, (2) environmental triggers, or (3) plant hormones. Proteins and small RNAs can play a role. #FlavonoidFriday
 
-<img alt="Repressors of the anthocyanin biosynthesis (Tweet #11)" src="https://pbs.twimg.com/media/E1U6b3VX0AAL3o1?format=jpg&name=4096x4096" width="30%" height="30%">
+<img alt="Repressors of the anthocyanin biosynthesis (Tweet #11)" src="https://pbs.twimg.com/media/E1U6b3VX0AAL3o1?format=jpg&name=4096x4096" width="400">
 
 An excellent Tansley review by [LaFountain & Yuan (2021)](https://doi.org/10.1111/nph.17397) summarizes the current knowlege about negative regulators of the anthocyanin biosynthesis and gives perspective for future research. Anthocyanin repressors are generally activated by (1) developmental processes, (2) environmental factors, or (3) plant hormones. Most repressors destablize the MBW complex which would otherwise activate anthocyanin biosynthesis genes. While the first anthocyanin repressors were identified more than 20 years ago, most were discovered in the last decade. Activators of the anthocyanin biosynthesis belong to R2R3-MYB subgroup 6 or 5. In contrast, many repressors fall in subgroup 4.
 1) There are active repressors in subgroup 4, which can be classified into FaMYB1-type and AtMYB4-type. It appears that an EAR motif is crucial for the repressor function. LaFountain & Yuan describe the function of the repressors as a "break" instead of an "off-switch". 
@@ -181,7 +181,7 @@ An excellent Tansley review by [LaFountain & Yuan (2021)](https://doi.org/10.111
 
 > **Post:** Overexpression of poplar MYB117 boosts the anthocyanin biosynthesis. Up-regulation of the flavonoid 3',5'-hydroxylase genes leads to increased B-ring hydroxylation of flavonoids. #FlavonoidFriday
 
-<img alt="MYB117 can boost the anthocyanin biosynthesis in poplar (Tweet #12)" src="https://pbs.twimg.com/media/E144mTUXEAI8rij?format=jpg&name=medium" width="30%" height="30%">
+<img alt="MYB117 can boost the anthocyanin biosynthesis in poplar (Tweet #12)" src="https://pbs.twimg.com/media/E144mTUXEAI8rij?format=jpg&name=medium" width="400">
 
 [Ma et al., 2021](https://academic.oup.com/jxb/article/72/10/3864/6169232?login=true) present the poplar MYB117 as a powerful activator of the anthocyanin biosynthesis. Overexpression under control of the 35S promoters provides a general boost to the anthocyanin biosynthesis. The up-regulation of F3'5'H genes causes an increased B-ring hydroxylation which affects also other branches of the flavonoid biosynthesis. Multiple investigations of several flavonoid biosynthesis activators suggest that different MYBs can fine tune the hydroxylation level of flavonoids. MYB117 sits in an array of six PAP1-type MYBs: MYB113, MYB116, MYB117, MYB118, MYB119, and MYB120.
 
@@ -190,7 +190,7 @@ An excellent Tansley review by [LaFountain & Yuan (2021)](https://doi.org/10.111
 
 > **Post:** Overexpression of the tobacco MYB4 reduces the salt tolerance of seedlings through repression of flavonoid production. The flavonoid biosynthesis is inhibited by down-regulation of the CHS (first step) #FlavonoidFriday
 
-<img alt="Tobacco CHS is crucial for salt tolerance (Tweet #13)" src="https://pbs.twimg.com/media/E2dFaAeXoAAUdjK?format=png&name=small" width="30%" height="30%">
+<img alt="Tobacco CHS is crucial for salt tolerance (Tweet #13)" src="https://pbs.twimg.com/media/E2dFaAeXoAAUdjK?format=png&name=small" width="400">
 
 Salt stress is known to induce the flavonoid biosynthesis. [Chen et al. 2019](https://doi.org/10.3389/fpls.2019.00178) report that rutin content increased in tobacco under salt stress. However, the overexpression of NtMYB4 caused a reduced production of rutin leading to a lower salt tolerance. MYB4 overexpression lines were more similar to the WT when rutin was externally supplied. Rutin is probably involved in reduction of ROS which accumulates under salt stress. It seems that NtMYB is a strong negative regulator of the CHS, but does not affect ANS substantially. However, down-regulation of CHS by RNAi lead to a reduced transcript abundance of the downstream genes.
 
@@ -199,7 +199,7 @@ Salt stress is known to induce the flavonoid biosynthesis. [Chen et al. 2019](ht
 
 > **Post:** TTG2 (WRKY44) influences the seed coat pigmentation through regulation of the epicatechin transport (TT12, AHA10). Formation of a MBW-like complex comprising TTG2+TTG1+TT8 was postulated #FlavonoidFriday
 
-<img alt="TTG2 controls epicatechin transport (Tweet #14)" src="https://pbs.twimg.com/media/E2xycrXWQAEfcLg?format=png&name=900x900" width="30%" height="30%">
+<img alt="TTG2 controls epicatechin transport (Tweet #14)" src="https://pbs.twimg.com/media/E2xycrXWQAEfcLg?format=png&name=900x900" width="400">
 
 [Gonzalez et al., 2016](https://doi.org/10.1016/j.ydbio.2016.03.031) present TTG2 as an important regulator of epicatechin transporters like TT12/MATE and TT13/AHA10. Epicatechins are imported into the vacuoles of seed coats where they are condensed into proanthocyanidins (condensed tannins). Proanthocyanidins (PAs) provide the dark colouration to seeds. There is a large mutant collection comprising lines with specific blocks in the PA biosynthesis or accumulation pathway. These are called transparent testa (tt) mutants [Appelhagen et al., 2014](https://doi.org/10.1007/s00425-014-2088-0). A transcription factor complex of MYB+bHLH+WDR is known to regulate several steps in the flavonoid biosynthesis and especially in the anthocyanin and PA biosynthesis. _TTG2_ (_WRKY44_) expression is controlled by the MBW complex [Ishida et al., 2007](https://doi.org/10.1105/tpc.107.052274). TTG2 shows high binding affinity towards the W box, a motif of (C/T)TGAC(T/C), which was detected in the promoter sequences of many target genes. TTG2 is specific to the PA biosynthesis, because anthocyanins are not affected in the ttg2 mutant. The TT12 promoter region contains several W boxes, but it is not cleary which of them is the actual TTG2 binding site. TT12 overexpression partialy rescued the ttg2 phenotype thus suggesting that this is one of the most important targets. In summary, TTG2 appears to be a regulator of the PA transport pathway.
 
@@ -208,7 +208,7 @@ Salt stress is known to induce the flavonoid biosynthesis. [Chen et al. 2019](ht
 
 > **Post:** TT10 is a laccase-like polyphenol oxidase which appears to be involved in the oxidative polymerization of flavonoids in developing Arabidopsis thaliana seed coats. The TT10 products are responsible for the brown seed color. #FlavonoidFriday
 
-<img alt="Role of TT10 in the seed coloration (Tweet #15)" src="https://pbs.twimg.com/media/E286633XoAQxJZC?format=jpg&name=large" width="30%" height="30%">
+<img alt="Role of TT10 in the seed coloration (Tweet #15)" src="https://pbs.twimg.com/media/E286633XoAQxJZC?format=jpg&name=large" width="400">
 
 [Pourcel et al., 2005](https://dx.doi.org/10.1105%2Ftpc.105.035154) characterized _TRANSPARENT TESTA 10_ (_TT10_) which encodes a laccase-like enzymes which is most likely involved in the oxidative polymerization of epicatechins and catechins in the seed coat of _A. thaliana_. These oxidized compounds provide the brown coloration of seeds. Oxidized forms of colorless epicatechins and catechins are called quinones which turn from yellow to brown with increase in oxidation level. Given the TT10 function, it is not surprising that the _tt10_ mutant shows a delayed appearance of the brown color. None of the other 16 laccase-like proteins in _A. thaliana_ are able to fullfill the TT10 function. Instead an autoxidation is assumed in the _tt10_ mutant. Epicatechin and catechin accumulate in the vacuole, but might be released into the cytoplasm upon cell death through a burst of the vacuole. TT10 would get in contact with its substrates and could produce oxidized and polymerized products. Additionally, TT10 might process PAs in the cell wall. TT10 is also involved in the formation of flavonol dimers (quercetine rhamnoside oxidative polymerization), but this product does not contribute to the brown seed color. Interestingly, it appears that _TT10_ is not regulated by the TT2+TT8+TTG1 complex like other genes in the proanthocyanidin biosynthesis.
 
@@ -218,7 +218,7 @@ Salt stress is known to induce the flavonoid biosynthesis. [Chen et al. 2019](ht
 
 > **Post:** F3'H seems to be a decisive step in the flavonoid biosynthesis of strawberry, because higher gene expression correlates with increased content of specific flavonoids #FlavonoidFriday
 
-<img alt="Phenylpropanoids in strawberry (Tweet #16)" src="https://pbs.twimg.com/media/E4IpNXlVkAAfp2b?format=jpg&name=4096x4096" width="40%" height="40%">
+<img alt="Phenylpropanoids in strawberry (Tweet #16)" src="https://pbs.twimg.com/media/E4IpNXlVkAAfp2b?format=jpg&name=4096x4096" width="400">
 
 Flavonoids have nutritional benefits for humans mostly due to their antioxidant activity. [Pott et al., 2020](https://www.nature.com/articles/s41598-020-76946-x) investigated the flavonoid biosynthesis as well as the general phenylpropanoid biosynthesis in strawberry. The composition and concentration of flavonoids changes during strawberry development: tannins are produced in the early stages and flavonols and anthocyanins in the later stages. Important for the pigmentation of the fruits are glycosylated pelargonidins and cyanidins. The authors investigated the heritability of phenylpropanoid metabolites including flavonoids. QTL for phenylpropanoids were identified, but there is a large number of QTL spanning substantial parts of almost all linkage groups. However, there are hotspots which seem to be associated with multiple phenlypropanoids. An interesting observation is that one copy of the anthocyanin repressor FaMYB was located in a QTL, but the gene expression does not correlate with the investigated flavonoids. The authors present F3'H as a potentially decisive step in the flavonoid biosynthesis that can control the metabolic flux. The correlation of F3'H gene expression correlates with the amount of specific flavonoiods (see paper for details). The substrate specificity of enzymes with respect to hydroxylation patterns needs further investigation.
 
@@ -227,7 +227,7 @@ Flavonoids have nutritional benefits for humans mostly due to their antioxidant 
 
 > **Post:** MED5a & MED5b control the expression of AtMYB4 which interacts with the bHLHs TT8, GL3, and EGL3 leading to a reduced expression of anthocyanin and proanthocyanidin biosynthesis genes #FlavonoidFriday
 
-<img alt="MYB4, MYB7, and MYB32 are anthocyanin repressors (Tweet #17)" src="https://pbs.twimg.com/media/E4tj1ieX0AU-4cw?format=jpg&name=large" width="40%" height="40%">
+<img alt="MYB4, MYB7, and MYB32 are anthocyanin repressors (Tweet #17)" src="https://pbs.twimg.com/media/E4tj1ieX0AU-4cw?format=jpg&name=large" width="400">
 
 [Wang et al., 2019](https://doi.org/10.1111/tpj.14570) report that MYB4, MYB7, and MYB32 interact with the bHLHs TT8, GL3, and EGL3 leading to a repression of the flavonoid biosynthesis. MYB4 is also a direct repressor of Arogenate Dehydratase 6 (ADT6) - the last step in the shikimate biosynthesis, which feeds substrate to the flavonoid biosynthesis. A complex of MED5a and MED5b regulates the gene expression of MYB4, MYB7, and MYB32. If only MED5a is knocked-out, the anthocyanin accumulation is increased due to a reduced expression of the repressors MYB4, MYB7, and MYB32. While MYB4, MYB7, and MYB32 can bind to bHLHs, they do not interact with the anthoyanin activating MYBs. MYB4, MYB7, and MYB32 show different affinities for specific bHLHs suggesting a fine regulation of specific MBW complexes.
 
@@ -237,7 +237,7 @@ Flavonoids have nutritional benefits for humans mostly due to their antioxidant 
 
 > **Post:** pri-miR858a encodes a small peptide which promotes miR858 transcription. miR858a controls lignin and flavonoid biosynthesis through repression of MYB12 #FlavonoidFriday
 
-<img alt="Flavonoid biosynthesis regulator miR858 (Tweet #18)" src="https://pbs.twimg.com/media/E5RYxV0WQAEHYLN?format=jpg&name=large" width="40%" height="40%">
+<img alt="Flavonoid biosynthesis regulator miR858 (Tweet #18)" src="https://pbs.twimg.com/media/E5RYxV0WQAEHYLN?format=jpg&name=large" width="400">
 
 miRNAs are single stranded RNAs that regulate gene expression through increased transcript degradation or repressed translation. These miRNAs can encode small proteins which increase their own transcription. miR858 is a repressor of the MYB11/MYB12/MYB111 transcription. This negative regulation results in reduced flavonol production. [Sharma et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27208307/), [Wang et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27450422/), and [Sharma et al., 2020](https://www.nature.com/articles/s41477-020-00769-x) investigated the functions of miR858. The latest study used a modification via (1) CRISPR/Cas-based modification and (2) supplementation of miPEP858a.
 miPEP858a was identified through the test of all potential ORFs in a GUS fusion experiment. Only one of the potential ORFs was actually translated leading to detectable GUS activity.
@@ -250,7 +250,7 @@ It is known that flavonoids have a negative impact on auxin transportation and p
 
 > **Post:** Accumulation of anthocyanins in the central vacuole leads to a coloration of plant structures. Numerous modifications and degradation determine how quickly the color fades #FlavonoidFriday
 
-<img alt="Anthocyanin degradation (Tweet #19)" src="https://pbs.twimg.com/media/E50YKbgWUAAE8DW?format=jpg&name=medium" width="40%" height="40%">
+<img alt="Anthocyanin degradation (Tweet #19)" src="https://pbs.twimg.com/media/E50YKbgWUAAE8DW?format=jpg&name=medium" width="400">
 
 [Passeri et al., 2016](https://doi.org/10.3389/fpls.2016.00153) reviewed the stabilization of anthocyanins in the vacuole with respect to biotechnological applications. Enriching food with anthocyanins is important, because several studies identified health promoting effects of anthocyanins. Generating new colors through modifications of anthocyanins is of huge importance for the ornamental plant and cut flower industry.
 Anthocyanin decorating enzymes include UDP-glucose:flavonoid 3-O-glucosyltransferase (3UFGT), rhamnosyl transferase (RT), UDP-glucose:flavonoid 5-O-glucosyltransferase (5UFGT), anthocyanin acyltransferase (AAT), and methyltransferase (MT). Expression of the corresponding genes is controlled by the MBW complex. Loss of anthocyanin pigmentation is often caused by mutations in the regulator genes (MYB, bHLH, WDR), because mutations in structural genes would be insufficient or could have pleitropic effects.
@@ -262,7 +262,7 @@ Active degradation of anthocyanins could be catalyzed by polyphenol oxidases if 
 
 > **Post:** Anthocyanins are replaced by betalains in some Caryophyllales. There is a mutual exclusion of both pigments. A species is only anthocyanin-pigmented OR betalain-pigmented #FlavonoidFriday https://rdcu.be/cn0UW
 
-<img alt="Mutual exclusion of anthocyanins and betalains in _Hylocereus_ (Tweet #20)" src="https://pbs.twimg.com/media/E50laJ-XsAMoet0?format=jpg&name=medium" width="40%" height="40%">
+<img alt="Mutual exclusion of anthocyanins and betalains in _Hylocereus_ (Tweet #20)" src="https://pbs.twimg.com/media/E50laJ-XsAMoet0?format=jpg&name=medium" width="400">
 
 A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detection of anthocyanins in the betalain-pigmented genus _Hylocereus_ and stated that anthocyanins are responsible for the red coloration of pitaya fruits. This analysis was based on the comparison of a white, a pink, and a red pitaya cultivar. However, this paper was retracted due to various issues. A [re-analysis](https://doi.org/10.1186/s12870-021-03080-9) of the RNA-seq data sets revealed that transcripts of the anthocyanin biosynthesis genes (_DFR_ & _ANS_) are barely detectable. Moreover, the abundances of these transcripts in different cultivars do not support the corresponding pigment phenotypes. Several studies already reported that betalains are responsible for the red coloration of pitaya fruits. In summary, the re-analysis supports the mutual exclusion paradigm and suggests that not anthocyanin, but betalains, are responsible for the coloration of pitaya fruits.
 
@@ -271,7 +271,7 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 > **Post:** Looking for flavonoid biosynthesis genes/enzymes in a transcriptome or genome assembly? KIPEs can perform this identification automatically in your species of interest: [KIPEs](https://pbb-tools.de/KIPEs/) #FlavonoidFriday
 
-<img alt="KIPEs - automatic identification of flavonoid biosynthesis genes or enzymes (Tweet #21)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096" width="20%" height="20%">
+<img alt="KIPEs - automatic identification of flavonoid biosynthesis genes or enzymes (Tweet #21)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096" width="400">
 
 [KIPEs](https://github.com/bpucker/KIPEs) is freely available via github. Data sets are included to allow the identification of genes/enzymes of the core flavonoid biosynthesis pathway. Additional data sets to find the players of additional reactions are under construction. More pathways will be supported in the future. Please get in touch if you have suggestions for pathways that should be included.
 
@@ -280,7 +280,7 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 > **Post:** Brassinosteroid treatment reduces the flavonoid biosynthesis in apple. BR-induced MdBEH2.2 might form a complex with the anthocyanin regulator MdMYB60 leading to this inhibition #FlavonoidFriday
 
-<img alt="Brassinosteroids inhibit flavonoid biosynthesis in apple (Tweet #22)" src="https://pbs.twimg.com/media/E7hyOQPXMAE8pLf?format=jpg&name=medium" width="20%" height="20%">
+<img alt="Brassinosteroids inhibit flavonoid biosynthesis in apple (Tweet #22)" src="https://pbs.twimg.com/media/E7hyOQPXMAE8pLf?format=jpg&name=medium" width="400">
 
 [Wang et al., 2021](https://doi.org/10.1093/jxb/erab284) investigated the inhibitation of the flavonoid biosynthesis in red-fleshed apple by brassinosteroids. Brassinosteroids (BRs) are steroid hormones with an inibitory effect on the flavonoid biosynthesis. A central inhibitor involved in this process is probably MdBEH2.2 which form a coplex with MdMYB60 leading to an inhibition of this MYB protein. However, many additional proteins are involves in detecting BRs and transmitting the triggered singnal. While treatments with BRs lead to a reduced flavonoid accumulation, the opposite effect was observed in treatments with a BR biosynthesis inhibitor (brassinazole).
 
@@ -289,7 +289,7 @@ A recent publication by Fan et al., 2020 in BMC Plant Biology claimed the detect
 
 > **Post:** Chalcone isomerase-like (CHIL) and pathogenesis-related 10 (PR10) proteins play probably non-enzymatic, but important regulatory roles in the flavonoid biosynthesis #FlavonoidFriday
 
-<img alt="Auxiliary proteins in the flavonoid biosynthesis (Tweet #23)" src="https://pbs.twimg.com/media/E8Fjt8NWYAAELgq?format=jpg&name=4096x4096" width="20%" height="20%">
+<img alt="Auxiliary proteins in the flavonoid biosynthesis (Tweet #23)" src="https://pbs.twimg.com/media/E8Fjt8NWYAAELgq?format=jpg&name=4096x4096" width="400">
 
 Two families of auxiliary proteins are important regulators of the flavonoid biosynthesis ([Dastmalchi, 2021](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.15446)):
 (1) Chalcone isomerase-like (CHIL) proteins bind to CHS and influence the catalyzed reaction. This might be necessary to reduce the promiscuity of CHS, which was observed in _in vitro_ assays. CHILs increased the flavonoid biosynthesis in plants. Loss of this activity can lead to a loss of pigmentation in flower and fruit. These CHILs are closely related to _bona fide_ CHIs and form the type IV CHI clade. Members of the type III CHIs have also been reported to act as polyketide-binding proteins (PBPs). These non-CHI proteins lack the amino acids of the CHI active center and position the ligand naringenin in a non-productive. However, it appears that CHILs are crucial for the coordination between CHS and CHI. It is possible that CHILs influence the biosynthesis of different anthocyanins, but do not alter the overall amount. The R2R3-MYB TT2 was identified as regulator of _A. thaliana_ CHIL.
@@ -301,7 +301,7 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 > **Post:** Flavonoid absorption spectra depend on the pH. Cyanidin- and pelargonidin-based anthocyanins peak in blue-green wavelength at low pH, but shift to longer wavelengths at higher pH #FlavonoidFriday
 
-<img alt="Flavonoid absorption spectra (Tweet #24)" src="https://pbs.twimg.com/media/E8pkBfmWEAQvU1p?format=jpg&name=large" width="20%" height="20%">
+<img alt="Flavonoid absorption spectra (Tweet #24)" src="https://pbs.twimg.com/media/E8pkBfmWEAQvU1p?format=jpg&name=large" width="400">
 
 [Stavenga et al., 2021](https://doi.org/10.3389/fpls.2020.600124) investigated the impact of pH change on the absorption spectra of extracts from flowers. The color of flavonoids accumulating in the central vacuole is generally dependent on the vacuolar pH. Investigated species are the red flowering _Papaver dubium_, the orange flowering _Meconopsis cambrica_, and two _Mandevilla sanderi_ varities that flower in red and white, respectively. The absorption spectra of red extracts from _P. dubium_ flowers can be explained by cyanidin and pelargonidin glycosides. An analysis of _P. rhoeas_ extracts revealed that the contribution of flavonols with the same hydroxylation pattern (kaempferol and quercetin) is rather small. White flowers of _M. sanderi_ show a strong absorption in the UV range indicating the presence of flavonols. Methanolic extracts represent the native plant tissue well. 
 
@@ -310,7 +310,7 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 > **Post:** DFR and F3'5'H are two important genes influencing the petal color of Lysimachia arvensis. Two DFR copies differ in amino acid residues which probably cause substrate affinity changes #FlavonoidFriday
 
-<img alt="Petal color differences in _Lysimachia arvensis_ (Tweet #25)" src="https://pbs.twimg.com/media/E9NpifSXEAAhV8b?format=jpg&name=4096x4096" width="20%" height="20%">
+<img alt="Petal color differences in _Lysimachia arvensis_ (Tweet #25)" src="https://pbs.twimg.com/media/E9NpifSXEAAhV8b?format=jpg&name=4096x4096" width="400">
 
 [Sanchez-Cabera et al.](https://www.frontiersin.org/articles/10.3389/fpls.2021.633979/full) investigated the flower color transition from blue to orange in _Lysimachia arvensis_ based on a transcriptomic data sets. Blue and orange flowered _L. arvensis_ plants can be found across Europe. Interestingly, the proportion of blue-flowered plants increases with temperature and daylength, while higher precipitation leads to a decrease. 39 of all 140 genes associated with the flavonoid biosynthesis showed differential expression. _F3'5'H_ and _DFR_ were among these DEGs. _F3'5'H_ showed reduced expression in orange petals and two DFR copies revealed differential expression. These DFR copies showed amino acid substitutions that affected the substrate specificity region: primarily malvidin (blue) to primarily pelargonidin (orange). A phylogenetic analysis revealed that these DFR copies belong to two distinct lineages that resulted from a duplication deep in the angiosperms. Another important factor for the orange coloration is probably the high abundance of BZ1-2 which adds a glucose to the 3-position of anthocyanidins. Blue petals showed high abundance of OMT (methylation of delphinidin) and 3GT (adds rhamnoside), which are probably required for stabilization of the pigments. 
 
@@ -319,7 +319,7 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 > **Post:** Microscopic analysis of anthocyanin patterns in _Cosmos caudatus_ reveals pigmentation of individual cells in the epidermis #FlavonoidFriday
 
-<img alt="Flavonoid biosynthesis in _Cosmos caudatus_ (Tweet #26)" src="https://pbs.twimg.com/media/E9xFDprXsAQ8pet?format=jpg&name=large" width="20%" height="20%">
+<img alt="Flavonoid biosynthesis in _Cosmos caudatus_ (Tweet #26)" src="https://pbs.twimg.com/media/E9xFDprXsAQ8pet?format=jpg&name=large" width="400">
 
 [Gunasekaran et al., 2021](https://doi.org/10.3390/agronomy11040661) looked at the anthocyanin biosynthesis in _Cosmos caudatus_ with omics and microscopic methods. The microscopic analysis revealed strong pigmentation of individual cells in the epidermis of different plant parts. It would be very interesting to understand how this pigmentation pattern emerges. For example, it would be exciting to see if the F3'5'H expression correlates with the blue pigmentation. A connection of the metabolite levels (Fig.7) with the gene expression in the same tissue could help to answer such questions.
 
@@ -330,7 +330,7 @@ BLAST does not perform a search for "homology", but only identifies similar sequ
 
 > **Post:** Color differences of poplar leaves involve an up-regulation of HY5, HYH, and TTG2 which activate the anthocyanin biosynthesis #FlavonoidFriday
 
-<img alt="Red poplar leaves (Tweet #27)" src="https://pbs.twimg.com/media/E9x2l17XEAA7WsG?format=jpg&name=large" width="20%" height="20%">
+<img alt="Red poplar leaves (Tweet #27)" src="https://pbs.twimg.com/media/E9x2l17XEAA7WsG?format=jpg&name=large" width="400">
 
 [Chen et al., 2021](https://doi.org/10.1007/s11103-021-01166-4) investigated the molecular mechanisms underlying the color differences of poplar leaves. Analyses on the transcriptomic and proteomic level were combined. The transcription factors HY5, HYH, and TTG2 appeared to be involved in the up-regulation of anthocyanin biosynthesis in red leaves. Anthocyanins are presented as the major factor responsible for the color change from green to red. There seems to be a negative correlation between the chlorophyll and the anthocyanin content in some cases. 
 
@@ -344,7 +344,7 @@ While this study provides first insights, there are also several open questions:
 
 > **Post:** RsGST1 is involved in anthocyanin and proanthocyanidin accumulation in radish #FlavonoidFriday
 
-<img alt="Radish GST involved in anthocyanin transport (Tweet #28)" src="https://pbs.twimg.com/media/E-qxzOhWUAEbS6E?format=jpg&name=large" width="20%" height="20%">
+<img alt="Radish GST involved in anthocyanin transport (Tweet #28)" src="https://pbs.twimg.com/media/E-qxzOhWUAEbS6E?format=jpg&name=large" width="400">
 
 [Lai et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34247029/) identified and characterized RsGST1 in radish which can complement _Arabidopsis thaliana tt19_ (_gstf12_) mutants. This indicates that this gluthathione S-transferase is involved in the anthocyanin accumulation in the vacuole. RsGST1 was identified from a set of 40 GST members in radish. Additional evidence came from a higher expression of _RsGST1_ in red tissues compared to white ones. Overexpression of _RsGST1_ alone does not increase the anthocyanin biosynthesis. Overexpression of _RsGST1_ and the anthocyanin activating _RsMYB1a_ increased anthocyanin production and accumulation. It was also demonstrated that RsMYB1a is a transcriptional activator of _RsGST1_.
 
@@ -353,7 +353,7 @@ While this study provides first insights, there are also several open questions:
 
 > **Post:** Artificial production of anthocyanins in the betalain-pigmented cactus Astrophytum myriostigma through heterologous expression of anthocyanin biosynthesis genes #FlavonoidFriday
 
-<img alt="Artificial producation of anthocyanins in the betalain-pigmented cactus (Tweet #29)" src="https://pbs.twimg.com/media/E-q5QKBXMAAo5xZ?format=jpg&name=large" width="40%" height="40%">
+<img alt="Artificial producation of anthocyanins in the betalain-pigmented cactus (Tweet #29)" src="https://pbs.twimg.com/media/E-q5QKBXMAAo5xZ?format=jpg&name=large" width="400">
 
 [Sakuta et al., 2021](https://doi.org/10.1007/s10265-021-01341-0) achieved the artificial production of anthocyanins in a betalain-pigmented species. Naturally, anthocyanins and betalains are mutually exclusive (they do not co-occur in the same plant species) as recently reviewed [Timoneda et al., 2019](https://doi.org/10.1111/nph.15980). Overexpression of the anthocyanin biosynthesis genes _DFR_ and _ANS_ along with the anthocyanin transport factor _AN9_ in the cactus _Astrophytum myriostigma_ resulted in anthocyanin pigmentation. The authors postulate that a lack of transcriptional activation by the MYB transcription factor could be the reason for the lack of anthocyanin producation in betalain-pigmented species.
 
@@ -362,7 +362,7 @@ While this study provides first insights, there are also several open questions:
 
 > **Post:** IbGSTF4 was identified as an anthocyanin transport-associated protein in sweetpotato. Gene expression correlates with anthocyanin pigmentation and the tt19 mutant was complemented #FlavonoidFriday
 
-<img alt="Anthocyanin transport in sweetpotato (Tweet #30)" src="https://pbs.twimg.com/media/E-rcudkXEAIh04S?format=jpg&name=large" width="40%" height="40%">
+<img alt="Anthocyanin transport in sweetpotato (Tweet #30)" src="https://pbs.twimg.com/media/E-rcudkXEAIh04S?format=jpg&name=large" width="400">
 
 [Kou et al., 2019](https://doi.org/10.1016/j.plaphy.2018.12.028) identified a glutathione S-transferase in sweetpotato (_IbGSTF4_, _Ipomoea batatas_) that is involved in the anthocyanin transport. The first evidence for the identification was high sequence similarity to the previously chracterized AN9 in petunia.
 _IbGSTF4_ showed strong gene expression in purple-fleshed tissues. A complementation of the _Arabidopsis thaliana tt19_ mutant with _IbGSTF4_ was successful. _IbGSTF4_ expression was not activated by the anthocyanin regulating MYB (IbMYB1).
@@ -372,16 +372,16 @@ _IbGSTF4_ showed strong gene expression in purple-fleshed tissues. A complementa
 
 > **Post:** Today, @PuckerLab starts research on specialized metabolism at @tuBraunschweig. Genomics & bioinformatics will help to unlock the secrets of plants. Details: [@PuckerLab](https://www.mps.uni-bonn.de) #PlantSci #FlavonoidFriday
 
-<img alt="Plant Biotechnology and Bioinformatics (Tweet #31)" src="https://pbs.twimg.com/media/FAl8hVBWQAEFgVe?format=jpg&name=4096x4096" width="50%" height="50%">
+<img alt="Plant Biotechnology and Bioinformatics (Tweet #31)" src="https://pbs.twimg.com/media/FAl8hVBWQAEFgVe?format=jpg&name=4096x4096" width="400">
 
-Details about the research in the group and open positions can be found on the website: [@PuckerLab](https://www.mps.uni-bonn.de).
+Details about the research in the group and open positions can be found on the website: [@PuckerLab](https://www.pbb.uni-bonn.de).
 
 
 ### (32) Bifunctional FLS in rapeseed ###
 
 > **Post:** A flavonol derivative is a major off-taste component in rapeseed protein isolates preventing use in human consumption. Read about bifunctional FLS in B. napus seeds: [paper](https://doi.org/10.1101/2021.06.30.450533) #FlavonoidFriday
 
-<img alt="Bifunctional FLS in rapeseed (Tweet #32)" src="https://pbs.twimg.com/media/FAZXihWVQAUhCDS?format=jpg&name=4096x4096" width="50%" height="50%">
+<img alt="Bifunctional FLS in rapeseed (Tweet #32)" src="https://pbs.twimg.com/media/FAZXihWVQAUhCDS?format=jpg&name=4096x4096" width="400">
 
 [Schilbert et al., 2021](https://doi.org/10.1101/2021.06.30.450533) characterized the FLS gene family in _Brassica napus_.
 
@@ -390,7 +390,7 @@ Details about the research in the group and open positions can be found on the w
 
 > **Post:** New to flavonoids? They are exciting! Diverse in structure, function, and color. Promiscutity of the biosynthesis and decorating enzymes leads to a plethora of metabolites #FlavonoidFriday
 
-<img alt="New to flavonoids? (Tweet #33)" src="https://pbs.twimg.com/media/FBrywCIXIAg1Z_-?format=jpg&name=4096x4096" width="50%" height="50%">
+<img alt="New to flavonoids? (Tweet #33)" src="https://pbs.twimg.com/media/FBrywCIXIAg1Z_-?format=jpg&name=4096x4096" width="400">
 
 If you are new to flavonoids, you can get an introduction into the genes involved in the biosynthesis [here](https://www.mdpi.com/2223-7747/9/9/1103/htm). The biosynthesis is always displayed in a simplified way, because the number of modifying enzymes is huge. There are glycosyltransferases, methyltransferases, acyltransferases ... that can act on various flavonoids. Promiscuity of these enzymes is a major factor that leads to a plethora of different metabolites in plants.
 
@@ -399,7 +399,7 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 
 > **Post:** Red pigmentation of _Padus virginiana_ leaves is largely dependent on activity of the anthocyanidin glycosyltransferases #FlavonoidFriday
 
-<img alt="Chokecherry pigmentation (Tweet #34)" src="https://pbs.twimg.com/media/FCQLc_7WUBIWYrU?format=jpg&name=large" width="30%" height="30%">
+<img alt="Chokecherry pigmentation (Tweet #34)" src="https://pbs.twimg.com/media/FCQLc_7WUBIWYrU?format=jpg&name=large" width="400">
 
 [Li et al., 2021](https://doi.org/10.3390/ijms221910697) identified the anthocyanin glycosyltransferases in _Padus virginiana_ (chokecherry) as the bottleneck in the coloration of leaves. Homologs of BZ1 and other flavonoid glucosyltransferases show substantially increased gene expression in red leaves compared to green leaves. This tree is an important ornamental species thus understanding the mechanism could pave the way for improvements.
 
@@ -408,7 +408,7 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 
 > **Post:** Upregulation of the anthocyanin biosynthesis by OsC1 improves the stress tolerance of rice #FlavonoidFriday
 
-<img alt="Black rice pigmentation (Tweet #35)" src="https://pbs.twimg.com/media/FCzqyflXMAQPRnI?format=jpg&name=medium" width="30%" height="30%">
+<img alt="Black rice pigmentation (Tweet #35)" src="https://pbs.twimg.com/media/FCzqyflXMAQPRnI?format=jpg&name=medium" width="400">
 
 [Upadhyaya et al., 2021](https://doi.org/10.1111/ppl.13583) investigated the tissue-specific regulation of anthocyanin biosynthesis in rice through the comparison of white and black accessions. _OsC1_, a gene encoding a R2R3-MYB transcription factor, was overexpressed in white rice to study its function. Developmental stages of white and black rice were compared and revealed a strong correlation between the antioxidant activity and the anthocyanin level (mostly cyanidin 3-glucoside). Overexpression of _OsC1_ resulted in elevated expression levels of the anthocyanin biosynthesis genes. The OX lines also showed a lower production of reactive oxyen species (ROS), less photosynthetic damage, and less membrane damage. Natural expression of _OsC1_ correlates with the expression of anthocyanin biosynthesis genes in black rice panicle.
 
@@ -417,7 +417,7 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 
 > **Post:** Hydroxylation patterns of anthocyanins and flavonols are well correlated in the flowers of Iochrominae, but correlation is low between flower and leaves #FlavonoidFriday
 
-<img alt="Hydroxylation patterns of flavonoids (Tweet #36)" src="https://pbs.twimg.com/media/FDX0_-qXEAES_0p?format=jpg&name=large" width="30%" height="30%">
+<img alt="Hydroxylation patterns of flavonoids (Tweet #36)" src="https://pbs.twimg.com/media/FDX0_-qXEAES_0p?format=jpg&name=large" width="400">
 
 [Berardi et al., 2016](http://dx.doi.org/10.1016/j.phytochem.2016.05.007) investigated the hydroxylation patterns of flavonoids in Iochrominae (Solanaceae). Anthocyanins and flavonols can have between one and three hydroxy groups which determine their biochemical properties. The color of anthocyanins depends on the hydroxylation state with trihydroxylated anthocyanins appearing as blue pigments. The most abundant anthocyanin usually determines the observed flower color, but other pigments like carotenoids can have an influence. Different Iochrominae were analyzed with respect to the abundance of differently hydroxylated flavonoids. Species with a high amount of trihydroxylated anthocyanins also showed a high amount of trihydroxylated flavonols (myricetin glcyosides). Species with a high amount of dihydroxylated anthocyanins also showed a high amount of dihydroxylated flavonols (quercetin glcyosides). Species with a high amount of monohydroxylated anthocyanins also showed a high amount of monohydroxylated flavonols (kaempferol glcyosides). Myricetin was only detected in the purple flowers probably due to the exclusive presence of F3'5'H in these flowers.
 
@@ -426,7 +426,7 @@ If you are new to flavonoids, you can get an introduction into the genes involve
 
 > **Post:** Anthocyanins appear in a wide range of colors depending on decorations/modification of Pelargonidin, Cyanidin, Delphinidin, Peonidin, Petunidin, Malvidin (and more) #FlavonoidFriday
 
-<img alt="Anthocyanin colors (Tweet #37)" src="https://github.com/bpucker/figures/blob/main/FlavonoidFriday_AnthocyaninColors.png?raw=true" width="50%" height="50%">
+<img alt="Anthocyanin colors (Tweet #37)" src="https://github.com/bpucker/figures/blob/main/FlavonoidFriday_AnthocyaninColors.png?raw=true" width="400">
 (original figure contained a mistake concerning the structures)
 
 Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ in the number of hydroxy groups. The color ranges from orange over purple to blue. Additional modifications are Peonidin (O-methylated Cyanidin), Petunidin (O-methylated Delphinidin), and Malvidin (2x O-methylated Delphinidin). The addition of sugar moieties turns the anthocyanidins into anthocyanins.
@@ -436,7 +436,7 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 
 > **Post:** Potato tubers accumulate anthocyanins and maintain stable levels, while purple-fruited genotypes of eggplant and pepper show high levels in unripe fruits which decrease during ripening #FlavonoidFriday
 
-<img alt="Anthocyanin degradation (Tweet #38)" src="https://pbs.twimg.com/media/FEga17BWYAsw2A3?format=jpg&name=large" width="30%" height="30%">
+<img alt="Anthocyanin degradation (Tweet #38)" src="https://pbs.twimg.com/media/FEga17BWYAsw2A3?format=jpg&name=large" width="400">
 
 [Liu et al., 2018](https://doi.org/10.3389/fchem.2018.00052) reviewed anthocyanin degradation mechanisms in the Solanaceous vegetables. The color of eggplant, pepper, and potato is influenced by anthocyanins. Besides the well characterized biosynthesis the degradation of anthocyanins also contributes to the observed pigment levels. There is a genetic factor that influences the speed of the anthocyanin degradation. However, the molecular mechanism of this degradation remains largely unknown. Potential degradation pathways are (1) oxidation by a peroxidase and (2) deglycosylation by a ß-glucosidase and oxidation by a polyphenol oxidase or peroxidase.
 
@@ -445,7 +445,7 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 
 > **Post:** Flavanone 3-hydroxylase (F3H), flavonol synthase (FLS), and anthocyanidin synthase (ANS) belong to the 2-oxoglutarate-dependent dioxygenase (ODD) gene family #FlavonoidFriday
 
-<img alt="Banana ODDs (Tweet #39)" src="https://pbs.twimg.com/media/FFEpJjXXMA41eib?format=jpg&name=4096x4096" width="30%" height="30%">
+<img alt="Banana ODDs (Tweet #39)" src="https://pbs.twimg.com/media/FFEpJjXXMA41eib?format=jpg&name=4096x4096" width="400">
 
 [Busche et al., 2021](https://doi.org/10.3389/fpls.2021.701780) characterized three members of the 2-oxoglutarate-dependent dioxygenase (ODD) family in _Musa acuminata_. First, flavanone 3-hydroxylase (F3H), flavonol synthase (FLS), and anthocyanidin synthase (ANS) functions were checked through a bioconversion assay. Next, these functions were also validated _in planta_ through complementation of the corresponding _Arabidopsis thaliana_ mutant lines. This study provides the basis for genetic engineering of banana plants towards enhanced antioxidant activity and increased nutritional value (biofortification).
 
@@ -454,7 +454,7 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 
 > **Post:** Proanthocyanidins (PAs) comprise 2-30 subunits. Polymerization of the flavan-3-ol subunits still poses many questions #FlavonoidFriday
 
-<img alt="Proanthocyanidins (Tweet #40)" src="https://pbs.twimg.com/media/FFoEofZX0AMEK5x?format=jpg&name=medium" width="30%" height="30%">
+<img alt="Proanthocyanidins (Tweet #40)" src="https://pbs.twimg.com/media/FFoEofZX0AMEK5x?format=jpg&name=medium" width="400">
 
 [Constable, 2018](https://pubs.acs.org/doi/10.1021/acs.jafc.8b02950) reviews the current knowlede about proanthocyanidins (PAs). While the biosynthesis of the flavan-3-ol precursors is well understood, the polymerization to PAs still poses questions. 2,3-cis-flavan-3-ols (epicatechin, epigallocatechin) and 2,3-trans-flavan-3-ols (catechin, gallocatechin) are PA subunits. Between 2 and 30 of these subunits are connected in the polymerization process. PAs are abundant in trees and in the coats of seeds. Living tissues contain PAs in the central vacuole. It is assumed that MATE transporteres are required to import 3-O-glycosylated precursors thus the polymerization might happen in the vacuole. The closely related species _Populus angustifolia_ and _P. fremontii_ differ substantially in their polymer size thus indicating an enzymatic basis. The hydroxylation of the B-ring can differ between precursors with procyanidin-type subunits beeing the most abundant onces in most species. The biosynthesis of prodelphinidin-type precursors requires F3'5'H activity. Further decoration of PAs with acyl groups is possible and might boost their health benefits.
 
@@ -463,7 +463,7 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 
 > **Post:** MYB (C1), bHLH (S1), and DFR (A1) control the pigmentation of rice. Loss of purple hull color occurred independently in many cultivars #FlavonoidFriday
 
-<img alt="Loss of rice pigments (Tweet #41)" src="https://pbs.twimg.com/media/FCzqyflXMAQPRnI?format=jpg&name=medium" width="30%" height="30%">
+<img alt="Loss of rice pigments (Tweet #41)" src="https://pbs.twimg.com/media/FCzqyflXMAQPRnI?format=jpg&name=medium" width="400">
 
 [Sun et al., 2018](https://academic.oup.com/jxb/article/69/7/1485/4816143) studied the C-S-A gene system that controls the hull pigmentation in rice. _C1_ encodes a R2R3-MYB transcription factors, _S1_ encodes a bHLH protein, and _A1_ encodes the anthocyanin biosynthesis enzyme DFR. A genetic investigation of differently pigmented mutants (brown, purple, yellow) revealed that three loci are involved in the control of hull pigmentation. Epistasis was inferred from crossing experiments. The interaction between the MYB C1 and the bHLH S1 was demonstrated in yeast-two-hybrid experiments. Interestingly, anthocyanins are only produced in the purple pigmented cultivars with cyanidin 3-O-glucoside beeing one major contributor. The loss of this pigmentation occurred independently in _Oryza sativa_ and _Oryza japonica_. Different molecular events were identified within both species thus suggesting multiple independent losses. Black pigmentation is the results of a gain-of-function mutation in the bHLH.
 
@@ -472,7 +472,7 @@ Pelargonidin, Cyanidin, and Delphinidin are the first anthocyanidins and differ 
 
 > **Post:** Biochemical diversity of flavonoids is based on hydroxylation, glycosylation, methylation, acylation, and many other modifications #FlavonoidFriday
 
-<img alt="Biochemical diversity of flavonoids (Tweet #42)" src="https://pbs.twimg.com/media/FGgMKCDWQAI4B_8?format=jpg&name=4096x4096" width="50%" height="50%">
+<img alt="Biochemical diversity of flavonoids (Tweet #42)" src="https://pbs.twimg.com/media/FGgMKCDWQAI4B_8?format=jpg&name=4096x4096" width="400">
 
 Hydroxylation patterns and other modifications of the aglcyon distinguish between different types of flavonoids. Aglycons can be modified through the successive addition of sugar moieties. The 3 and 5 position of the C ring are most frequently modified. Different sugar groups and can be attached by a large set of different glycosyltransferases as recently reviewed by [Tohge et al., 2017](https://doi.org/10.1093/jxb/erx177).
 
@@ -481,7 +481,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 > **Post:** Euphorbia pulcherima cultivar 'Harvest Orange' has a frameshift mutation in the flavonoid 3'-hydroxylase gene (non-functional enzyme) compared to ‘Christmas Beauty’ and ‘Christmas Feeling’ #FlavonoidFriday
 
-<img alt="Red pigmentation of poinsettia (Tweet #43)" src="https://pbs.twimg.com/media/FGgM-kRXoAU7X2M?format=jpg&name=large" width="50%" height="50%">
+<img alt="Red pigmentation of poinsettia (Tweet #43)" src="https://pbs.twimg.com/media/FGgM-kRXoAU7X2M?format=jpg&name=large" width="400">
 
 [Nitarska et al., 2018](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1424-0) investigated red hues in the bracts of different _Euphorbia pulcherima_ cultivars. Dark red coloration of the cultivars ‘Christmas Beauty’ and ‘Christmas Feeling’ is based on cyanidin derivatives. Other cultivars show an orange-red bract color that is caused by pelargonidin derivatives. DFRs of _E. pulcherima_ prefer dihydromyricetin and dihydroquercetin over dihydrokaempferol thus producing more cyanidin than pelargonidin. A frameshift mutation in the F3'H of 'Harvest Orange' results in a premature stop codon and an inactive enzyme. Although this cultivar is heterozygot for this mutation, only the non-functional allele is expressed in the bracts.
 
@@ -490,7 +490,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 > **Post:** Gene expression changes in chlorophyll and flavonoid biosynthesis are associated with color changes in Pennisetum setaceum ‘Rubrum’ upon changes of sun light exposure #FlavonoidFriday
 
-<img alt="Red leaves of _Pennisetum setaceum_ 'Rubrum' (Tweet #44)" src="https://pbs.twimg.com/media/FGgN_MPWYAE3GBC?format=jpg&name=medium" width="50%" height="50%">
+<img alt="Red leaves of _Pennisetum setaceum_ 'Rubrum' (Tweet #44)" src="https://pbs.twimg.com/media/FGgN_MPWYAE3GBC?format=jpg&name=medium" width="400">
 
 [Zhu et al., 2020](https://doi.org/10.1371/journal.pone.0242618) investigated the genes responsible for the redish pigmentation of the ornamental grass _Pennisetum setaceum_ 'Rubrum'. The redish pigmentation is induced by light exposure.  An RNA-seq experiment was performed to find differences in genes expression between leaves in the dark and those exposed to strong sun light. T0 are leaves under normal condition. These leaves turn green if shading is provided for 12 days (T1). The leaves turn red again if exposed to sun light (T2, T3, T4). RNA-seq revealed that the chlorophyll biosynthesis is activated when leaves are moved from light exposure to shadow. Genes involved in the flavonoid biosynthesis showed down-regulation once the sun light is blocked off. This can explain the shift from red to green when protecting plants from the sun light. The color changes back to redish once the plants are exposed to sun light again.
 
@@ -499,7 +499,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 > **Post:** Starting 2022 with research on flavonoids? KIPEs can help you to find the flavonoid biosynthesis genes in your plant species of interest: [KIPEs paper](https://www.mdpi.com/2223-7747/9/9/1103/htm) #FlavonoidFriday
 
-<img alt="KIPEs (Tweet #45)" src="https://pbs.twimg.com/media/FGgOhLZXIAUJqTh?format=jpg&name=4096x4096" width="50%" height="50%">
+<img alt="KIPEs (Tweet #45)" src="https://pbs.twimg.com/media/FGgOhLZXIAUJqTh?format=jpg&name=4096x4096" width="400">
 (Figure source: doi:[10.3390/plants9091103](https://www.mdpi.com/2223-7747/9/9/1103/htm))
 
 [KIPEs](https://github.com/bpucker/KIPEs) can be applied to identify the genes of the flavonoid biosynthesis in a species with a new transcriptome/genome sequence assembly. This can be helpful to understand stress response or pigmentation patterns. Details are described in the corresponding publication ([Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm)).
@@ -509,7 +509,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 > **Post:** Engineered anthocyanin biosynthesis allows modulation of tomato fruit colours ranging from 'Crimson' over 'Magenta' to 'Indigo' #FlavonoidFriday
 
-<img alt="Tomato fruit colours (Tweet #46)" src="https://pbs.twimg.com/media/FJDmK64XsAU4u3J?format=jpg&name=large" width="50%" height="50%">
+<img alt="Tomato fruit colours (Tweet #46)" src="https://pbs.twimg.com/media/FJDmK64XsAU4u3J?format=jpg&name=large" width="400">
 
 [Butelli et al., 2021](https://doi.org/10.3390/horticulturae7090327) genetically modified tomatoes to achieve different colouration of the fruits. Naturally, the fruit is not coloured by anthocyanins, but by carotenoids. The heterologous expression of the three transcription factors _AmDel_ (bHLH), _AmRos1_ (MYB), and _AtMYB12_ together with _AmDFR_ and combined with a f3'5'h mutation (premature stop codon) allowed to span a huge range of fruit colours. The constructed lines differ in the major anthocyanin that is produced: pelanin in 'Crimson', peonanin in 'Magenta', and petanin in 'Indigo'. 
 
@@ -518,7 +518,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 > **Post:** Carrots are usually orange due to carotenoids, but high levels of anthocyanins can result in purple or black coloration of carrots #FlavonoidFriday
 
-<img alt="Anthocyanins in carrots (Tweet #47)" src="https://pbs.twimg.com/media/FJXUXnOX0AUpWd1?format=jpg&name=4096x4096" width="50%" height="50%">
+<img alt="Anthocyanins in carrots (Tweet #47)" src="https://pbs.twimg.com/media/FJXUXnOX0AUpWd1?format=jpg&name=4096x4096" width="400">
 
 [Iorizzo et al., 2020](https://www.mdpi.com/2073-4425/11/8/906) reviewed the anthocyanin biosynthesis in carrots. Carrot extracts are used as "natural" colorants of nutritional products. Anthocyanins are approved in the USA and Europe, but products must be labeld with E163 to show that these pigments are included. Carrots are rich in anthocyanins and lack off-taste components that are preventing the use of other plant species. The wide color range of these anthocyanins is another advantage. Anthocyanins account for a major fraction of the phenolic compounds in carrots. Purple carrots have often five different types of cyanidin glycosides (2 are non-acylated and 3 are acylated). Many studies reported a dominance of the acylated anthocyanins over the non-acylated anthocyanins. Acylation with ferulic (Cy3XFGG), sinapic (Cy3XSGG), and coumaric acid (Cy3XCGG) are the most abundant cyanidin glycoside modifcations in carrot roots. These acylated anthocyanins are better suited for food coloration than non-acylated anthocyanins due to their higher stability at higher pH values. Four major quantitative trait loci (QTL) were identified that are responsible for the purple pigmentation of carrots. In total, 159 potential anthocyanin biosynthesis genes were detected in the carrot genome sequence annotation. No _F3'5'H_ was identified suggesting that it is not present in carrots. _FNS_ and _FLS_ show low expression in roots of purple carrots suggesting that substrate competition needs to be avoided for high anthocyanin formation. _DFR1_ was found to be up-regulated in all studies suggesting that this is a crucial point in controlling the anthocyanin content. DcMYB6 was identified as important anthocyanin activator in some, but not in all purple cultivars. DcMYB7 and DcMYB113 were identified as additional anthocyanin activators. These MYBs might activate the anthocyanin biosynthesis in slightly different ways resulting in different ratios of anthocyanin types. A bHLH transcription factor and a GST were identified in other QTL. The modification of anthocyanin biosynthesis genes by genome editing or the application of co-pigmentation could be future research fields.
 
@@ -527,7 +527,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 > **Post:** Increase in the vacuolar pH of Ipomoea tricolor results in a color change from purplish red to blue. NHX1 imports Na+ into the vacuole in exchange for H+ #FlavonoidFriday
 
-<img alt="Anthocyanin color change (Tweet #48)" src="https://pbs.twimg.com/media/FKF-MCWWUAM1LcJ?format=jpg&name=4096x4096" width="50%" height="50%">
+<img alt="Anthocyanin color change (Tweet #48)" src="https://pbs.twimg.com/media/FKF-MCWWUAM1LcJ?format=jpg&name=4096x4096" width="400">
 
 [Yoshida et al., 2005](https://academic.oup.com/pcp/article/46/3/407/1817366) observed that a shift in the vacuolar pH of _Ipomoea tricolor_ (morning glory) from 6.6 to 7.7 results in a color change from purplish red to blue. Generally, a shift towards alkaline pH in anthocyanin-pigmented plants leads to blue coloration while a shift towards acidic pH shifts the color back to red. A Na+/H+ exchanger (NHX1) was identified in the tonoplasts of _I. tricolor_ petals. This transporter is most likely responsible for the pH shift. Anthocyanins would loose their color under alkaline conditions unless they are polyacylated and stabalized by intramolecular stacking of caffeoyl residues to the chromophore. Expression of _NHX1_ coincided with anthocyanin pigmentation in the petal cells. This correlation was strong in a time course experiment around the flower opening suggesting that pH change is synchronized with flower opening.
 
@@ -536,7 +536,7 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 > **Post:** Modification of anthocyanins is based on glycosylation and acylation catalyzed by enzymes of different families. Some are located in the cytoplasm and some in the vacuole #FlavonoidFriday
 
-<img alt="Glycosylation and acylation of anthocyanins (Tweet #49)" src="https://pbs.twimg.com/media/FKvT45UWYAESJUf?format=jpg&name=large" width="50%" height="50%">
+<img alt="Glycosylation and acylation of anthocyanins (Tweet #49)" src="https://pbs.twimg.com/media/FKvT45UWYAESJUf?format=jpg&name=large" width="400">
 
 [Sasaki et al., 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6271837/) reviewed the enzymes involved in the glycosylation and acylation of anthocyanins: glycosyltransferases (GTs) and acyltransferases (ATs). Various decorations of anthocyanins influence their biochemical properties e.g. their stability. Cytoplasmic GTs use UDP-sugar as donor while vacuolar GTs use aromatic acyl-glucose or p-hydroxybenzoylglucose. Usually the 3-position and the 5-position of anthocyanins are modified by the addition of sugars. There are species-specific differences. Vacuolar GTs belong to the glycoside hydrolase family 1 (GH1) which was initially discovered to hydrolyze glycosides. These acyl-glucose dependent anthocyanin glucosyltransferases (AAGTs) contain a signal peptide that determines their vacuolar localization.
 Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and sinapoylglucose. Acylation can take place on sugar moities in the 5-position and 3'-position. This happens while only one of these positions is glycosylated. Cytoplasmic ATs belong to the BAHD family that was named after the first identified members and their functions. Members of the serine carboxypeptidase-like (SCPL) are ATs located in the vacuole. 
@@ -546,7 +546,7 @@ Cytoplasmic ATs use acyl-CoA as donor while vacuolar ATs use malylglucose and si
 
 > **Post:** Flavonoid biosynthesis enzymes cluster in metabolons around the membrane-bound cytochrome P450s. Metabolons result in efficient substrate channeling #FlavonoidFriday
 
-<img alt="Flavonoid metabolons (Tweet #50)" src="https://pbs.twimg.com/media/FLGCkdaXIAkb4vm?format=jpg&name=4096x4096" width="50%" height="50%">
+<img alt="Flavonoid metabolons (Tweet #50)" src="https://pbs.twimg.com/media/FLGCkdaXIAkb4vm?format=jpg&name=4096x4096" width="400">
 
 [Nakayama et al., 2019](https://doi.org/10.3389/fpls.2019.00821) reviewed the role of metabolons (clusters of enzymes participating in the same pathway) in the flavonoid biosynthesis. Flavonoids show numerous lineage-specific modifications that result in an enormous number of thousands of different metabolites. This chemodiversity of flavonoids forms the basis of specific traits that provide an evolutionary benefit to these plants. The cytochrome P450 monooxygenases (FNS II, F3'H, F3'5'H, IFS) are assumed to be bound to the ER membrane, while the other enzymes of the flavonoid biosynthesis are most likely soluble. Flavonoid metabolons were first postulated by Stafford in 1974. Evidence for their existence in multiple species was provided in the following years. The interaction of enzymes in the flavonoid biosynthesis was demonstrated via Y2H and other interaction experiments in multiple species. Flavonoid metabolons are probably not linear, but a globular construct of multiple enzymes. Non-enzymatic proteins like CHI-like or non-functional paralogs can be part of these metabolons. Different paralogs can show substantial differences in there affinity to other enzymes of the flavonoid biosynthesis. Interaction of FNS II with DFR and ANS suggest a scaffolding role, because FNS II is not required for the anthocyanin biosynthesis. Loss of FNS II leads to a reduced formation of anthocyanins. 
 
