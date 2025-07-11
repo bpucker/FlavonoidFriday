@@ -67,7 +67,7 @@ Grünig _et al._, 2024: Diversity and Ecological Functions of Anthocyanins. doi:
 ### (1) General Flavonoid Biosynthesis Overview ###
 > **Post:** Flavonoids are a large group of phenylalanine-derived specialized metabolites in plants. Branches of the biosynthesis lead to flavonols, anthocyanins, proanthocyanins, flavones, and others. #FlavonoidFriday
 
-<img alt="Flavonoid biosynthesis pathway overview (Tweet #1)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096"  width="600">
+<img alt="Flavonoid biosynthesis pathway overview (Tweet #1)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096"  width="400">
 (Figure source: [Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm))
 
 The background about this tweet is described above in the general introduction to the flavonoid biosynthesis.
@@ -76,13 +76,13 @@ The background about this tweet is described above in the general introduction t
 ### (2) Flavonol biosynthesis is an old branch of the flavonoid biosynthesis ###
 > **Post:** Flavonols are an evolutionary old group of flavonoids. Their functions include UV & ROS protection, but also signaling & regulation of developmental processes. Flavonol production is triggered by biotic and abiotic factors #FlavonoidFriday
 
-<img alt="Flavonol biosynthesis pathway (Tweet #2)" src="https://pbs.twimg.com/media/EvVYRu-XUAY864Q?format=png&name=900x900"  width="600">
+<img alt="Flavonol biosynthesis pathway (Tweet #2)" src="https://pbs.twimg.com/media/EvVYRu-XUAY864Q?format=png&name=900x900"  width="400">
 
 
 ### (3) Anthocyanins are colourful pigments ###
 > **Post:** Anthocyanins (Greek: 'blue flower') are pigments with pH-dependent colours ranging from red to blue. Their functions include attraction of animals for pollination & seed dispersal, but also protection against abiotic stressors. #FlavonoidFriday
 
-<img alt="Anthocyanins (Tweet #3)" src="https://pbs.twimg.com/media/EvVbCduXMAEDII8?format=jpg&name=medium"  width="600">
+<img alt="Anthocyanins (Tweet #3)" src="https://pbs.twimg.com/media/EvVbCduXMAEDII8?format=jpg&name=medium"  width="400">
 
 While anthocyanins are well known for their colour, it is likely that additional functions in stress response might be even more important (reviewed by Landi et al., 2015).
 
@@ -90,7 +90,7 @@ While anthocyanins are well known for their colour, it is likely that additional
 ### (4) Proanthocyanidins are responsible for seed coat colouration ###
 > **Post:** Proanthocyanidins (PA) are responsible for a dark appearance of seed coats. The biosynthesis of PAs is not completely understood and probably differs between species #FlavonoidFriday
 
-<img alt="Proanthocyanidins (Tweet #4)" src="https://pbs.twimg.com/media/EwyzS7hWYAI6zQZ?format=jpg&name=medium"  width="600">
+<img alt="Proanthocyanidins (Tweet #4)" src="https://pbs.twimg.com/media/EwyzS7hWYAI6zQZ?format=jpg&name=medium"  width="400">
 
 LAR and ANR are involved in the PA biosynthesis in many species. However, A. thaliana lacks LAR, but is still able to produce proanthocyanidins which provide a dark colouration to the seed coat. This indicates that there must be a PA biosynthesis pathway which does not require LAR.
 
@@ -99,7 +99,7 @@ LAR and ANR are involved in the PA biosynthesis in many species. However, A. tha
 
 > **Post:** Flavonoids are abundant phytochemicals in fruits and vegetables. Health and nutritional benefits were reported for several flavonoids including antioxidant and anti-inflammatory functions #FlavonoidFriday
 
-<img alt="Dietary Flavonoids (Tweet #5)" src="https://pbs.twimg.com/media/ExYtlWkWEAEworj?format=jpg&name=4096x4096" width="80%" height="80%">
+<img alt="Dietary Flavonoids (Tweet #5)" src="https://pbs.twimg.com/media/ExYtlWkWEAEworj?format=jpg&name=4096x4096" width="400">
 (Figure source: [Ahn-Jarvis et al., 2019](https://doi.org/10.3390/antiox8070202))
 
 Flavonoids are not just responsible for beautiful flower phenotypes. These molecules can also be beneficial for human health. Flavonoids in the human diet and the potential for biomedical/biotechnological applications in the future were recently reviewed by [Ahn-Jarvis et al.](https://doi.org/10.3390/antiox8070202). They discus the releveance of increasing the bioavailability of flavonoids through agricultural engineering and targeted food design. The anti-proliferative, antioxidant, anti-inflammatory, and estrogenic activities of flavonoids could be harnessed to support classical treatments. While flavonoids show promising effects in cellular studies, the applied concentrations are almost impossible to reach with conventional food products. Changing the food processing might be one option to enhance the bioavailability. However, the bioavailability of flavonoids also depends on host factors like age and gender. Further research is required to understand the relevance of the nutrition in complex diseases.
@@ -949,7 +949,7 @@ A chemically diverse set of modified anthocyanins fulfills various functions in 
 ### (98) Flavonoid biosynthesis evolution ###
 > **Post:** Flavonoid biosynthesis is widespread across land plants, but major differences between lineages are still unexplored. A recent review summarizes open questions #FlavonoidFriday
 
-<img alt="Flavonoid biosynthesis evolution" src="https://pbs.twimg.com/media/Ga62NH2XcAE1bLE?format=jpg&name=4096x4096" width="50%" height="50%">
+<img alt="Flavonoid biosynthesis evolution" src="https://pbs.twimg.com/media/Ga62NH2XcAE1bLE?format=jpg&name=4096x4096" width="400">
 
 [Davies _et al_., 2024](https://doi.org/10.1098/rstb.2023.0361) summarized the knowledge about the evolution of the flavonoid biosynthesis. Gene gain and loss events on major plant lineages are postulated based on available plant genome sequences. A set of questions and next steps to further advance our understanding of the flavonoid biosynthesis are presented: (1) establishing more non-flowering plant model systems, (2) functional characterization of enzymes, (3) unraveling the functions of flavonoids in different plant lineages, (4) identifying gene loss events, (5) understanding the metabolons of the flavonoid biosynthesis, and (6) investigating the transcriptional regulation of the flavonoid biosynthesis. 
 
@@ -957,7 +957,7 @@ A chemically diverse set of modified anthocyanins fulfills various functions in 
 ### (99) Bean seed color patterns ###
 > **Post:** Seed color patterns in beans are due to sequence variants in genes encoding components of the MBW complex #FlavonoidFriday: https://lnk.tu-bs.de/C0Mcgj
 
-<img alt="Seed color patterns in beans. Reference: https://doi.org/10.1111/tpj.16947" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreihzrpgk5d7djo6vptdtdqwn3zky4fwu5ihtsgwhsz76neojc24ltm@jpeg" width="50%" height="50%">
+<img alt="Seed color patterns in beans. Reference: https://doi.org/10.1111/tpj.16947" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreihzrpgk5d7djo6vptdtdqwn3zky4fwu5ihtsgwhsz76neojc24ltm@jpeg" width="400">
 
 A recent study by [Parker et al., 2024](https://doi.org/10.1111/tpj.16947) investigated the molecular basis of various seed color patterns and flower colors. A MYB protein (TT2), a bHLH protein (TT8, MYC1), and the WD40 protein TTG1 form the MBW complex, which is well known for regulating anthocyanin and proanthocyanidin biosynthesis. A RIL population analysis revealed several QTLs containing genes encoding these three components of the MBW complex. Multiple alleles of these key regulatory genes have been reported.
 
@@ -966,7 +966,7 @@ A recent study by [Parker et al., 2024](https://doi.org/10.1111/tpj.16947) inves
 > **Post:** Cornflower vibrant color comes from a unique complex of anthocyanins, flavones, and metal ions (Fe³⁺, Mg²⁺), stabilized by pH. This metal-anthocyanin interaction shifts the pigment to blue! #FlavonoidFriday: https://lnk.tu-bs.de/9Zz2uG
 (📸 https://doi.org/10.1101/2025.01.31.635922)
 
-<img alt="Vibrant blue color of cornflower. Reference: [https://doi.org/10.1111/tpj.16947](https://doi.org/10.1101/2025.01.31.635922)" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreih7rv55cvealjfeq7rap2hyupg35cukliliq3jcsfyocat5bfwb7q@jpeg" width="30%" height="30%">
+<img alt="Vibrant blue color of cornflower. Reference: [https://doi.org/10.1111/tpj.16947](https://doi.org/10.1101/2025.01.31.635922)" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreih7rv55cvealjfeq7rap2hyupg35cukliliq3jcsfyocat5bfwb7q@jpeg" width="400">
 
 Cornflower, _Centaurea cyanus_, is famous for its striking blue petals. But what makes this wildflower so vibrantly colored? The molecular basis of this coloration is different from many other blue flowering plants, which accumulate only anthocyanins. The cornflower pigmentation is a fascinating interplay of chemistry and light based on a unique pigment complex. This complex is composed of anthocyanins (cyanidins), flavones, and metal ions (such as iron or magnesium), which interact to stabilize the blue color. In other flowers, anthocyanins typically produce purple or red shades, but in cornflowers, the presence of these additional compounds shifts the spectrum to an unmistakable blue. Interestingly, cornflowers can also display variations in color, including shades of pink, purple, or even white. These color variations are often due to genetic variants that alter pigment production or pH differences in the petal cells. The vivid blue petals are highly attractive to pollinators. This ensures successful pollination and contributes to the plant’s survival in meadows and fields. The recently released cornflower genome sequence ([Dassow et al., 2025](https://doi.org/10.1101/2025.01.31.635922)) may provide new insights into the molecular mechanisms behind its unique pigmentation.
 
@@ -974,14 +974,14 @@ Cornflower, _Centaurea cyanus_, is famous for its striking blue petals. But what
 ### (101) Anthocyanin accumulation in cannabis ###
 > **Post:** Color differences between cannabis accessions can be explained by differential expression of flavonoid biosynthesis genes #FlavonoidFriday: https://lnk.tu-bs.de/8ubwTn
 
-<img alt="Anthocyanin accumulation in cannabis. Reference: [10.1002/pld3.70016](https://doi.org/10.1002/pld3.70016)" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreifsduijdrwdgcwlfd3qdpnppsftukpk4dnhkfbxgvilbq4nhcebau@jpeg" width="30%" height="30%">
+<img alt="Anthocyanin accumulation in cannabis. Reference: [10.1002/pld3.70016](https://doi.org/10.1002/pld3.70016)" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreifsduijdrwdgcwlfd3qdpnppsftukpk4dnhkfbxgvilbq4nhcebau@jpeg" width="400">
 
 A recent study by [Gaglova et al., 2024](https://doi.org/10.1002/pld3.70016) investigated the flavonoid biosynthesis in cannabis (_Cannabis sativa_). Genes encoding core enzymes of the flavonoid biosynthesis were identified based on orthology to previously characterized genes. Differential expression of several genes involved in the flavonoid biosynthesis was observed between cannabis cultivars differing in pigmentation intensity. 
 
 ### (102) _Digitalis_ flower color variation ###
 > **Post:** Digitalis purpurea (foxglove) usually sports magenta blooms thanks to anthocyanins—but mutations in pigment genes can lead to striking white flowers 🌸 #FlavonoidFriday (https://doi.org/10.1101/2024.02.14.580303 & https://shorturl.at/IA5LZ)
 
-<img alt="_Digitalis_ flower color variation. Reference: [10.1101/2024.02.14.580303](https://doi.org/10.1101/2024.02.14.580303)" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreihpn72tjch3ciebjumlheypkqdtfd7ce67b4xwbcfdpt2n77kam54@jpeg" width="30%" height="30%">
+<img alt="_Digitalis_ flower color variation. Reference: [10.1101/2024.02.14.580303](https://doi.org/10.1101/2024.02.14.580303)" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreihpn72tjch3ciebjumlheypkqdtfd7ce67b4xwbcfdpt2n77kam54@jpeg" width="400">
 
 _Digitalis purpurea_ is well known for its large populations displaying bright magenta flowers. However, some individual plants within these populations lack this pigmentation, as evidenced by their white flowers. [Horz et al. (2024)](https://doi.org/10.1101/2024.02.14.580303) discovered that a large DNA insertion in the critical anthocyanidin synthase gene is responsible for disrupting pigment biosynthesis.
 
