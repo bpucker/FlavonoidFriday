@@ -979,11 +979,19 @@ Cornflower, _Centaurea cyanus_, is famous for its striking blue petals. But what
 A recent study by [Gaglova et al., 2024](https://doi.org/10.1002/pld3.70016) investigated the flavonoid biosynthesis in cannabis (_Cannabis sativa_). Genes encoding core enzymes of the flavonoid biosynthesis were identified based on orthology to previously characterized genes. Differential expression of several genes involved in the flavonoid biosynthesis was observed between cannabis cultivars differing in pigmentation intensity. 
 
 ### (102) _Digitalis_ flower color variation ###
-> **Post:** Digitalis purpurea (foxglove) usually sports magenta blooms thanks to anthocyanins—but mutations in pigment genes can lead to striking white flowers 🌸 #FlavonoidFriday (https://doi.org/10.1101/2024.02.14.580303 & https://shorturl.at/IA5LZ)
+> **Post:** _Digitalis purpurea_ (foxglove) usually sports magenta blooms thanks to anthocyanins—but mutations in pigment genes can lead to striking white flowers 🌸 #FlavonoidFriday (https://doi.org/10.1101/2024.02.14.580303 & https://shorturl.at/IA5LZ)
 
 <img alt="_Digitalis_ flower color variation. Reference: [10.1101/2024.02.14.580303](https://doi.org/10.1101/2024.02.14.580303)" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreihpn72tjch3ciebjumlheypkqdtfd7ce67b4xwbcfdpt2n77kam54@jpeg" width="400">
 
 _Digitalis purpurea_ is well known for its large populations displaying bright magenta flowers. However, some individual plants within these populations lack this pigmentation, as evidenced by their white flowers. [Horz et al. (2024)](https://doi.org/10.1101/2024.02.14.580303) discovered that a large DNA insertion in the critical anthocyanidin synthase gene is responsible for disrupting pigment biosynthesis.
+
+
+### (103) _LAR_ evolution ###
+> **Post:** The _LAR_ gene (key to proanthocyanidin biosynthesis) occurs in two copies in many plant species — a great example of how gene duplication drives plant evolution #FlavonoidFriday XXXX & https://doi.org/10.1101/2025.08.06.668978
+
+
+A recent study by [Marin-Recinos & Pucker, 2025](https://doi.org/10.1101/2025.08.06.668978) investigated the evolutionary dynamics of the proanthocyanidin biosynthesis gene _LAR_, encoding leucoanthocyanidin reductase, through large-scale phylogenetic, syntenic, and expression analyses. An ancient duplication event at the base of dicots was discovered, resulting in two distinct paralog clades, _LAR1_ and _LAR2_, which have been differentially retained and diversified in many dicot lineages. A similar deep duplication occurred at the base of gymnosperms, giving rise to two gymnosperm-specific clades, _LARI_ and _LARII_, indicative of early divergence in that lineage. In dicots, numerous species feature multiple _LAR_ copies—particularly in lineages such as Fabaceae, Rosaceae, Theaceae, and Malvaceae—reflecting further lineage-specific expansions within the _LAR1_ subclade. Conversely, several Brassicaceae genomes, including _Arabidopsis thaliana_, appear to lack _LAR_ entirely - a finding supported by synteny analyses - highlighting a wholesale LAR loss in this lineage.
+
 
 
 
