@@ -989,6 +989,8 @@ _Digitalis purpurea_ is well known for its large populations displaying bright m
 ### (103) _LAR_ evolution ###
 > **Post:** The _LAR_ gene (key to proanthocyanidin biosynthesis) occurs in two copies in many plant species — a great example of how gene duplication drives plant evolution #FlavonoidFriday https://shorturl.at/5uMtv & https://doi.org/10.1101/2025.08.06.668978
 
+<img alt="_LAR_ evolution" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreiaay6jp3t3dkcefkoygss4t52k24j4iv735kknjxihayqxzuj6a2y@jpeg" width="400">
+
 
 A recent study by [Marin-Recinos & Pucker, 2025](https://doi.org/10.1101/2025.08.06.668978) investigated the evolutionary dynamics of the proanthocyanidin biosynthesis gene _LAR_, encoding leucoanthocyanidin reductase, through large-scale phylogenetic, syntenic, and expression analyses. An ancient duplication event at the base of dicots was discovered, resulting in two distinct paralog clades, _LAR1_ and _LAR2_, which have been differentially retained and diversified in many dicot lineages. A similar deep duplication occurred at the base of gymnosperms, giving rise to two gymnosperm-specific clades, _LARI_ and _LARII_, indicative of early divergence in that lineage. In dicots, numerous species feature multiple _LAR_ copies—particularly in lineages such as Fabaceae, Rosaceae, Theaceae, and Malvaceae—reflecting further lineage-specific expansions within the _LAR1_ subclade. Conversely, several Brassicaceae genomes, including _Arabidopsis thaliana_, appear to lack _LAR_ entirely - a finding supported by synteny analyses - highlighting a wholesale LAR loss in this lineage.
 
