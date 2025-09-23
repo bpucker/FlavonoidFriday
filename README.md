@@ -996,13 +996,13 @@ A recent study by [Marin-Recinos & Pucker, 2025](https://doi.org/10.1101/2025.08
 
 
 ### (104) _DFR_ Gene Family Expansion in _Fagopyrum_ ###
-> **Post:** The crucial anthocyanin biosynthesis gene DFR shows multiple duplications in Fagopyrum, hinting at potential novel or specialized functions #FlavonoidFriday details: https://doi.org/10.1101/2025.09.20.677491 & XXX
+> **Post:** The crucial anthocyanin biosynthesis gene DFR shows multiple duplications in Fagopyrum, hinting at potential novel or specialized functions #FlavonoidFriday details: https://doi.org/10.1101/2025.09.20.677491 & https://rb.gy/l6ekn9
 
 A recent study by [Samsolnizam & Pucker (2025)](https://doi.org/10.1101/2025.09.20.677491) reports an expansion of the _DFR_ gene family in _Fagopyrum_. Dihydroflavonol 4-reductase (DFR) is a key enzyme in anthocyanin biosynthesis. This gene family expansion suggests that diversification of the anthocyanin pathway may be occurring in _Fagopyrum_. This is particularly surprising, as _Fagopyrum_ belongs to the Caryophyllales—the only order of flowering plants in which anthocyanin biosynthesis has been replaced by betalain biosynthesis in some families. The authors also propose putative mechanisms for the duplication of _DFR_ in _Fagopyrum_.
 
 
 ### (105) Ups and Downs of Anthocyanin Biosynthesis in Poaceae ###
-> **Post:** Anthocyanin biosynthesis in grasses took a divergent path, with key gene losses and independent evolutionary innovations #FlavonoidFriday (details: https://doi.org/10.1101/2025.09.21.677584 & xxxx)
+> **Post:** Anthocyanin biosynthesis in grasses took a divergent path, with key gene losses and independent evolutionary innovations #FlavonoidFriday (details: https://doi.org/10.1101/2025.09.21.677584 & https://shorturl.at/dprjd)
 
 [Khatun et al. (2025)](https://doi.org/10.1101/2025.09.21.677584) explore the evolutionary history of anthocyanin biosynthesis genes in Poaceae. While this pathway is generally considered highly conserved, several notable divergences have occurred within the grass family. For example, anthocyanin biosynthesis in Poaceae is regulated by an independently evolved MYB transcription factor lineage. Furthermore, the otherwise widespread TT19/An9 lineage (arGST, anthocyanin-related glutathione S-transferase) appears to be absent; instead, a functionally analogous enzyme, BZ2, evolved independently. The study also reports the loss of several key anthocyanin biosynthesis genes in _Brachypodium_, which impairs its ability to accumulate pigmentation.
 
