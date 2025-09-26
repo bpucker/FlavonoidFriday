@@ -998,6 +998,9 @@ A recent study by [Marin-Recinos & Pucker, 2025](https://doi.org/10.1101/2025.08
 ### (104) _DFR_ Gene Family Expansion in _Fagopyrum_ ###
 > **Post:** The crucial anthocyanin biosynthesis gene DFR shows multiple duplications in Fagopyrum, hinting at potential novel or specialized functions #FlavonoidFriday details: https://doi.org/10.1101/2025.09.20.677491 & https://rb.gy/l6ekn9
 
+<img alt="_DFR_ Gene Family Expansion in _Fagopyrum_" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreifoqrexhxypnhfxmeu3mriv3zaie7kqmoqomwhnufilli6hp7tqlu@jpeg" width="400">
+
+
 A recent study by [Samsolnizam & Pucker (2025)](https://doi.org/10.1101/2025.09.20.677491) reports an expansion of the _DFR_ gene family in _Fagopyrum_. Dihydroflavonol 4-reductase (DFR) is a key enzyme in anthocyanin biosynthesis. This gene family expansion suggests that diversification of the anthocyanin pathway may be occurring in _Fagopyrum_. This is particularly surprising, as _Fagopyrum_ belongs to the Caryophyllales—the only order of flowering plants in which anthocyanin biosynthesis has been replaced by betalain biosynthesis in some families. The authors also propose putative mechanisms for the duplication of _DFR_ in _Fagopyrum_.
 
 
