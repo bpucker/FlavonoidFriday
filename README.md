@@ -1007,6 +1007,8 @@ A recent study by [Samsolnizam & Pucker (2025)](https://doi.org/10.1101/2025.09.
 ### (105) Ups and Downs of Anthocyanin Biosynthesis in Poaceae ###
 > **Post:** Anthocyanin biosynthesis in grasses took a divergent path, with key gene losses and independent evolutionary innovations #FlavonoidFriday (details: https://doi.org/10.1101/2025.09.21.677584 & https://shorturl.at/dprjd)
 
+<img alt="Ups and Downs of Anthocyanin Biosynthesis in Poaceae" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreie7xqzbneuq7humqgkq5cbuaqnf3oj5zlw7zchvj2braosdp536h4@jpeg" width="400">
+
 [Khatun et al. (2025)](https://doi.org/10.1101/2025.09.21.677584) explore the evolutionary history of anthocyanin biosynthesis genes in Poaceae. While this pathway is generally considered highly conserved, several notable divergences have occurred within the grass family. For example, anthocyanin biosynthesis in Poaceae is regulated by an independently evolved MYB transcription factor lineage. Furthermore, the otherwise widespread TT19/An9 lineage (arGST, anthocyanin-related glutathione S-transferase) appears to be absent; instead, a functionally analogous enzyme, BZ2, evolved independently. The study also reports the loss of several key anthocyanin biosynthesis genes in _Brachypodium_, which impairs its ability to accumulate pigmentation.
 
 
