@@ -1013,7 +1013,7 @@ A recent study by [Samsolnizam & Pucker (2025)](https://doi.org/10.1101/2025.09.
 
 
 ### (106) Flavonol glucosyltransferase loss confers insect resistance ###
-> **Post:** Soybean flavonol 3-O-glucosyltransferase (UFGT78D2) makes plants more susceptible to leaf-chewing insects, while its loss confers resistance #FlavonoidFriday (details: https://doi.org/10.1101/2025.10.01.679769 & XXX)
+> **Post:** Soybean flavonol 3-O-glucosyltransferase (UFGT78D2) makes plants more susceptible to leaf-chewing insects, while its loss confers resistance #FlavonoidFriday (details: https://rb.gy/h21hpi)
 
 A recent study by [Prabhakar et al., 2025](https://doi.org/10.1101/2025.10.01.679769) discovered that a flavonol 3-O-glucosyltransferase in soybean makes plants susceptible to leaf-chewing insects. A QTL analysis revealed the locus harboring this gene. The loss of the UGT78D2 flavonol gucosyltransferase resulted in resistance to these insects.
 
