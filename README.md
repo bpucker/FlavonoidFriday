@@ -979,7 +979,7 @@ Cornflower, _Centaurea cyanus_, is famous for its striking blue petals. But what
 A recent study by [Gaglova et al., 2024](https://doi.org/10.1002/pld3.70016) investigated the flavonoid biosynthesis in cannabis (_Cannabis sativa_). Genes encoding core enzymes of the flavonoid biosynthesis were identified based on orthology to previously characterized genes. Differential expression of several genes involved in the flavonoid biosynthesis was observed between cannabis cultivars differing in pigmentation intensity. 
 
 ### (102) _Digitalis_ flower color variation ###
-> **Post:** _Digitalis purpurea_ (foxglove) usually sports magenta blooms thanks to anthocyanins—but mutations in pigment genes can lead to striking white flowers 🌸 #FlavonoidFriday (https://doi.org/10.1101/2024.02.14.580303 & https://shorturl.at/IA5LZ)
+> **Post:** _Digitalis purpurea_ (foxglove) usually sports magenta blooms thanks to anthocyanins—but mutations in pigment genes can lead to striking white flowers 🌸 #FlavonoidFriday (https://doi.org/10.1101/2024.02.14.580303)
 
 <img alt="_Digitalis_ flower color variation. Reference: [10.1101/2024.02.14.580303](https://doi.org/10.1101/2024.02.14.580303)" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreihpn72tjch3ciebjumlheypkqdtfd7ce67b4xwbcfdpt2n77kam54@jpeg" width="400">
 
@@ -987,7 +987,7 @@ _Digitalis purpurea_ is well known for its large populations displaying bright m
 
 
 ### (103) _LAR_ evolution ###
-> **Post:** The _LAR_ gene (key to proanthocyanidin biosynthesis) occurs in two copies in many plant species — a great example of how gene duplication drives plant evolution #FlavonoidFriday https://shorturl.at/5uMtv & https://doi.org/10.1101/2025.08.06.668978
+> **Post:** The _LAR_ gene (key to proanthocyanidin biosynthesis) occurs in two copies in many plant species — a great example of how gene duplication drives plant evolution #FlavonoidFriday https://doi.org/10.1101/2025.08.06.668978
 
 <img alt="_LAR_ evolution" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreiaay6jp3t3dkcefkoygss4t52k24j4iv735kknjxihayqxzuj6a2y@jpeg" width="400">
 
