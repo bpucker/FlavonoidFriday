@@ -10,7 +10,7 @@ The flavonoid biosnythesis is one of the best studied specialized metabolism pat
 </a>  
 
 
-Fig. 1: Simplified overview of the flavonoid biosynthesis. (source: [Grünig et al., 2025](https://doi.org/10.1186/s12870-025-08006-3))
+Fig. 1: Simplified overview of the flavonoid biosynthesis. Source: [Grünig et al., 2025](https://doi.org/10.1186/s12870-025-08006-3).
 
 
 Flavonoids are transported from the site of biosynthesis (ER) into the central vacuole. Two potential flavonoid transport routes have been proposed: (1) transport across the tonoplast mediated by membrane-bound transport proteins and (2) vesicle-mediated transport with or without an involvement of the Golgi apparatus (Fig. 2, [Pucker & Selmar, 2022](https://doi.org/10.3390/plants11070963), [Grünig et al., 2025](https://doi.org/10.1186/s12870-025-08006-3)).
@@ -19,7 +19,7 @@ Flavonoids are transported from the site of biosynthesis (ER) into the central v
 <img alt="Intracellular flavonoid transport overview" src="https://github.com/bpucker/figures/blob/main/anthocyanin_transport_Gruenig2025.png?raw=true" width="600">
 </a>  
 
-Fig. 2: Simplified overview of the intracellular flavonoid transport. (source: [Pucker & Selmar, 2022](https://doi.org/10.3390/plants11070963))
+Fig. 2: Simplified overview of the intracellular flavonoid transport. Source: [Pucker & Selmar, 2022](https://doi.org/10.3390/plants11070963).
 
 
 ### Transcriptional Regulation ###
@@ -36,7 +36,7 @@ Do you have a new transcriptome and genome assembly of a plant species? If you a
 <img alt="KIPEs3 workflow" src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0294342.g001"  width="300">
 </a>  
 
-Fig. 3: KIPEs workflow. (source: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342))
+Fig. 3: KIPEs workflow. Source: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342).
 
 ### Anthocyanin loss - a frequent event during evolution ###
 Accessions of many plant species lack anthocyanin pigmentation. This is often visible when flowers of individual plants appear white instead of red or blue. These evolutionary color changes are not randomly affecting genes in the anthocyanin biosynthesis, but are mostly affecting transcription factors. The most frequently affected transcription factor in the anthocyanin activating R2R3-MYB. Read more about this topic in a systematic assessment of available studies: [Recinos & Pucker, 2024](https://doi.org/10.1186/s12870-024-05316-w).
@@ -45,7 +45,7 @@ Accessions of many plant species lack anthocyanin pigmentation. This is often vi
 <img alt="Phylogenetic distribution of anthocyanin loss events" src="https://github.com/bpucker/figures/blob/main/phylogenetic_distribution_antho_loss_MarinRecinos2024.png?raw=true"  width="600">
 </a>  
 
-Fig. 4: Phylogenetic distribution of anthocyanin loss events.
+Fig. 4: Phylogenetic distribution of anthocyanin loss events. Source: [Marin-Recinos & Pucker, 2024](https://doi.org/10.1186/s12870-024-05316-w).
 
 
 ### Recommended reviews about the flavonoid biosynthesis ###
