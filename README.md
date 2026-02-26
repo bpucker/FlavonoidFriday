@@ -1005,7 +1005,7 @@ A recent study by [Samsolnizam & Pucker (2025)](https://doi.org/10.1101/2025.09.
 
 
 ### (105) Ups and Downs of Anthocyanin Biosynthesis in Poaceae ###
-> **Post:** Anthocyanin biosynthesis in grasses took a divergent path, with key gene losses and independent evolutionary innovations #FlavonoidFriday (details: https://doi.org/10.1101/2025.09.21.677584 & https://shorturl.at/dprjd)
+> **Post:** Anthocyanin biosynthesis in grasses took a divergent path, with key gene losses and independent evolutionary innovations #FlavonoidFriday (details: https://doi.org/10.1101/2025.09.21.677584)
 
 <img alt="Ups and Downs of Anthocyanin Biosynthesis in Poaceae" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreie7xqzbneuq7humqgkq5cbuaqnf3oj5zlw7zchvj2braosdp536h4@jpeg" width="400">
 
@@ -1013,7 +1013,7 @@ A recent study by [Samsolnizam & Pucker (2025)](https://doi.org/10.1101/2025.09.
 
 
 ### (106) Flavonol glucosyltransferase loss confers insect resistance ###
-> **Post:** Soybean flavonol 3-O-glucosyltransferase (UFGT78D2) makes plants more susceptible to leaf-chewing insects, while its loss confers resistance #FlavonoidFriday (details: https://rb.gy/h21hpi)
+> **Post:** Soybean flavonol 3-O-glucosyltransferase (UFGT78D2) makes plants more susceptible to leaf-chewing insects, while its loss confers resistance #FlavonoidFriday
 
 <img alt="Flavonol glucosyltransferase loss confers insect resistance" src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreib32hk3wbdqtyp3vbubms6ootgxo3cijvsungruzdtvzyxxsgdjo4@jpeg" width="400">
 
