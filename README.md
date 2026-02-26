@@ -1021,7 +1021,7 @@ A recent study by [Prabhakar et al., 2025](https://doi.org/10.1101/2025.10.01.67
 
 
 ### (107) Anthocyanin associated with resistance ###
-> **Post:** Plants do not just turn red when stressed: pathogen-induced red pigmentation actively boosts disease resistance through protective anthocyanins #FlavonoidFriday (https://doi.org/10.64898/2026.02.24.707787 & XXX)
+> **Post:** Plants do not just turn red when stressed: pathogen-induced red pigmentation actively boosts disease resistance through protective anthocyanins #FlavonoidFriday (https://doi.org/10.64898/2026.02.24.707787 & https://shorturl.at/TolZT)
 
 
 [Suraj et al., 2026](https://doi.org/10.64898/2026.02.24.707787 ) report that red pigmentation triggered by pathogen infection in certain flowering plants reflects an active defense response rather than merely a visual stress symptom. Using genetically related color mutants, it was shown that increased accumulation of anthocyanins—the pigments responsible for red and purple coloration—enhances resistance to the widespread fungal pathogen _Botrytis cinerea_. Comparative analyses suggest that this pigmentation-based immune strategy represents a conserved defensive mechanism across members of the Asteraceae plant family.
