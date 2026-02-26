@@ -19,7 +19,7 @@ Flavonoids are transported from the site of biosynthesis (ER) into the central v
 <img alt="Intracellular flavonoid transport overview" src="https://github.com/bpucker/figures/blob/main/anthocyanin_transport_Gruenig2025.png?raw=true" width="600">
 </a>  
 
-Fig. 2: Simplified overview of the intracellular flavonoid transport. (source: [Pucker & Selmar, 2022](https://www.mdpi.com/2223-7747/11/7/963/htm))
+Fig. 2: Simplified overview of the intracellular flavonoid transport. (source: [Pucker & Selmar, 2022](https://doi.org/10.3390/plants11070963))
 
 
 ### Transcriptional Regulation ###
@@ -68,7 +68,7 @@ Grünig _et al._, 2024: Diversity and Ecological Functions of Anthocyanins. doi:
 > **Post:** Flavonoids are a large group of phenylalanine-derived specialized metabolites in plants. Branches of the biosynthesis lead to flavonols, anthocyanins, proanthocyanins, flavones, and others. #FlavonoidFriday
 
 <img alt="Flavonoid biosynthesis pathway overview (Tweet #1)" src="https://pbs.twimg.com/media/Eu4yOCfWYAIMKxJ?format=jpg&name=4096x4096"  width="400">
-(Figure source: [Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm))
+(Figure source: [Pucker et al., 2020](https://doi.org/10.3390/plants9091103))
 
 The background about this tweet is described above in the general introduction to the flavonoid biosynthesis.
 
@@ -323,7 +323,7 @@ Two families of auxiliary proteins are important regulators of the flavonoid bio
 
 [Gunasekaran et al., 2021](https://doi.org/10.3390/agronomy11040661) looked at the anthocyanin biosynthesis in _Cosmos caudatus_ with omics and microscopic methods. The microscopic analysis revealed strong pigmentation of individual cells in the epidermis of different plant parts. It would be very interesting to understand how this pigmentation pattern emerges. For example, it would be exciting to see if the F3'5'H expression correlates with the blue pigmentation. A connection of the metabolite levels (Fig.7) with the gene expression in the same tissue could help to answer such questions.
 
-BLAST does not perform a search for "homology", but only identifies similar sequences which may or may not be homologs. While the best BLAST hits are often orthologs, the results can be misleading in some cases. Therefore, it is better to rely on global alignments and a phylogenetic analysis. This would have been a perfect case for [KIPEs](https://www.mdpi.com/2223-7747/9/9/1103/htm) to perform an automatic annotation and to find the actual functional isoform among the up to 12 unigenes for steps in the flavonoid biosynthesis. A phylogenetic tree could help to visually distinguish between functional and non-functional isoforms.
+BLAST does not perform a search for "homology", but only identifies similar sequences which may or may not be homologs. While the best BLAST hits are often orthologs, the results can be misleading in some cases. Therefore, it is better to rely on global alignments and a phylogenetic analysis. This would have been a perfect case for [KIPEs](https://doi.org/10.1371/journal.pone.0294342) to perform an automatic annotation and to find the actual functional isoform among the up to 12 unigenes for steps in the flavonoid biosynthesis. A phylogenetic tree could help to visually distinguish between functional and non-functional isoforms.
 
 
 ### (27) Red poplar leaves ###
@@ -392,7 +392,7 @@ Details about the research in the group and open positions can be found on the w
 
 <img alt="New to flavonoids? (Tweet #33)" src="https://pbs.twimg.com/media/FBrywCIXIAg1Z_-?format=jpg&name=4096x4096" width="400">
 
-If you are new to flavonoids, you can get an introduction into the genes involved in the biosynthesis [here](https://www.mdpi.com/2223-7747/9/9/1103/htm). The biosynthesis is always displayed in a simplified way, because the number of modifying enzymes is huge. There are glycosyltransferases, methyltransferases, acyltransferases ... that can act on various flavonoids. Promiscuity of these enzymes is a major factor that leads to a plethora of different metabolites in plants.
+If you are new to flavonoids, you can get an introduction into the genes involved in the biosynthesis [here](https://doi.org/10.3390/plants9091103) or [here](https://doi.org/10.1186/s12870-025-08006-3). The biosynthesis is always displayed in a simplified way, because the number of modifying enzymes is huge. There are glycosyltransferases, methyltransferases, acyltransferases ... that can act on various flavonoids. Promiscuity of these enzymes is a major factor that leads to a plethora of different metabolites in plants.
 
 
 ### (34) Chokecherry pigmentation ###
@@ -497,12 +497,12 @@ Hydroxylation patterns and other modifications of the aglcyon distinguish betwee
 
 ### (45) KIPEs ###
 
-> **Post:** Starting 2022 with research on flavonoids? KIPEs can help you to find the flavonoid biosynthesis genes in your plant species of interest: [KIPEs paper](https://www.mdpi.com/2223-7747/9/9/1103/htm) #FlavonoidFriday
+> **Post:** Starting 2022 with research on flavonoids? KIPEs can help you to find the flavonoid biosynthesis genes in your plant species of interest: [KIPEs paper](https://doi.org/10.3390/plants9091103) #FlavonoidFriday
 
 <img alt="KIPEs (Tweet #45)" src="https://pbs.twimg.com/media/FGgOhLZXIAUJqTh?format=jpg&name=4096x4096" width="400">
-(Figure source: doi:[10.3390/plants9091103](https://www.mdpi.com/2223-7747/9/9/1103/htm))
+(Figure source: doi:[10.3390/plants9091103](https://doi.org/10.3390/plants9091103))
 
-[KIPEs](https://github.com/bpucker/KIPEs) can be applied to identify the genes of the flavonoid biosynthesis in a species with a new transcriptome/genome sequence assembly. This can be helpful to understand stress response or pigmentation patterns. Details are described in the corresponding publication ([Pucker et al., 2020](https://www.mdpi.com/2223-7747/9/9/1103/htm)).
+[KIPEs](https://github.com/bpucker/KIPEs) can be applied to identify the genes of the flavonoid biosynthesis in a species with a new transcriptome/genome sequence assembly. This can be helpful to understand stress response or pigmentation patterns. Details are described in the corresponding publication ([Pucker et al., 2020](https://doi.org/10.3390/plants9091103)).
 
 
 ### (46) Tomato fruit colours ###
