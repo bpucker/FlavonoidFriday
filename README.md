@@ -42,7 +42,7 @@ Fig. 3: KIPEs workflow. (source: [Rempel et al., 2023](https://doi.org/10.1371/j
 Accessions of many plant species lack anthocyanin pigmentation. This is often visible when flowers of individual plants appear white instead of red or blue. These evolutionary color changes are not randomly affecting genes in the anthocyanin biosynthesis, but are mostly affecting transcription factors. The most frequently affected transcription factor in the anthocyanin activating R2R3-MYB. Read more about this topic in a systematic assessment of available studies: [Recinos & Pucker, 2024](https://doi.org/10.1186/s12870-024-05316-w).
 
 <a href="https://doi.org/10.1186/s12870-024-05316-w">
-<img alt="Phylogenetic distribution of anthocyanin loss events" src="https://www.biorxiv.org/content/biorxiv/early/2023/11/10/2023.06.05.543820/F3.large.jpg?width=800&height=600&carousel=1"  width="600">
+<img alt="Phylogenetic distribution of anthocyanin loss events" src="https://github.com/bpucker/figures/blob/main/phylogenetic_distribution_antho_loss_MarinRecinos2024.png?raw=true"  width="600">
 </a>  
 
 Fig. 4: Phylogenetic distribution of anthocyanin loss events.
