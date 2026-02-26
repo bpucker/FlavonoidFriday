@@ -2,7 +2,7 @@
 This repository provides additional background to the #FlavonoidFriday posts. #FlavonoidFriday is maintained by the [PuckerLab](https://www.pbb.uni-bonn.de).
 
 ## Introduction ##
-The flavonoid biosnythesis is one of the best studied specialized metabolism pathways in plants. Flavonoids are produced by almost all land plants, but specific branches of this pathway are not present in all species. Flavonol biosynthesis, flavone biosynthesis, anthocyanin biosnythesis, and proanthocyanidin biosynthesis are some branches of the flavonoid biosynthesis. Products of these branches have different functions and the enzymes might compete for substrate when branches are active at the same time. Therefore, the gene expression of all players in this pathway is tightly regulated by a number of transcription factors (see Transcriptional Regulation). Fig. 1 provides a simplified overview of the flavonoid biosynthesis [(Pucker et al., 2020)](https://doi.org/10.3390/plants9091103)[Grünig et al., 2025](https://doi.org/10.1186/s12870-025-08006-3).
+The flavonoid biosnythesis is one of the best studied specialized metabolism pathways in plants. Flavonoids are produced by almost all land plants, but specific branches of this pathway are not present in all species. Flavonol biosynthesis, flavone biosynthesis, anthocyanin biosnythesis, and proanthocyanidin biosynthesis are some branches of the flavonoid biosynthesis. Products of these branches have different functions and the enzymes might compete for substrate when branches are active at the same time. Therefore, the gene expression of all players in this pathway is tightly regulated by a number of transcription factors (see Transcriptional Regulation). Fig. 1 provides a simplified overview of the flavonoid biosynthesis ([Pucker et al., 2020](https://doi.org/10.3390/plants9091103), [Grünig et al., 2025](https://doi.org/10.1186/s12870-025-08006-3)).
 
 
 <a href="https://doi.org/10.1186/s12870-025-08006-3">
@@ -13,10 +13,10 @@ The flavonoid biosnythesis is one of the best studied specialized metabolism pat
 Fig. 1: Simplified overview of the flavonoid biosynthesis. (source: [Grünig et al., 2025](https://doi.org/10.1186/s12870-025-08006-3))
 
 
-Flavonoids are transported from the site of biosynthesis (ER) into the central vacuole. Two potential flavonoid transport routes have been proposed: (1) transport across the tonoplast mediated by membrane-bound transport proteins and (2) vesicle-mediated transport with or without an involvement of the Golgi apparatus (Fig. 2, [Pucker & Selmar, 2022](https://www.mdpi.com/2223-7747/11/7/963/htm)).
+Flavonoids are transported from the site of biosynthesis (ER) into the central vacuole. Two potential flavonoid transport routes have been proposed: (1) transport across the tonoplast mediated by membrane-bound transport proteins and (2) vesicle-mediated transport with or without an involvement of the Golgi apparatus (Fig. 2, [Pucker & Selmar, 2022](https://doi.org/10.3390/plants11070963), [Grünig et al., 2025](https://doi.org/10.1186/s12870-025-08006-3)).
 
-<a href="https://www.mdpi.com/2223-7747/11/7/963/htm">
-<img alt="Intracellular flavonoid transport overview" src="https://www.mdpi.com/plants/plants-11-00963/article_deploy/html/images/plants-11-00963-g002.png" width="600">
+<a href="https://doi.org/10.1186/s12870-025-08006-3">
+<img alt="Intracellular flavonoid transport overview" src="https://github.com/bpucker/figures/blob/main/anthocyanin_transport_Gruenig2025.png?raw=true" width="600">
 </a>  
 
 Fig. 2: Simplified overview of the intracellular flavonoid transport. (source: [Pucker & Selmar, 2022](https://www.mdpi.com/2223-7747/11/7/963/htm))
@@ -30,7 +30,7 @@ While the flavonoid biosynthesis is present in (almost) all land plants, certain
 
 
 ### Automatic annotation of the flavonoid biosynthesis ###
-Do you have a new transcriptome and genome assembly of a plant species? If you are interested in studying the flavonoid biosynthesis, [KIPEs](https://github.com/bpucker/KIPEs) [(Pucker et al., 2020)](https://www.mdpi.com/2223-7747/9/9/1103/htm) could be helpful. KIPEs produces an annotation of the flavonoid biosynthesis players based on knowledge about the flavonoid biosynthesis in other species (Fig. 3). A table of the involved genes and phylogenetic trees of all players in the pathways can serve as basis to investigate the flavonoid biosynthesis in a new species. KIPEs is freely available for download via github. Additionally, we operate a web server for convenient use: [KIPEs web server](https://pbb-tools.de/KIPEs/). The latest version also enables the annotation of the carotenoid biosynthesis: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342).
+Do you have a new transcriptome and genome assembly of a plant species? If you are interested in studying the flavonoid biosynthesis, [KIPEs](https://github.com/bpucker/KIPEs) [(Pucker et al., 2020)](https://doi.org/10.3390/plants9091103) could be helpful. KIPEs produces an annotation of the flavonoid biosynthesis players based on knowledge about the flavonoid biosynthesis in other species (Fig. 3). A table of the involved genes and phylogenetic trees of all players in the pathways can serve as basis to investigate the flavonoid biosynthesis in a new species. KIPEs is freely available for download via github. Additionally, we operate a web server for convenient use: [KIPEs web server](https://pbb-tools.de/KIPEs/). The latest version also enables the annotation of the carotenoid biosynthesis: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342).
 
 <a href="https://doi.org/10.1371/journal.pone.0294342">
 <img alt="KIPEs3 workflow" src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0294342.g001"  width="300">
