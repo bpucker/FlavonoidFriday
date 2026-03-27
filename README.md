@@ -1029,11 +1029,11 @@ A recent study by [Prabhakar et al., 2025](https://doi.org/10.1101/2025.10.01.67
 
 
 ### (108) Anthocyanins - A Hot Topic in Plant Biology ###
-> **Post:** Excited about plant pigments? Anthocyanin biosynthesis is a hot topic in plant biology, judging by the growing number of publications #FlavonoidFriday
+> **Post:** Excited about plant pigments? Anthocyanin biosynthesis is a hot topic in plant biology, judging by the growing number of publications #FlavonoidFriday https://doi.org/10.20944/preprints202603.2058.v1 & https://shorturl.at/Hrm4c
 
 
 
-A recent review article by Choudhary et al. (2026) summarizes key insights from nearly 200 years of research on anthocyanins. It highlights open questions to guide future research on this biosynthetic pathway. The review covers topics ranging from classical biochemical and genetic research to recent large-scale studies based on genomics and transcriptomics. A particular focus is placed on evolutionary questions and the role of transcriptional regulation.
+A recent review article by [Choudhary et al. (2026)](https://doi.org/10.20944/preprints202603.2058.v1) summarizes key insights from nearly 200 years of research on anthocyanins. It highlights open questions to guide future research on this biosynthetic pathway. The review covers topics ranging from classical biochemical and genetic research to recent large-scale studies based on genomics and transcriptomics. A particular focus is placed on evolutionary questions and the role of transcriptional regulation.
 
 
 
