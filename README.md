@@ -1028,6 +1028,14 @@ A recent study by [Prabhakar et al., 2025](https://doi.org/10.1101/2025.10.01.67
 [Muralidhar et al., 2026](https://doi.org/10.64898/2026.02.24.707787 ) report that red pigmentation triggered by pathogen infection in certain flowering plants reflects an active defense response rather than merely a visual stress symptom. Using genetically related color mutants, it was shown that increased accumulation of anthocyanins—the pigments responsible for red and purple coloration—enhances resistance to the widespread fungal pathogen _Botrytis cinerea_. Comparative analyses suggest that this pigmentation-based immune strategy represents a conserved defensive mechanism across members of the Asteraceae plant family.
 
 
+### (108) Anthocyanins - A Hot Topic in Plant Biology ###
+> **Post:** Excited about plant pigments? Anthocyanin biosynthesis is a hot topic in plant biology, judging by the growing number of publications #FlavonoidFriday
+
+
+
+A recent review article by Choudhary et al. (2026) summarizes key insights from nearly 200 years of research on anthocyanins. It highlights open questions to guide future research on this biosynthetic pathway. The review covers topics ranging from classical biochemical and genetic research to recent large-scale studies based on genomics and transcriptomics. A particular focus is placed on evolutionary questions and the role of transcriptional regulation.
+
+
 
 ### FlavonoidFriday posts will become less frequent ###
 Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will decrease. Some classic publications will be posted again. Additionally, we are happy to share high quality findings once they get published.
