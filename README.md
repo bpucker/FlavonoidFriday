@@ -1037,6 +1037,15 @@ A recent review article by [Choudhary et al. (2026)](https://doi.org/10.20944/pr
 
 
 
+### (109) Dark pigmentation of _Tacca chantrieri_ ###
+> **Post:** Near-black flowers of Tacca chantrieri are connected to anthocyanin genes including a curious DFR twist #FlavonoidFriday https://doi.org/10.64898/2026.03.17.712415
+
+
+_Tacca chantrieri_ (the “black bat flower”) has showy flowers with unusually dark coloration. The explanation lies in anthocyanins, the same pigments responsible for reds and purples, but with some notable tweaks. A newly assembled genome sequence revealed key genes in the anthocyanin biosynthesis pathway ([de Oliveira & Pucker, 2026](https://doi.org/10.64898/2026.03.17.712415)). A standout finding is a variant of the enzyme dihydroflavonol 4-reductase (DFR) carrying an uncommon amino acid substitution that may shift which pigment precursors are produced. This kind of change might influence the final pigment profile and could contribute to the flower’s near-black appearance. More broadly, the study suggests that extreme pigmentation does not require entirely new pathways. Instead, subtle adjustments in enzyme function and pathway balance can push anthocyanin production toward much darker tones.
+
+
+
+
 ### FlavonoidFriday posts will become less frequent ###
 Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will decrease. Some classic publications will be posted again. Additionally, we are happy to share high quality findings once they get published.
 
