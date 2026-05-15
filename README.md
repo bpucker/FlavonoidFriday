@@ -1042,6 +1042,7 @@ A recent review article by [Choudhary et al. (2026)](https://doi.org/10.20944/pr
 ### (109) Dark pigmentation of _Tacca chantrieri_ ###
 > **Post:** Near-black flowers of Tacca chantrieri are connected to anthocyanin genes including a curious DFR twist #FlavonoidFriday https://doi.org/10.64898/2026.03.17.712415
 
+<img alt="Dark pigmentation of _Tacca chantrieri_" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreia37yqkpwbiwacechtklqqfctncu7zy7wb2q7wkvarkvytqryv3gy" width="400">
 
 _Tacca chantrieri_ (the “black bat flower”) has showy flowers with unusually dark coloration. The explanation lies in anthocyanins, the same pigments responsible for reds and purples, but with some notable tweaks. A newly assembled genome sequence revealed key genes in the anthocyanin biosynthesis pathway ([de Oliveira & Pucker, 2026](https://doi.org/10.64898/2026.03.17.712415)). A standout finding is a variant of the enzyme dihydroflavonol 4-reductase (DFR) carrying an uncommon amino acid substitution that may shift which pigment precursors are produced. This kind of change might influence the final pigment profile and could contribute to the flower’s near-black appearance. More broadly, the study suggests that extreme pigmentation does not require entirely new pathways. Instead, subtle adjustments in enzyme function and pathway balance can push anthocyanin production toward much darker tones.
 
