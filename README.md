@@ -61,6 +61,8 @@ Davies _et al._, 2024: The evolution of flavonoid biosynthesis. doi: [10.1098/rs
 
 Grünig _et al._, 2025: Diversity and Ecological Functions of Anthocyanins. doi: [10.1186/s12870-025-08006-3](https://doi.org/10.1186/s12870-025-08006-3).
 
+Choudhary et al., 2026: Almost 200 Years of Anthocyanin Research: What We Know, What We Assume, and What Remains Unknown. doi: [10.20944/preprints202603.2058.v1](https://doi.org/10.20944/preprints202603.2058.v1).
+
 
 ## Social media posts with addtional background ##
 
@@ -1042,6 +1044,13 @@ A recent review article by [Choudhary et al. (2026)](https://doi.org/10.20944/pr
 
 
 _Tacca chantrieri_ (the “black bat flower”) has showy flowers with unusually dark coloration. The explanation lies in anthocyanins, the same pigments responsible for reds and purples, but with some notable tweaks. A newly assembled genome sequence revealed key genes in the anthocyanin biosynthesis pathway ([de Oliveira & Pucker, 2026](https://doi.org/10.64898/2026.03.17.712415)). A standout finding is a variant of the enzyme dihydroflavonol 4-reductase (DFR) carrying an uncommon amino acid substitution that may shift which pigment precursors are produced. This kind of change might influence the final pigment profile and could contribute to the flower’s near-black appearance. More broadly, the study suggests that extreme pigmentation does not require entirely new pathways. Instead, subtle adjustments in enzyme function and pathway balance can push anthocyanin production toward much darker tones.
+
+
+
+### (110) Dark pigmentation of _Rubus armeniacus_ ###
+> **Post:** Dark pigmentation of black berry can be explained by high amounts of cyanidin-3-O-glucosides #FlavonoidFriday 
+
+A new study by [Wolff et al., 2026](https://doi.org/10.64898/2026.05.05.723051) on _Rubus armeniacus_ combines genome sequencing, transcriptomics, and metabolomics to explain why blackberries develop their deep dark color during ripening. A high-quality tetraploid genome assembly was generated and the activity of anthocyanin biosynthesis genes was traced across berry development. The key finding: ripe blackberries accumulate enormous amounts of the anthocyanin cyanidin-3-O-glucoside, with levels increasing roughly 500-fold from green to black fruit stages. The study also provides an important new genomic resource for the _Rubus_ genus and shows that anthocyanin-related MYB transcription factors become strongly activated during ripening, closely matching the dramatic color change of the fruit.
 
 
 
