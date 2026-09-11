@@ -1057,7 +1057,7 @@ A new study by [Wolff et al., 2026](https://doi.org/10.64898/2026.05.05.723051) 
 
 
 ### (111) Light-Dependent Anthocyanin Biosynthesis in _Utricularia gibba_ ###
-> **Post:** Activation of the anthocyanin biosynthesis in Utricularia gibba depends on nitrogen starvation and light exposure https://doi.org/10.64898/2026.08.27.747637 & XXXXXX
+> **Post:** Activation of anthocyanin biosynthesis in _Utricularia gibba_ depends on nitrogen starvation and light exposure #FlavonoidFriday https://doi.org/10.64898/2026.08.27.747637 & https://shorturl.at/Be9T2
 
 
 [Meckoni et al., 2026](https://doi.org/10.64898/2026.08.27.747637) reveal that nitrogen deficiency alone is insufficient to strongly activate anthocyanin biosynthesis in _Utricularia gibba_. The combination of nitrogen deprivation with light exposure activates the complete anthocyanin biosynthetic pathway and produces visible red trap coloration. Under nitrogen deprivation and light, the genes of the anthocyanin pathway are activated, supporting the conclusion that the red pigmentation is associated with increased anthocyanin production. In darkness, the anthocyanin biosynthesis remains largely inactive, and most anthocyanin biosynthetic genes do not show significant induction in response to nitrogen deficiency. In summary, this study suggests that anthocyanin accumulation in _U. gibba_ traps is controlled by an interaction between nutrient stress and light exposure, highlighting light-dependent regulation of the anthocyanin pathway.
