@@ -1056,6 +1056,13 @@ _Tacca chantrieri_ (the “black bat flower”) has showy flowers with unusually
 A new study by [Wolff et al., 2026](https://doi.org/10.64898/2026.05.05.723051) on _Rubus armeniacus_ combines genome sequencing, transcriptomics, and metabolomics to explain why blackberries develop their deep dark color during ripening. A high-quality tetraploid genome assembly was generated and the activity of anthocyanin biosynthesis genes was traced across berry development. The key finding: ripe blackberries accumulate enormous amounts of the anthocyanin cyanidin-3-O-glucoside, with levels increasing roughly 500-fold from green to black fruit stages. The study also provides an important new genomic resource for the _Rubus_ genus and shows that anthocyanin-related MYB transcription factors become strongly activated during ripening, closely matching the dramatic color change of the fruit.
 
 
+### (111) Light-Dependent Anthocyanin Biosynthesis in _Utricularia gibba_ ###
+> **Post:** Activation of the anthocyanin biosynthesis in Utricularia gibba depends on nitrogen starvation and light exposure https://doi.org/10.64898/2026.08.27.747637 & XXXXXX
+
+
+[Meckoni et al., 2026](https://doi.org/10.64898/2026.08.27.747637) reveal that nitrogen deficiency alone is insufficient to strongly activate anthocyanin biosynthesis in _Utricularia gibba_. The combination of nitrogen deprivation with light exposure activates the complete anthocyanin biosynthetic pathway and produces visible red trap coloration. Under nitrogen deprivation and light, the genes of the anthocyanin pathway are activated, supporting the conclusion that the red pigmentation is associated with increased anthocyanin production. In darkness, the anthocyanin biosynthesis remains largely inactive, and most anthocyanin biosynthetic genes do not show significant induction in response to nitrogen deficiency. In summary, this study suggests that anthocyanin accumulation in _U. gibba_ traps is controlled by an interaction between nutrient stress and light exposure, highlighting light-dependent regulation of the anthocyanin pathway.
+
+
 
 ### FlavonoidFriday posts will become less frequent ###
 Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will decrease. Some classic publications will be posted again. Additionally, we are happy to share high quality findings once they get published.
