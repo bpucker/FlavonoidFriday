@@ -13,7 +13,7 @@ The flavonoid biosnythesis is one of the best studied specialized metabolism pat
 Fig. 1: Simplified overview of the flavonoid biosynthesis. Source: [Grünig et al., 2025](https://doi.org/10.1186/s12870-025-08006-3).
 
 
-Flavonoids are transported from the site of biosynthesis (ER) into the central vacuole. Two potential flavonoid transport routes have been proposed: (1) transport across the tonoplast mediated by membrane-bound transport proteins and (2) vesicle-mediated transport with or without an involvement of the Golgi apparatus (Fig. 2, [Pucker & Selmar, 2022](https://doi.org/10.3390/plants11070963), [Grünig et al., 2025](https://doi.org/10.1186/s12870-025-08006-3)).
+Flavonoids are transported from the site of biosynthesis (ER) into the central vacuole. Two potential flavonoid transport routes have been proposed: (1) transport across the tonoplast mediated by membrane-bound transport proteins and (2) vesicle-mediated transport with or without an involvement of the Golgi apparatus (Fig. 2, [Pucker & Selmar, 2022](https://doi.org/10.3390/plants11070963), [Grünig et al., 2025](https://doi.org/10.1186/s12870-025-08006-3)). It is important to note that previously suggested GST is probably not involved in this process, because it has an enzymatic activity in the anthocyanin biosynthesis (Eichenberger et al., 2023).
 
 <a href="https://doi.org/10.1186/s12870-025-08006-3">
 <img alt="Intracellular flavonoid transport overview" src="https://github.com/bpucker/figures/blob/main/anthocyanin_transport_Gruenig2025.png?raw=true" width="600">
@@ -26,11 +26,11 @@ Fig. 2: Simplified overview of the intracellular flavonoid transport. Source: [P
 The sophisticated regulatory network of the flavonoid biosnythesis contains members of numerous transcription factor families. Among the important families are MYBs, bHLHs, WD40s, NACs, and WRKYs. Some MYBs, bHLHs, and WD40s form a complex which is called MBW. More information about the MYBs is available through the **[MybMonday](https://github.com/bpucker/MybMonday)**.
 
 ### Mutual Exclusion of Anthocyanins and Betalains ###
-While the flavonoid biosynthesis is present in (almost) all land plants, certain branches are not. One famemous example is the mutual exclusion of anthocyanins and betalains in the Caryophyllales. The yellow to red betalains are tyrosine-derived pigment group which replaced anthocyanins in several families of the Caryophyllales. Both pigments have never reported together in the same tissue and the same species. Please see [Timoneda *et al*., 2019](https://doi.org/10.1111/nph.15980) for a recent review of the complex pigment evolution in the Caryophyllales. Our latest publication on the topic explains why there are no anthocyanins in the betalain-pigmented Caryophyllales: [Pucker et al., 2024](https://doi.org/10.1111/nph.19341).
+While the flavonoid biosynthesis is present in (almost) all land plants, certain branches are not. One famous example is the mutual exclusion of anthocyanins and betalains in the Caryophyllales ([Pucker&Khan, 2026](https://doi.org/10.1111/plb.70254)). The yellow to red betalains are tyrosine-derived pigment group which replaced anthocyanins in several families of the Caryophyllales. Both pigments have never reported together in the same tissue and the same species. Please see [Timoneda *et al*., 2019](https://doi.org/10.1111/nph.15980) for a recent review of the complex pigment evolution in the Caryophyllales. Our latest publication on the topic explains why there are no anthocyanins in the betalain-pigmented Caryophyllales: [Pucker et al., 2024](https://doi.org/10.1111/nph.19341).
 
 
 ### Automatic annotation of the flavonoid biosynthesis ###
-Do you have a new transcriptome and genome assembly of a plant species? If you are interested in studying the flavonoid biosynthesis, [KIPEs](https://github.com/bpucker/KIPEs) [(Pucker et al., 2020)](https://doi.org/10.3390/plants9091103) could be helpful. KIPEs produces an annotation of the flavonoid biosynthesis players based on knowledge about the flavonoid biosynthesis in other species (Fig. 3). A table of the involved genes and phylogenetic trees of all players in the pathways can serve as basis to investigate the flavonoid biosynthesis in a new species. KIPEs is freely available for download via github. Additionally, we operate a web server for convenient use: [KIPEs web server](https://pbb-tools.de/KIPEs/). The latest version also enables the annotation of the carotenoid biosynthesis: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342).
+Do you have a new transcriptome and genome assembly of a plant species? If you are interested in studying the flavonoid biosynthesis, [KIPEs](https://github.com/bpucker/KIPEs) [(Pucker et al., 2020)](https://doi.org/10.3390/plants9091103) could be helpful. KIPEs produces an annotation of the flavonoid biosynthesis players based on knowledge about the flavonoid biosynthesis in other species (Fig. 3). A table of the involved genes and phylogenetic trees of all players in the pathways can serve as basis to investigate the flavonoid biosynthesis in a new species. KIPEs is freely available for download via GitHub. Additionally, we operate a web server for convenient use: [KIPEs web server](https://pbb-tools.de/KIPEs/). The latest version also enables the annotation of the carotenoid biosynthesis: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342).
 
 <a href="https://doi.org/10.1371/journal.pone.0294342">
 <img alt="KIPEs3 workflow" src="https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0294342.g001"  width="300">
@@ -38,7 +38,7 @@ Do you have a new transcriptome and genome assembly of a plant species? If you a
 
 Fig. 3: KIPEs workflow. Source: [Rempel et al., 2023](https://doi.org/10.1371/journal.pone.0294342).
 
-### Anthocyanin loss - a frequent event during evolution ###
+### Intraspecific anthocyanin loss - a frequent event during evolution ###
 Accessions of many plant species lack anthocyanin pigmentation. This is often visible when flowers of individual plants appear white instead of red or blue. These evolutionary color changes are not randomly affecting genes in the anthocyanin biosynthesis, but are mostly affecting transcription factors. The most frequently affected transcription factor in the anthocyanin activating R2R3-MYB. Read more about this topic in a systematic assessment of available studies: [Recinos & Pucker, 2024](https://doi.org/10.1186/s12870-024-05316-w).
 
 <a href="https://doi.org/10.1186/s12870-024-05316-w">
@@ -61,7 +61,7 @@ Davies _et al._, 2024: The evolution of flavonoid biosynthesis. doi: [10.1098/rs
 
 Grünig _et al._, 2025: Diversity and Ecological Functions of Anthocyanins. doi: [10.1186/s12870-025-08006-3](https://doi.org/10.1186/s12870-025-08006-3).
 
-Choudhary et al., 2026: Almost 200 Years of Anthocyanin Research: What We Know, What We Assume, and What Remains Unknown. doi: [10.20944/preprints202603.2058.v1](https://doi.org/10.20944/preprints202603.2058.v1).
+Choudhary et al., 2026: Almost 200 Years of Anthocyanin Research: What We Know, What We Assume, and What Remains Unknown. doi: [10.1111/plb.70283](https://doi.org/10.1111/plb.70283).
 
 
 ## Social media posts with addtional background ##
