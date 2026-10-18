@@ -1077,6 +1077,43 @@ A new study by [Wolff et al., 2026](https://doi.org/10.64898/2026.05.05.723051) 
 [Meckoni et al., 2026](https://doi.org/10.64898/2026.08.27.747637) reveal that nitrogen deficiency alone is insufficient to strongly activate anthocyanin biosynthesis in _Utricularia gibba_. The combination of nitrogen deprivation with light exposure activates the complete anthocyanin biosynthetic pathway and produces visible red trap coloration. Under nitrogen deprivation and light, the genes of the anthocyanin pathway are activated, supporting the conclusion that the red pigmentation is associated with increased anthocyanin production. In darkness, the anthocyanin biosynthesis remains largely inactive, and most anthocyanin biosynthetic genes do not show significant induction in response to nitrogen deficiency. In summary, this study suggests that anthocyanin accumulation in _U. gibba_ traps is controlled by an interaction between nutrient stress and light exposure, highlighting light-dependent regulation of the anthocyanin pathway.
 
 
+### (112) Almost 200 Years of Anthocyanin Research and Still Mysteries to Solve ###
+> **Post:** Anthocyanin biosynthesis remains a hot topic in plant biology despite nearly 200 years of research #FlavonoidFriday https://doi.org/10.1111/plb.70283 & XXXX
+
+Anthocyanins are a well-studied subclass of flavonoids that contribute to the red, purple, and blue colours of plants. Although almost 200 years of research have greatly advanced our understanding of anthocyanin biosynthesis, important questions about the pathway remain unanswered. [Choudhary et al., 2026](https://doi.org/10.1111/plb.70283) examine the evolution of anthocyanin biosynthesis and highlight unknowns and uncertainties that persist despite extensive research. This review emphasizes that revisiting established assumptions may reveal overlooked aspects of pathway evolution and regulation. Highlighting these knowledge gaps is crucial to improve our understanding of plant pigmentation and flavonoid diversity through future research.
+
+
+### (113) Out of the blue: family-wide loss of anthocyanin biosynthesis in Cucurbitaceae ###
+> **Post:**
+
+Anthocyanins are widespread plant pigments, but their biosynthesis is not universally conserved across flowering plants. [Choudhary et al., 2026](https://doi.org/10.1111/tpj.71136) searched for anthocyanin biosynthesis genes in Cucurbitaceae, a family that includes numerous crops like cucumber, melon, and pumpkin. A comparative analysis of 258 datasets representing 183 species across all 15 tribes revealed a systematic absence of key genes involved in anthocyanin and proanthocyanidin biosynthesis. In summary, these findings suggest that anthocyanin and proanthocyanidin biosynthesis pathways were lost early during cucurbit evolution, with carotenoids potentially taking over some pigmentation functions. This family-wide loss provides an excellent opportunity to investigate how biosynthesis pathways evolve and how plants achieve pigmentation through alternative metabolic routes.
+
+
+### (114) Genetic Switch Behind Cassava Pigmentation ###
+> **Post:** 
+
+Anthocyanins contribute to plant pigmentation and can also play roles in protection against environmental stress. In cassava (_Manihot esculenta_), intraspecific differences in anthocyanin pigmentation provide an opportunity to investigate the genetic regulation of anthocyanin biosynthesis. [Shittu & Pucker, 2026](https://doi.org/10.64898/2026.09.18.752618) use comparative genomics and phylogenetic analyses to identify candidate genes associated with these differences. The best candidate is a R2R3-MYB transcription factor, related to known anthocyanin biosynthesis activators, whose orthologs were absent from three cultivars without visible anthocyanin pigmentation but present in cultivars known to produce anthocyanins. These findings align with previous reports about intraspecific differences in anthocyanin pigmentation and reinforce the importance of transcriptional regulation in flavonoid biosynthesis.
+
+
+### (115) Mutual Exclusion of Anthocyanin and Betalain Biosynthesis ###
+> **Post:** 
+
+Anthocyanins and betalains are two groups of water-soluble plant pigments that contribute to pigmentation and are believed to have diverse physiological and ecological functions. Their biosynthetic pathways differ: anthocyanins are derived from phenylalanine through the phenylpropanoid pathway, whereas betalains originate from tyrosine. Their distribution shows a striking pattern of mutual exclusion, with betalains occurring only in certain families of the order Caryophyllales. These betalain-pigmented families do not display anthocyanin pigmentation. [Pucker & Khan, 2026](https://doi.org/10.1111/plb.70254) critically evaluate reports claiming that both pigment groups occur together, identifying methodological limitations and analytical misinterpretations that can lead to incorrect conclusions. The authors emphasize the need for rigorous analytical evidence when exploring pigmentation in the Caryophyllales.
+
+
+### (116) Moving Flavonoids: Transporters Boost Montbretin A Production ###
+> **Post:** 
+
+Montbretin A is a complex acylated flavonol glycoside being investigated as a potential treatment for type 2 diabetes due to its ability to block alpha-amylase. Its natural abundance in the roots of a plant is low, making the development of alternative production systems an important biotechnological objective. [Hijmans et al., 2026](https://doi.org/10.1111/pbi.70765) investigated whether transport processes limit montbretin production in engineered _Nicotiana benthamiana_ plants. Co-expression of certain tonoplast-localized ABCC transporters increased the accumulation of montbretins, including montbretin A, likely by facilitating their sequestration into the central vacuole. The results demonstrate how engineering metabolite transport can improve the production of valuable flavonoid-derived compounds in plants.
+
+
+### (117) _Muscari commutatum_ genome sequences reveal genetic basis of flower pigmentation ###
+> **Post:** 
+
+Flower colour diversity is an important feature of plant evolution. [de Oliveira et al., 2026](https://doi.org/10.64898/2026.09.18.752705) compare genome sequences from a anthocyanin-pigmented and a largely unpigmented individual of _Muscari commutatum_, a species known for its dark violet flowers. Most genes associated with flavonoid biosynthesis and its transcriptional regulation were identified in both genome sequences, but the gene encoding flavanone 3-hydroxylase (F3H) was not detected in the unpigmented individual. Further analysis suggested that the loss of _F3H_ may be associated with a genomic rearrangement. These findings highlight how changes in individual biosynthetic genes can contribute to flower colour variation.
+
+
+
 
 ### FlavonoidFriday posts will become less frequent ###
 Due to a lack of recent open access publications about the flavonoid biosynthesis, the frequency of posts will decrease. Some classic publications will be posted again. Additionally, we are happy to share high quality findings once they get published.
@@ -1084,27 +1121,4 @@ Due to a lack of recent open access publications about the flavonoid biosynthesi
 
 ## Contact ##
 Do you have a recent open access publication about the flavonoid biosynthesis that could be featured here? Please get in touch: [Boas Pucker (email)](mailto:pucker@uni-bonn.de?subject=[GitHub]FlavonoidFriday)
-
-
-## References ##
-
-<details>
-<summary>(click to expand)</summary>
-<p>
-Pucker, B., Reiher, F. and Schilbert, H. M. Automatic identification of players in the flavonoid biosynthesis with application on the biomedicinal plant Croton tiglium. Plants 2020, 9, 1103. doi:[10.3390/plants9091103](https://www.mdpi.com/2223-7747/9/9/1103/htm).
-
-Timoneda, A., Feng, T., Sheehan, H., Walker-Hale, N., Pucker, B., Lopez-Nieves, S., Guo, R., Brockington, S. (2019). The evolution of betalain biosynthesis in Caryophyllales. New Phytologist. doi:[10.1111/nph.15980](https://doi.org/10.1111/nph.15980)
-
-Susanna Pollastri, Massimiliano Tattini, Flavonols: old compounds for old roles, Annals of Botany, Volume 108, Issue 7, November 2011, Pages 1225–1233, doi:[10.1093/aob/mcr234](https://doi.org/10.1093/aob/mcr234)
-
-Landi, M. et al. "Multiple functional roles of anthocyanins in plant-environment interactions." Environmental and Experimental Botany 119 (2015): 4-17.
-
-Ahn-Jarvis, J.H.; Parihar, A.; Doseff, A.I. Dietary Flavonoids for Immunoregulation and Cancer: Food Design for Targeting Disease. Antioxidants 2019, 8, 202. doi:[10.3390/antiox8070202](https://doi.org/10.3390/antiox8070202)
-
-Sun, J., Lin, L.‐z. and Chen, P. (2012), Study of the mass spectrometric behaviors of anthocyanins in negative ionization mode and its applications for characterization of anthocyanins and non‐anthocyanin polyphenols. Rapid Commun. Mass Spectrom., 26: 1123-1133. doi:[10.1002/rcm.6209](https://doi.org/10.1002/rcm.6209)
-  
-Pucker, B. & Selmar, D. Biochemistry and Molecular Basis of Intracellular Flavonoid Transport in Plants. Plants 2022, 11, 963. doi:[10.3390/plants11070963](https://doi.org/10.3390/plants11070963)
-  
-</p>
-</details>
 
