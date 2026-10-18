@@ -1078,37 +1078,37 @@ A new study by [Wolff et al., 2026](https://doi.org/10.64898/2026.05.05.723051) 
 
 
 ### (112) Almost 200 Years of Anthocyanin Research and Still Mysteries to Solve ###
-> **Post:** Anthocyanin biosynthesis remains a hot topic in plant biology despite nearly 200 years of research #FlavonoidFriday https://doi.org/10.1111/plb.70283 & XXXX
+> **Post:** Anthocyanin biosynthesis remains a hot topic in plant biology despite nearly 200 years of research #FlavonoidFriday https://doi.org/10.1111/plb.70283 & https://shorturl.at/fCVcO
 
 Anthocyanins are a well-studied subclass of flavonoids that contribute to the red, purple, and blue colours of plants. Although almost 200 years of research have greatly advanced our understanding of anthocyanin biosynthesis, important questions about the pathway remain unanswered. [Choudhary et al., 2026](https://doi.org/10.1111/plb.70283) examine the evolution of anthocyanin biosynthesis and highlight unknowns and uncertainties that persist despite extensive research. This review emphasizes that revisiting established assumptions may reveal overlooked aspects of pathway evolution and regulation. Highlighting these knowledge gaps is crucial to improve our understanding of plant pigmentation and flavonoid diversity through future research.
 
 
 ### (113) Out of the blue: family-wide loss of anthocyanin biosynthesis in Cucurbitaceae ###
-> **Post:**
+> **Post:** Why are there no blue pumpkins? Anthocyanin biosynthesis genes are missing in the Cucurbitaceae thus explaining the lack of blue pigments #FlavonoidFriday https://doi.org/10.1111/tpj.71136 & https://shorturl.at/EBI2K
 
 Anthocyanins are widespread plant pigments, but their biosynthesis is not universally conserved across flowering plants. [Choudhary et al., 2026](https://doi.org/10.1111/tpj.71136) searched for anthocyanin biosynthesis genes in Cucurbitaceae, a family that includes numerous crops like cucumber, melon, and pumpkin. A comparative analysis of 258 datasets representing 183 species across all 15 tribes revealed a systematic absence of key genes involved in anthocyanin and proanthocyanidin biosynthesis. In summary, these findings suggest that anthocyanin and proanthocyanidin biosynthesis pathways were lost early during cucurbit evolution, with carotenoids potentially taking over some pigmentation functions. This family-wide loss provides an excellent opportunity to investigate how biosynthesis pathways evolve and how plants achieve pigmentation through alternative metabolic routes.
 
 
 ### (114) Genetic Switch Behind Cassava Pigmentation ###
-> **Post:** 
+> **Post:** A MYB transcription factor is the switch behind the cassava pigmentation difference #FlavonoidFriday https://doi.org/10.64898/2026.09.18.752618 & https://shorturl.at/zp0vP
 
 Anthocyanins contribute to plant pigmentation and can also play roles in protection against environmental stress. In cassava (_Manihot esculenta_), intraspecific differences in anthocyanin pigmentation provide an opportunity to investigate the genetic regulation of anthocyanin biosynthesis. [Shittu & Pucker, 2026](https://doi.org/10.64898/2026.09.18.752618) use comparative genomics and phylogenetic analyses to identify candidate genes associated with these differences. The best candidate is a R2R3-MYB transcription factor, related to known anthocyanin biosynthesis activators, whose orthologs were absent from three cultivars without visible anthocyanin pigmentation but present in cultivars known to produce anthocyanins. These findings align with previous reports about intraspecific differences in anthocyanin pigmentation and reinforce the importance of transcriptional regulation in flavonoid biosynthesis.
 
 
 ### (115) Mutual Exclusion of Anthocyanin and Betalain Biosynthesis ###
-> **Post:** 
+> **Post:** Anthocyanin and betalain pigmentation appears mutually exclusive in plants. Genetic engineering is needed to have both pigments in the same plant #FlavonoidFriday https://doi.org/10.1111/plb.70254 & https://shorturl.at/B7KTG
 
 Anthocyanins and betalains are two groups of water-soluble plant pigments that contribute to pigmentation and are believed to have diverse physiological and ecological functions. Their biosynthetic pathways differ: anthocyanins are derived from phenylalanine through the phenylpropanoid pathway, whereas betalains originate from tyrosine. Their distribution shows a striking pattern of mutual exclusion, with betalains occurring only in certain families of the order Caryophyllales. These betalain-pigmented families do not display anthocyanin pigmentation. [Pucker & Khan, 2026](https://doi.org/10.1111/plb.70254) critically evaluate reports claiming that both pigment groups occur together, identifying methodological limitations and analytical misinterpretations that can lead to incorrect conclusions. The authors emphasize the need for rigorous analytical evidence when exploring pigmentation in the Caryophyllales.
 
 
 ### (116) Moving Flavonoids: Transporters Boost Montbretin A Production ###
-> **Post:** 
+> **Post:** Heterologous production of montbretin A is boosted by enhanced transport into the vacuole #FlavonoidFriday https://doi.org/10.1111/pbi.70765 & https://shorturl.at/XFShm
 
 Montbretin A is a complex acylated flavonol glycoside being investigated as a potential treatment for type 2 diabetes due to its ability to block alpha-amylase. Its natural abundance in the roots of a plant is low, making the development of alternative production systems an important biotechnological objective. [Hijmans et al., 2026](https://doi.org/10.1111/pbi.70765) investigated whether transport processes limit montbretin production in engineered _Nicotiana benthamiana_ plants. Co-expression of certain tonoplast-localized ABCC transporters increased the accumulation of montbretins, including montbretin A, likely by facilitating their sequestration into the central vacuole. The results demonstrate how engineering metabolite transport can improve the production of valuable flavonoid-derived compounds in plants.
 
 
 ### (117) _Muscari commutatum_ genome sequences reveal genetic basis of flower pigmentation ###
-> **Post:** 
+> **Post:** _Muscari commutatum_ genome sequences reveals a putative flavanone 3-hydroxylase loss as genetic basis of anthocyanin pigmentation loss #FlavonoidFriday https://doi.org/10.64898/2026.09.18.752705 & https://shorturl.at/XdDz0
 
 Flower colour diversity is an important feature of plant evolution. [de Oliveira et al., 2026](https://doi.org/10.64898/2026.09.18.752705) compare genome sequences from a anthocyanin-pigmented and a largely unpigmented individual of _Muscari commutatum_, a species known for its dark violet flowers. Most genes associated with flavonoid biosynthesis and its transcriptional regulation were identified in both genome sequences, but the gene encoding flavanone 3-hydroxylase (F3H) was not detected in the unpigmented individual. Further analysis suggested that the loss of _F3H_ may be associated with a genomic rearrangement. These findings highlight how changes in individual biosynthetic genes can contribute to flower colour variation.
 
