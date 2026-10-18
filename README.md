@@ -47,6 +47,10 @@ Accessions of many plant species lack anthocyanin pigmentation. This is often vi
 
 Fig. 4: Phylogenetic distribution of anthocyanin loss events. Source: [Marin-Recinos & Pucker, 2024](https://doi.org/10.1186/s12870-024-05316-w).
 
+### Conservation of the anthocyanin biosynthesis during evolution ###
+While the anthocyanin biosynthesis is generally believed to be highly conserved during evolution, many recent findings question this long standing belief. For example, a rewiring occurred in the Poaceae, in which a different MYB transcription factor lineage is responsible for controlling the anthocyanin biosynthesis genes and the arGST function is fulfilled by Bz2, which is not an ortholog of An9 or TT19, but has been recruited independently ([Khatun et al., 2025](https://doi.org/10.1101/2025.09.21.677584)). The Caryophyllales are well known for the substitution of anthocyanin biosynthesis by betalains and the repeated loss of the anthocyanin biosynthesis ([Timoneda et al., 2019](https://doi.org/10.1111/nph.15980), [Pucker et al., 2024](https://doi.org/10.1111/nph.19341)).
+
+
 
 ### Recommended reviews about the flavonoid biosynthesis ###
 There are several excellent resources to get an overview of the flavonoid biosynthesis. This is an incomplete list:
