@@ -1080,6 +1080,9 @@ A new study by [Wolff et al., 2026](https://doi.org/10.64898/2026.05.05.723051) 
 ### (112) Almost 200 Years of Anthocyanin Research and Still Mysteries to Solve ###
 > **Post:** Anthocyanin biosynthesis remains a hot topic in plant biology despite nearly 200 years of research #FlavonoidFriday https://doi.org/10.1111/plb.70283 & https://shorturl.at/fCVcO
 
+<img alt="Almost 200 Years of Anthocyanin Research and Still Mysteries to Solve" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:bjzck6puj4zafmxm4it6yr6w/bafkreiepez4t3kfv6nsmxnw5443opqxmxyottf6wbnujcqiu2hus7ipgeq" width="400">
+
+
 Anthocyanins are a well-studied subclass of flavonoids that contribute to the red, purple, and blue colours of plants. Although almost 200 years of research have greatly advanced our understanding of anthocyanin biosynthesis, important questions about the pathway remain unanswered. [Choudhary et al., 2026](https://doi.org/10.1111/plb.70283) examine the evolution of anthocyanin biosynthesis and highlight unknowns and uncertainties that persist despite extensive research. This review emphasizes that revisiting established assumptions may reveal overlooked aspects of pathway evolution and regulation. Highlighting these knowledge gaps is crucial to improve our understanding of plant pigmentation and flavonoid diversity through future research.
 
 
